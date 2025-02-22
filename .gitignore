@@ -1,5 +1,5 @@
 .ipynb_checkpoints
 settings.json
 *.pdf
-pdf_files/
+#pdf_files/
 SELECTIVIDAD/
