@@ -1,6 +1,6 @@
 .ipynb_checkpoints
 settings.json
 desktop.ini
-#*.pdf
-#pdf_files/
+*.pdf
+pdf_files/
 SELECTIVIDAD/
