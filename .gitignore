@@ -5,3 +5,4 @@ desktop.ini
 pdf_files/
 SELECTIVIDAD/
 boot_credentials.py
+*.pyc
