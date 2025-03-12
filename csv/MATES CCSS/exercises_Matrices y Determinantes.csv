@@ -1,0 +1,955 @@
+subject,year,topic,exam,exercise,statement
+Mates CCSS,2001,Matrices Y Determinantes,Junio,Ejercicio 1 Opción B,"a) Determine los valores de x e y que hacen cierta la siguiente igualdad:
+G JCC -36)
+. . . - 13 01 -1
+b) Determine la matriz X de dimensión 2x2 tal que: X - —2 =
+25
+SOCIALES II. 2001. JUNIO. EJERCICIO 1. OPCIÓN B"
+Mates CCSS,2001,Matrices Y Determinantes,Reserva 1,Ejercicio 1 Opcion A,"1 x -
+Se considera la matriz A=| 1 1 1|.
+x x 0
+a) Calcule los valores de x para los que no existe la inversa de A.
+b) Para x =3, calcule, si es posible, A”'. .
+SOCIALES II. 2001 RESERVA 1. EJERCICIO 1. OPCION A"
+Mates CCSS,2001,Matrices Y Determinantes,Reserva 2,Ejercicio 1 Opción A,"Resuelva la siguiente ecuación matricial: A- X —2B = C, siendo:
+0 -1 2 1
+A=|1 01, B=
+1 10
+SOCIALES II. 2001 RESERVA 2. EJERCICIO 1. OPCIÓN A"
+Mates CCSS,2001,Matrices Y Determinantes,Reserva 3,Ejercicio 1 Opcion A,"01
+y B=|1 0|, razone si posee solución la ecuación matricial A- X =B y,
+1
+Siendo A =| 2
+101
+en caso afirmativo, resuélvala. .
+SOCIALES II. 2001 RESERVA 3. EJERCICIO 1. OPCION A"
+Mates CCSS,2002,Matrices Y Determinantes,Reserva 1,Ejercicio 1 Opcion A,"31
+Sean las matrices: A=|1 3|; B [x] ; C
+10 7
+Calcule x, y, z, sabiendo que A-B=2C-D.
+SOCIALES II. 2002 RESERVA 1. EJERCICIO 1. OPCION A"
+Mates CCSS,2002,Matrices Y Determinantes,Reserva 2,Ejercicio 1 Opcion A,". 2 -1 01 2 1 2 5
+Sean las matrices: A = ; B= ; C=
+3 — 1 1 - 34-
+a) Realice, cuando sea posible, los siguientes productos de matrices: A-B; B-C; C:A
+b) Resuelva la ecuación matricial: A-X + B =C.
+SOCIALES II. 2002 RESERVA 2. EJERCICIO 1. OPCION A"
+Mates CCSS,2002,Matrices Y Determinantes,Reserva 3,Ejercicio 1 Opción B,"10 —
+Sea la matriz A=|0 m -—6
+1 1 —m
+a) Determine para qué valores del parámetro m existeA:l . b) Calcule A7 para m =2.
+SOCIALES II. 2002 RESERVA 3. EJERCICIO 1. OPCIÓN B"
+Mates CCSS,2002,Matrices Y Determinantes,Reserva 4,Ejercicio 1 Opción A,"100 1
+Dada la matriz A=|1 1 0| determine, si existe, la matriz Y que verifique A- X =| 2
+101 3
+SOCIALES II. 2002 RESERVA 4. EJERCICIO 1. OPCIÓN A"
+Mates CCSS,2002,Matrices Y Determinantes,Septiembre,Ejercicio 1 Opción A,"Sea la matriz A=| 0
+m+1
+a) Calcule los valores de m para que dicha matriz tenga inversa.
+b) Haciendo m = 4, resuelva la ecuación matricial X - A = (3 1 1) .
+SOCIALES II. 2002. SEPTIEMBRE. EJERCICIO 1. OPCIÓN A"
+Mates CCSS,2003,Matrices Y Determinantes,Junio,Ejercicio 1 Opción B,". 12 4 3
+Sean las matrices M = y N=
+34 21
+a) Calcule la matriz A =M-M'-5M (M' indica la traspuesta de M).
+b) Calcule la matriz B = M y resuelva la ecuación N + X - M = M -B, donde Y es una matriz
+2x2.
+SOCIALES II. 2003. JUNIO. EJERCICIO 1. OPCIÓN B"
+Mates CCSS,2003,Matrices Y Determinantes,Reserva 1,Ejercicio 1 Opción B,". 3 m
+Sea la matriz A =
+l-m m+1
+a) Calcule los valores de m para que dicha matriz tenga inversa.
+b) Haciendo m = 0, resuelva la ecuación matricial A - X - A=17,, donde 7 es la matriz unidad de
+orden 2 y X es una matriz cuadrada de orden 2.
+SOCIALES II. 2003 RESERVA 1. EJERCICIO 1. OPCIÓN B"
+Mates CCSS,2003,Matrices Y Determinantes,Reserva 2,Ejercicio 1 Opción B,"Determine la matriz X, de orden 2, que verifica la igualdad:
+“l =l
+15) (-1
+1 211
+SOCIALES II. 2003 RESERVA 2. EJERCICIO 1. OPCIÓN B"
+Mates CCSS,2003,Matrices Y Determinantes,Reserva 3,Ejercicio 1 Opción A,"0 1
+SOCIALES II. 2003 RESERVA 3. EJERCICIO 1. OPCIÓN A"
+Mates CCSS,2003,Matrices Y Determinantes,Reserva 4,Ejercicio 1 Opción B,"1 3 —5
+Resuelva la ecuación: | 4 2+x x|=0
+-1 1 —3
+SOCIALES II. 2003 RESERVA 4. EJERCICIO 1. OPCIÓN B"
+Mates CCSS,2003,Matrices Y Determinantes,Septiembre,Ejercicio 1 Opción A,"2
+Sea la matriz A = [0 * ]
+x+2
+a) Halle los valores de x para los que se verifica A* =2A
+b) Para x=-1, halle A”'. Compruebe el resultado calculando A - A-'.
+SOCIALES II. 2003. SEPTIEMBRE. EJERCICIO 1. OPCIÓN A"
+Mates CCSS,2004,Matrices Y Determinantes,Junio,Ejercicio 1 Opción B,"1 —
+. 21 0 2 1
+Sean las matrices A = , B= , C=| 0 2
+0 2 - 22 2 0
+a) Calcule la matriz P que verificaB-P—-A=C'.
+b) Determine la dimensión de la matriz M para que pueda efectuarse el producto A-M-C
+c) Determine la dimensión de la matriz N para que C' -N sea una matriz cuadrada.
+SOCIALES II. 2004. JUNIO. EJERCICIO 1. OPCIÓN B"
+Mates CCSS,2004,Matrices Y Determinantes,Reserva 1,Ejercicio 1 Opcion A,", — 0 — 2 -1 2 -
+Sean las matrices A = , B= y C= .
+12 110 01 —
+a) Calcule (A—7,)-B, siendo 7, la matriz identidad de orden 2.
+b) Obtenga la matriz B' (matriz traspuesta de B) y calcule, si es posible, B' - A.
+ce) Calcule la matriz X que verifica A- X +B=C.
+SOCIALES II. 2004 RESERVA 1. EJERCICIO 1. OPCION A"
+Mates CCSS,2004,Matrices Y Determinantes,Reserva 2,Ejercicio 1 Opción A,"1 0
+Dada la matriz A =[ 1], halle 42*,
+SOCIALES II. 2004 RESERVA 2. EJERCICIO 1. OPCIÓN A"
+Mates CCSS,2004,Matrices Y Determinantes,Septiembre,Ejercicio 1 Opción B,"1
+De una matriz A se sabe que su segunda fila es (—1 2) y que su segunda columna es | 2 |. Halle
+—3
+111 0 0
+los restantes elementos de A sabiendo que -A= .
+201 0 —
+SOCIALES II. 2004. SEPTIEMBRE. EJERCICIO 1. OPCIÓN B"
+Mates CCSS,2005,Matrices Y Determinantes,Junio,Ejercicio 1 Opción A,"1 —
+. 2 1 1
+Sean las matrices A = y B=| 2 0
+-1 01 2 1
+a) Calcule la matriz C =B-A-4'-B'.
+2
+SOCIALES II. 2005. JUNIO. EJERCICIO 1. OPCIÓN A"
+Mates CCSS,2005,Matrices Y Determinantes,Reserva 3,Ejercicio 1 Opción A,"0 1
+. 2 13
+Sean las matrices: A = y B=|1 —
+1—.2 0
+1 1
+De las siguientes operaciones, algunas no se pueden realizar; razone por qué. Efectúe las que se
+puedan realizar.
+A+B;A' +B; A-B; A-B'
+SOCIALES II. 2005 RESERVA 3. EJERCICIO 1. OPCIÓN A"
+Mates CCSS,2005,Matrices Y Determinantes,Reserva 4,Ejercicio 1 Opción B,"-1 2
+Sean las matrices A = ; y B= .
+—y x 10
+a) Calcule, si existe, la matriz inversa de B.
+b)SiA-B=B-A y A+A'=3-1,,calculexey.
+SOCIALES II. 2005 RESERVA 4. EJERCICIO 1. OPCIÓN B"
+Mates CCSS,2005,Matrices Y Determinantes,Septiembre,Ejercicio 1 Opción A,". 13 2 -1
+Sean las matrices A = y B=
+01 0 x
+a) Determine el valor de x en la matriz B para que se verifique la igualdad: A-B=B-A
+b) Obtenga la matriz C tal que: A' -C =1,
+SOCIALES II. 2005. SEPTIEMBRE. EJERCICIO 1. OPCIÓN A"
+Mates CCSS,2006,Matrices Y Determinantes,Junio,Ejercicio 1 Opcion A,"x 1
+Sean las matrices: A =
+1 x+1
+a) Encuentre el valor o valores de x de forma que B” = A.
+b) Igualmente para que A-7,=B"""".
+c) Determine x para que A -B =1,.
+SOCIALES II. 2006 JUNIO. EJERCICIO 1. OPCION A"
+Mates CCSS,2006,Matrices Y Determinantes,Reserva 1,Ejercicio 1 Opción B,"Sean las matrices A = [
+10
+e
+a) Calcule A-'-(2B+37)).
+b) Determine la matriz X para que Y .- A=A+1,.
+SOCIALES II. 2006 RESERVA 1. EJERCICIO 1. OPCIÓN B"
+Mates CCSS,2006,Matrices Y Determinantes,Reserva 2,Ejercicio 1 Opción A,". 2 -1 1 —
+Sean las matrices A = y B= .
+2 0 2 4
+Calcule A-'.(B—4”).
+SOCIALES II. 2006 RESERVA 2. EJERCICIO 1. OPCIÓN A"
+Mates CCSS,2006,Matrices Y Determinantes,Reserva 3,Ejercicio 1 Opción B,"Sean las matrices:
+100
+A=|1 1 0);B
+301
+Calcule los valores de los números reales x , y , 7 , para que se verifique la siguiente igualdad
+entre matrices: E —x-A-B=y-C+z-D
+SOCIALES II. 2006 RESERVA 3. EJERCICIO 1. OPCIÓN B"
+Mates CCSS,2006,Matrices Y Determinantes,Reserva 4,Ejercicio 1 Opción A,", 2 2
+Sean las matrices: A= y B= (1 —1)
+—-5 4
+Explique qué dimensión debe tener la matriz X para que tenga sentido la ecuación matricial
+X-A+2B=(1 0). Resuelva dicha ecuación.
+SOCIALES II. 2006 RESERVA 4. EJERCICIO 1. OPCIÓN A"
+Mates CCSS,2007,Matrices Y Determinantes,Junio,Ejercicio 1 Opción A,"Sean las matrices A=| 0' 1 0|; X=l y
+—1 30 —2
+a) Determine la matriz inversa de A.
+b) Halle los valores de x, y, 7 para los que se cumple 4- X =Y .
+SOCIALES II. 2007. JUNIO. EJERCICIO 1. OPCIÓN A"
+Mates CCSS,2007,Matrices Y Determinantes,Reserva 1,Ejercicio 1 Opción A,", 21 1 x 0 —
+Sean las matrices A = , B= y C= .
+11 x 0 -1 2
+a) Encuentre el valor o valores de x de forma queB” = A.
+b) Igualmente para que B+C =4""'.
+c) Determine x para que A+B+C=3-1,.
+SOCIALES II. 2007. RESERVA 1. EJERCICIO 1. OPCIÓN A."
+Mates CCSS,2007,Matrices Y Determinantes,Reserva 2,Ejercicio 1 Opción A,"10
+Sea la matriz B = [1 b). Calcule el valor de b para que B* =1,.
+SOCIALES II. 2007. RESERVA 2. EJERCICIO 1. OPCIÓN A."
+Mates CCSS,2007,Matrices Y Determinantes,Reserva 3,Ejercicio 1 Opción A,"3
+32 25
+Dadas las matrices A = (2 4] =[ ] , resuelva la ecuación matricial A- Y +B'=B,
+donde Y es una matriz cuadrada de orden 2. .
+SOCIALES II. 2007. RESERVA 3. EJERCICIO 1. OPCIÓN A."
+Mates CCSS,2007,Matrices Y Determinantes,Reserva 4,Ejercicio 1 Opción A,". 102 —
+Sean las matrices A = , B= .
+2 10 5
+a) Calcule B-B' -A-A'.
+b) Halle la matriz X que verifica (A-A')- Y =B.
+SOCIALES II. 2007. RESERVA 4. EJERCICIO 1. OPCIÓN A."
+Mates CCSS,2007,Matrices Y Determinantes,Septiembre,Ejercicio 1 Opción B,"23 9
+Halle la matriz A que verifica: -A= .
+-1 s 28
+SOCIALES II. 2007. SEPTIEMBRE. EJERCICIO 1. OPCIÓN B"
+Mates CCSS,2008,Matrices Y Determinantes,Junio,Ejercicio 1 Opción A,". 02 a b
+Sean las matrices A = ; B= .
+30 61
+a) Calcule los valores de a y b para que A-B=B-:4A.
+b) Para a =1 y b=0, resuelva la ecuación matricial X -B—-A=1,.
+SOCIALES II. 2008. JUNIO. EJERCICIO 1. OPCIÓN A"
+Mates CCSS,2008,Matrices Y Determinantes,Reserva 1,Ejercicio 1 Opción A,"1
+a) Dada la matriz A = [a 0] , calcule el valor de a para que A? sea la matriz nula.
+a
+12
+b) Dada la matriz M = [1 J , calcule la matriz (M -'-M')*.
+SOCIALES II. 2008 RESERVA 1. EJERCICIO 1. OPCIÓN A"
+Mates CCSS,2008,Matrices Y Determinantes,Reserva 2,Ejercicio 1 Opción B,"Dadas las matrices F = (2 —1 3) y C= , Calcule los productos C - F y F-C.
+—2
+. 2 0 1 —3 1 — .
+b) Dadas las matrices A = 1 ; B= y C= 10 calcule la matriz X que
+—1 2 -
+verifique la ecuación Y - A'-B=C
+SOCIALES II. 2008 RESERVA 2. EJERCICIO 1. OPCIÓN B"
+Mates CCSS,2008,Matrices Y Determinantes,Reserva 3,Ejercicio 1 Opción B,"5 1
+a) Halle la matriz X que verifica la ecuación X - [1 3) = [2] —(3 4) .
+b) Determine los valores de x e y que cumplen la igualdad
+a -6 0
+SOCIALES II 2008. RESERVA 3. EJERCICIO 1. OPCIÓN B"
+Mates CCSS,2008,Matrices Y Determinantes,Reserva 4,Ejercicio 1 Opción B,"12 0 —
+Sean A y B las matrices siguientes: A = ; B=
+01 2 4
+a) Calcule (A +B)-(A-—B)
+b) Determine la matriz Y, cuadrada de orden 2, en la ecuación matricial (A +2B)- X =37,
+SOCIALES II. 2008. RESERVA 4. EJERCICIO 1. OPCIÓN B"
+Mates CCSS,2008,Matrices Y Determinantes,Septiembre,Ejercicio 1 Opción A,"1+
+a) Plantee y resuelva el sistema de ecuaciones dado por: (
+1 1
+b) Calcule la matriz inversa de | 0 0
+1 0
+0
+1
+2
+SOCIALES II. 2008 SEPTIEMBRE. EJERCICIO 1. OPCIÓN A"
+Mates CCSS,2009,Matrices Y Determinantes,Junio,Ejercicio 1 Opcion A,"Sea la igualdad A - X + B =, donde A, X y B son matrices cuadradas de la misma dimensión.
+a) Despeje la matriz X en la igualdad anterior, sabiendo que A tiene inversa.
+25
+b) Obtenga la matriz X en la igualdad anterior, siendo A = [1 3]
+SOCIALES II. 2009 JUNIO. EJERCICIO 1. OPCION A"
+Mates CCSS,2009,Matrices Y Determinantes,Reserva 4,Ejercicio 1 Opcion A,"-1 4 - -2 1 3
+Sean las matrices A=| 0 —1 0|, B=| 0 2 —-1|y C=
+3 1 2 10 1
+Determine Y en la ecuación matricial XY .- A—-2B=C.
+SOCIALES II. 2009 RESERVA 4. EJERCICIO 1. OPCION A"
+Mates CCSS,2009,Matrices Y Determinantes,Septiembre,Ejercicio 1 Opcion B,". 1 — 31
+Sean las matrices A = , B=
+0 2 -1 1
+a) Calcule A* y 2B+1,
+b) Resuelva la ecuación matricial A- Y —7, =2B*.
+SOCIALES II. 2009 SEPTIEMBRE. EJERCICIO 1. OPCION B"
+Mates CCSS,2010,Matrices Y Determinantes,Junio,Ejercicio 1 Opcion B,". 21 12
+Sean las matrices A = y B= .
+31 —1 0
+a) CalculeA' -B-A-B'.
+b) Resuelva la ecuación matricial AX + BA=B.
+SOCIALES II. 2010 JUNIO. EJERCICIO 1. OPCION B"
+Mates CCSS,2010,Matrices Y Determinantes,Reserva 1,Ejercicio 1 Opcion B,"a) Sean A, B y C matrices con 2, 3 y 2 filas, respectivamente. Sabiendo que el producto de
+matrices A-B-C es posible y que el resultado es una matriz con 4 columnas, halle las
+dimensiones de dichas matrices.
+1 —
+b) Halle la matriz X que verifica 1, -2X = A-(A—B'), siendo A= [2 J
+SOCIALES II. 2010 RESERVA 1. EJERCICIO 1. OPCION B"
+Mates CCSS,2010,Matrices Y Determinantes,Reserva 2,Ejercicio 1 Opcion A,"EMESTRADA
+U | EXÁMENES DE
+SELECTIVIDAD
+, al 1b 13
+Sean las matrices A = , B= y C= .
+0 2 03 25
+a) Halle los valores de a y b para que se verifique A-B+A-B'=C.
+b) ¿Existe algún valor de b para el que el producto B- B' sea igual a la matriz nula?.
+c) Para a=0.5 y b=1, halle la matriz X que verifica la igualdad A- Y +B=0, (0 representa
+la matriz nula).?.
+SOCIALES II. 2010 RESERVA 2. EJERCICIO 1. OPCION A"
+Mates CCSS,2010,Matrices Y Determinantes,Septiembre,Ejercicio 1 Opcion B,", 12 1185 e d 6
+Sean las matrices P = , 0= y R= .
+a 0 8 4b 10 10 50
+a) Calcule, si es posible, P -Q y 0-P , razonando la respuesta.
+b) ¿Cuánto deben de valer las constantes a, b, c y d para que P -20=R?.
+SOCIALES II. 2010 SEPTIEMBRE. EJERCICIO 1. OPCION B"
+Mates CCSS,2011,Matrices Y Determinantes,Junio,Ejercicio 1 Opcion A,", 2 —5 3—2
+Sean las matrices A = , , B= >
+—3 0 11
+a) Calcule A? -B-C'.
+b) Resuelva la ecuación matricial A- Y +B=2-C.
+SOCIALES I1. 2011 JUNIO. EJERCICIO 1. OPCION A"
+Mates CCSS,2011,Matrices Y Determinantes,Reserva 1,Ejercicio 1 Opcion B,"10 — 11
+operaciones tienen sentido y efectúa las que puedan realizarse: M+N', M'.N , M-N.
+b) Un industrial cafetero produce dos tipos de café, natural y descafeinado, en tres modalidades
+cada uno, A, B y C. Se han anotado en la matriz P los pesos, en Kg, del café que el industrial
+produce de cada una de las modalidades de cada tipo, y en la matriz Q los precios a los que
+vende el Kg de cada producto final:
+A B C A B Cc
+natural [550 400 240] natural [2.20 2.75 2.50]
+0 3 — 23 -1
+a) Dadas las matrices M =[ ) y N' =[ 0], razone cuáles de las siguientes
+260 200 100 =descafeinado 3.20 3.90 3.60
+Efectúe el producto P -Q' y explique el significado económico de cada uno de los elementos de
+la diagonal principal de la matriz resultante.
+SOCIALES II. 2011 RESERVA 1. EJERCICIO 1. OPCION B"
+Mates CCSS,2011,Matrices Y Determinantes,Reserva 2,Ejercicio 1 Opcion A,"010 ol11
+Sean las matricesC =|1 0 1 y D=11 01!
+110
+010
+a) Resuelva la ecuación matricial 2- Y —C-D=(1,+D)-C.
+b) Si las matrices C y D son las matrices de adyacencia de dos grafos, de vértices a, b, c y 1, 2, 3,
+respectivamente, haga la representación gráfica de dichos grafos.
+SOCIALES II. 2011 RESERVA 2. EJERCICIO 1. OPCION A"
+Mates CCSS,2011,Matrices Y Determinantes,Reserva 3,Ejercicio 1 Opcion A,"1 6
+a) Dada la matriz A=1 0 7 | , calcule (7, —A)*.
+0 1
+5
+1
+0
+b) Dadas las matrices B = [ J [_:1J , D=[150], determine a y b de manera que
+B-C-D=0 siendo O la matriz nula.
+SOCIALES II. 2011 RESERVA 3. EJERCICIO 1. OPCION A"
+Mates CCSS,2011,Matrices Y Determinantes,Reserva 4,Ejercicio 1 Opcion A,"a) De una matriz cuadrada, A, de orden 3 se conocen los siguientes elementos
+a,,=4, =-2 ; a,,=4,, =0 ;a,,=4,,=1
+Determine los demás elementos de la matriz A sabiendo que debe cumplirse la ecuación
+A-B=C',donde B =(1 —1 1) y C=(-4 2 —1).
+1 —-5
+b) Calcule 2D”, siendo D = [3 5J .
+SOCIALES II. 2011 RESERVA 4. EJERCICIO 1. OPCION A"
+Mates CCSS,2011,Matrices Y Determinantes,Septiembre,Ejercicio 1 Opcion B,", 010
+Sean las matrices A = 1
+3 -1
+B= .
+01 [1 J
+a) Efectúe, si es posible, los siguientes productos: A-A' ; A -A ; A-B.
+b) Resuelva la siguiente ecuación matricial A- A' - X =B.
+SOCIALES II. 2011 SEPTIEMBRE. EJERCICIO 1. OPCION B"
+Mates CCSS,2012,Matrices Y Determinantes,Junio,Ejercicio 1 Opcion B,"1 —
+Sea la matriz A = .
+2 -1
+a) Resuelva la ecuación matricial A- Y +A'=17,.
+b) ¿Qué requisitos mínimos debe cumplir una matriz B para que pueda efectuarse el producto
+A-B?.
+ce) ¿Y para el producto 3-B-A?.
+SOCIALES II. 2012 JUNIO. EJERCICIO 1. OPCION B"
+Mates CCSS,2012,Matrices Y Determinantes,Reserva 1,Ejercicio 1 Opcion A,". —1 -6 11 2 a 01
+Sean las matrices A = ; B= y C= .
+2 4 10 - 3 1b
+a) Halle los valores de a y b para que se verifique B-C' =.
+b) Resuelva la ecuación matricial A- Y —A*=1,.
+SOCIALES II. 2012. RESERVA 1. EJERCICIO 1. OPCION A"
+Mates CCSS,2012,Matrices Y Determinantes,Reserva 2,Ejercicio 1 Opcion B,"Los alumnos de 2* Bachillerato organizan una venta de pasteles para el viaje de fin de curso.
+Venden pasteles grandes, que necesitan 2 huevos, 5 terrones de azúcar y 100 g de harina cada
+uno, y pasteles pequeños, que necesitan 1 huevo, 3 terrones de azúcar y 80 g de harina cada
+uno.
+a) Presente en una matriz M, de dimensión 3x2, las cantidades de los elementos necesarios para
+la elaboración de un pastel grande y uno pequeño.
+b) Si desean fabricar 20 pasteles de una clase y 30 de otra, escriba las dos matrices columna,
+A ( 20 grandes y 30 pequeños) y B (30 grandes y 20 pequeños) que representan este reparto.
+c) Calcule los productos M:A y M'B e indique si con 8 docenas de huevos, 200 terrones de
+azúcar y 5 Kg de harina se pueden elaborar 20 pasteles grandes y 30 pequeños. ¿ Y 30 grandes y
+20 pequeños?.
+SOCIALES II. 2012 RESERVA 2. EJERCICIO 1. OPCION B"
+Mates CCSS,2012,Matrices Y Determinantes,Reserva 3,Ejercicio 1 Opcion A,"SELECTIVIDAD
+matrices:
+[a+3c b+3d
+>
+AÁX:AÍBC:[
+4c 4d
+11 101
+A= ; B=
+02 -1 14
+SOCIALES II. 2012. RESERVA 3. EJERCICIO 1. OPCION A"
+Mates CCSS,2012,Matrices Y Determinantes,Reserva 4,Ejercicio 1 Opcion A,"Una empresa vende tres artículos diferentes A, B y C, cada uno de ellos en dos formatos,
+grande y normal. En la matriz F se indican las cantidades de los tres artículos, en cada uno de
+los dos formatos, que ha vendido la empresa en un mes. En la matriz G se indican las
+ganancias, en euros, que obtiene la empresa por cada unidad que ha vendido de cada artículo
+en cada formato.
+A B C A BC
+F_grande [100 150 80] _ grande [6 8 5)
+200 250 140 — normal [4 53
+a) Efectúe los productos F '*.G y F-G'
+b) Indique en qué matriz se pueden encontrar las ganancias que ha recibido la empresa en ese
+mes por el total de las unidades vendidas de cada uno de los tres artículos y especifique cuáles
+son esas ganancias.
+c) Indique en qué matriz se pueden encontrar las ganancias que ha recibido la empresa en ese
+mes por el total de las unidades vendidas en cada uno de los dos formatos, especifique cuáles
+son esas ganancias y halle la ganancia total.
+SOCIALES II. 2012 RESERVA 4. EJERCICIO 1. OPCION A"
+Mates CCSS,2012,Matrices Y Determinantes,Septiembre,Ejercicio 1 Opcion B,"Una fábrica produce dos tipos de productos, A y B, que distribuye a tres clientes. En el mes de
+enero el primer cliente compró 9 unidades de A y 5 de B, el segundo cliente 3 de A y 7 de B, y el
+tercer cliente 4 de A y 6 de B.
+En el mes de febrero el primer cliente y el segundo duplicaron las compras del mes anterior, y
+el tercer cliente compró de cada producto una unidad más de las que compró en enero. En
+marzo el primer cliente no compró nada, y el segundo y el tercero compraron lo mismo que en
+febrero.
+a) Para cada mes construya la matriz de dimensión 3x2 correspondiente a las compras de ese
+mes.
+b) Calcule la matriz de compras del trimestre.
+C) Si los precios de los productos A y B son, respectivamente, 80 y 100 euros, calcule lo que
+factura la fábrica en el primer trimestre, por cada cliente y en total.
+SOCIALES II. 2012 SEPTIEMBRE EJERCICIO 1. OPCION B"
+Mates CCSS,2013,Matrices Y Determinantes,Junio,Ejercicio 1 Opcion A,"2
+Sean las matrices A = [
+a
+5 —
+a) Obtenga a y b sabiendo que A? =[ , 1] . ¿Es A simétrica?
+b) Para los valores a =3 y b=1 calcule la matriz X tal que A-B=2(X —37).
+SOCIALES II. 2013 JUNIO. EJERCICIO 1. OPCION A"
+Mates CCSS,2013,Matrices Y Determinantes,Reserva 1,Ejercicio 1 Opcion B,"1
+0
+0
+Sean las matrices A = [1
+a) Calcule A? y 4*.
+b) Resuelva la ecuación matricial A- Y +1,=5B'-4*.
+SOCIALES II. 2013. RESERVA 1. EJERCICIO 1. OPCION B"
+Mates CCSS,2013,Matrices Y Determinantes,Reserva 2,Ejercicio 1 Opción B,"20 -1
+Sean las matrices A=(1 -2 3),B 1|,0=11 1 -1
+13
+Resuelva, si es posible, la ecuación matricial B. A+2X =C.
+SOCIALES II. 2013 RESERVA 2. EJERCICIO 1. OPCIÓN B"
+Mates CCSS,2013,Matrices Y Determinantes,Reserva 3,Ejercicio 1 Opción A,". . 31 21
+a) Se consideran las matrices A = y B=
+52 32
+Determine la matriz Y que verifica B- Y =3A+4'.
+2 5
+b) Calcule la matriz Y que verifica | 1 —5|-Y =
+2 — —6
+SOCIALES II. 2013 RESERVA 3. EJERCICIO 1. OPCIÓN A"
+Mates CCSS,2013,Matrices Y Determinantes,Reserva 4,Ejercicio 1 Opción A,"3
+2
+Sean las matrices A = [3
+a) Calcule A*.
+b) Determine la matriz XY para que A-X+B-C=D
+SOCIALES II. 2013 RESERVA 4. EJERCICIO 1. OPCIÓN A"
+Mates CCSS,2013,Matrices Y Determinantes,Septiembre,Ejercicio 1 Opcion B,"Sean las matrices A =
+a) Resuelva la ecuación matricial (2A + B) - X =3A-—B.
+b) Determine en cada caso las dimensiones de la matriz D para que se puedan realizar las
+siguientes operaciones: C-D+A,C'-D-C , D-C' ,C-D-C'.
+SOCIALES II. 2013 SEPTIEMBRE EJERCICIO 1. OPCION B"
+Mates CCSS,2014,Matrices Y Determinantes,Junio, Ejercicio 1 Opcion A,"1
+Sean las matrices A = [0 , siendo a un número real cualquiera.
+a) Obtenga la matriz A?*,
+b) Para a =2, resuelva la ecuación matricial A*- X —4B=0.
+SOCIALES II. 2014. JUNIO . EJERCICIO 1. OPCION A"
+Mates CCSS,2014,Matrices Y Determinantes,Reserva 1,Ejercicio 1 Opcion A,". la
+Sean las matrices A = 01) B=(-1 1)
+a) Calcule el valor del parámetro a para que se verifique (B - A)' =A-B'.
+b) Para a =2, resuelva la ecuación matricial X - A=B
+SOCIALES II. 2014. RESERVA 1. EJERCICIO 1. OPCION A"
+Mates CCSS,2014,Matrices Y Determinantes,Reserva 2,Ejercicio 1 Opcion A,". —5 0
+Sean las matrices B =
+4 6
+-1 -8 —
+C=
+[-9 3 6)
+a) Determine la dimensión que debe de tener la matriz A para que se verifique la igualdad:
+A-B=2C'
+b) Halle la matriz A anterior, sabiendo que de ella se conocen los elementos
+a, =2,a,,=-3,4 ,, =1.
+SOCIALES II. 2014 RESERVA 2 EJERCICIO 1. OPCION A"
+Mates CCSS,2014,Matrices Y Determinantes,Reserva 3,Ejercicio 1 Opción B,"a) Determine los valores de x e y que hacen cierta la igualdad
+2 -1 x) _(1 x ) (3
+3 1) l-y) ly —-1) 10
+5 1 0)/13-1)
+SOCIALES II. 2014 RESERVA 3. EJERCICIO 1. OPCIÓN B"
+Mates CCSS,2014,Matrices Y Determinantes,Reserva 4,Ejercicio 1 Opción A,"; ; 2 1 3 —
+Se consideran las matrices A = y B= .
+3 — 1 4
+a) Efectúe la operación A-B'
+b) Determine la matriz X tal que A+2- X =B.
+6
+ce) Calcule la matriz Y, sabiendo que: B -Y = [9J
+SOCIALES II. 2014 RESERVA 4. EJERCICIO 1. OPCIÓN A"
+Mates CCSS,2014,Matrices Y Determinantes,Reserva 4,Ejercicio 1B Opción B,"Resuelva la ecuación matricial A- Y =2-(C—D'), siendo :
+SOCIALES II. 2014 RESERVA 4. EJERCICIO 1b. OPCIÓN B"
+Mates CCSS,2014,Matrices Y Determinantes,Septiembre,Ejercicio 1 Opcion A,". 1 -7 10
+Sean las matrices A = y B=
+2 - -5 2
+a) Calcule las matrices X e Y para las que se verifica:
+X+Y=A y 3X+Y=B
+b) Halle la matriz Z que verifica: B-Z+B' =21,.
+SOCIALES II. 2014 SEPTIEMBRE EJERCICIO 1. OPCION A"
+Mates CCSS,2015,Matrices Y Determinantes,Junio,Ejercicio 1 Opcion B,"Sean las matrices A = [
+a) Calcule las matrices X e Y si: X+Y =2A y X+B=2Y
+b) Analice cuáles de las siguientes operaciones con matrices se pueden realizar, indicando en los
+casos afirmativos las dimensiones de la matriz D.
+A+D=C A-D=C' D.A=C D.A=C""
+SOCIALES II. 2015 JUNIO EJERCICIO 1. OPCION B"
+Mates CCSS,2015,Matrices Y Determinantes,Reserva 1,Ejercicio 1 Opcion A,". 2 1 3 —
+Sean las matrices A = y B=
+3 — 1 4
+a) Efectúe la operación A-B'
+b) Determine la matriz X tal que A+2X =B
+6
+c) Halle la matriz Y tal que B-Y = [9J
+SOCIALES II. 2015 RESERVA 1 EJERCICIO 1. OPCION A"
+Mates CCSS,2015,Matrices Y Determinantes,Reserva 2,Ejercicio 1 Opcion A,"1 —1 2
+1 21
+Sean las matrices A=| 0 1 — ,B=[1 2 (J ,C=(2 1) ,D=(l —1 2)
+1 0 2
+a) Estudie cuáles de los siguientes productos de matrices se pueden realizar, indicando las
+dimensiones de la matriz resultante:
+A-B' C'.D B'-D D-B'
+b) Despeje la matriz Y en la ecuación Y - A '+2B=3C'-D, sin calcular sus elementos.
+e) Calcule la matriz A-(B'-2D'.C)
+SOCIALES II. 2015 RESERVA 2 EJERCICIO 1. OPCION A"
+Mates CCSS,2015,Matrices Y Determinantes,Reserva 3,Ejercicio 1 Opcion A,"Sean las matrices
+a) Resuelva la ecuación A- X+B-.X=C
+b) Calcule A* y A*
+SOCIALES II. 2015 RESERVA 3 EJERCICIO 1. OPCION A"
+Mates CCSS,2015,Matrices Y Determinantes,Reserva 4,Ejercicio 1 Opcion A,"21 1 —
+a) Resuelva la ecuación matricial -X+ =1,
+12 0 2
+1
+0
+b) Dadas las matrices M =[1 0
+b
+] y A =[Z 1] , Calcule los valores de a y b para que se
+verifique la ecuación M -A=4
+SOCIALES II. 2015 RESERVA 4 EJERCICIO 1. OPCION A"
+Mates CCSS,2015,Matrices Y Determinantes,Septiembre,Ejercicio 1 Opcion A,"—1 2 —1
+. 12 1
+Sean las matrices A = , B=
+a) Calcule 4?
+b) Resuelva la ecuación matricial: A- Y +4B=C'.
+SOCIALES II. 2015 SEPTIEMBRE EJERCICIO 1. OPCION A"
+Mates CCSS,2016,Matrices Y Determinantes,Junio,Ejercicio 1 Opcion A,"Las filas de la matriz P indican los respectivos precios de tres artículos A,, A, y A, en dos
+25 20 15
+23 25 17
+Cati desea comprar 2 unidades del artículo A,,1 de A, y3de A,
+comercios, C ¡ (fila 1) y C , (fila 2): P =(
+Manuel desea comprar 5 unidades del artículo A,, 1 de A, y 1 de A,
+213
+Han dispuesto esas compras en la matriz Q: Q = [5 1 1]
+a) Calcule P -Q' y Q-P' e indique el significado de los elementos de las matrices resultantes.
+b) A la vista de lo obtenido en el apartado anterior, ¿dónde les interesa hacer la compra a cada
+uno?
+SOCIALES II. 2016 JUNIO. EJERCICIO 1. OPCION A"
+Mates CCSS,2016,Matrices Y Determinantes,Reserva 1,Ejercicio 1 Opcion A,"1
+Sean las matrices A = (0
+a) Calcule A? y 4”.
+b) Resuelva la ecuación matricial A- X —B=C'.
+SOCIALES II. 2016. RESERVA 1. EJERCICIO 1. OPCION A"
+Mates CCSS,2016,Matrices Y Determinantes,Reserva 2,Ejercicio 1 Opcion A,"; 1 4 0
+Sean las matrices A = 0 =0 = .
+—3 —-3 1
+a) Resuelva la ecuación matricial C -B. X -2A-.X=4'.
+b) Analice cuáles de las siguientes operaciones, sin efectuarlas, se pueden realizar y justifique
+las respuestas: B.C+24A , A-C+C , B'-C , C-B-A.
+SOCIALES II. 2016. RESERVA 2. EJERCICIO 1. OPCION A"
+Mates CCSS,2016,Matrices Y Determinantes,Reserva 3,Ejercicio 1 Opcion B,". 2 4 1 01
+Sean las matrices A = y B=
+-2 —6 1—-—20
+1
+a) Resuelva la ecuación matricial X -(B B ') = EA_ 2A'.
+b) Razone cuáles de las siguientes operaciones pueden realizarse e indique, en su caso, la
+dimensión de la matriz resultante: A-B_—, A-B' , B.A-! , B'-A+A""!
+SOCIALES II. 2016. RESERVA 3. EJERCICIO 1. OPCION B"
+Mates CCSS,2016,Matrices Y Determinantes,Reserva 4,Ejercicio 1 Opcion A,"a) Si A es una matriz de dimensión m x 1, indique la dimensión de una matriz X si se verifica
+que (A' —A).X =1.
+1 1
+b) Calcule dicha matriz X en el caso en que A=|1 -1
+1 1
+€e) Calcule, si es posible, el producto A —(A "". A) .
+SOCIALES II. 2016. RESERVA 4. EJERCICIO 1. OPCION A"
+Mates CCSS,2016,Matrices Y Determinantes,Reserva 4,Ejercicio 1 Opcion B,". 30 —1
+Sean las matrices A = , B= (—2 3) y C= .
+12 —1
+a) Justifique cuáles de las siguientes operaciones se pueden realizar y en dichos casos calcule el
+resultado: A-B , B-A, B.C y C'-B'.
+b) Calcule la matriz X en la ecuación A- X +B'=4C.
+SOCIALES II. 2016. RESERVA 4. EJERCICIO 1. OPCION B"
+Mates CCSS,2016,Matrices Y Determinantes,Septiembre,Ejercicio 1 Opcion A,". 2 2 -1 3
+Sean las matrices A = , B= , C=
+—1 —-3 4 01
+a) Resuelva la ecuación matricial A?- Y +C =2B
+b) ¿Qué dimensiones deben tener las matrices ? y Q para que las matrices (B+C)-P y
+B-Q-C' sean cuadradas?.
+SOCIALES II. 2016 SEPTIEMBRE EJERCICIO 1. OPCION A"
+Mates CCSS,2017,Matrices Y Determinantes,Junio,Ejercicio 1 Opcion A,". 1 2 3 —
+Sean las matrices A = y B=
+0 — 0 2
+a) Calcule la matriz A ”7,
+b) ¿Se verifica la expresión (B + A)-(B—-A)=B""-4??.
+SOCIALES II. 2017. JUNIO. EJERCICIO 1. OPCION A"
+Mates CCSS,2017,Matrices Y Determinantes,Reserva 1,Ejercicio 1 Opción B,"0 1 —
+1 0
+. 1—-1 0 1
+Sean las matrices A = , B=|0 1| y C=
+2
+3 —
+—2
+a) Razone cuáles de las siguientes operaciones son posibles:
+A-B' B+3€ C-B' A-B+C
+b) Resuelva la ecuación matricial A-B- X =C
+SOCIALES II. 2017 RESERVA 1. EJERCICIO 1. OPCIÓN B"
+Mates CCSS,2017,Matrices Y Determinantes,Reserva 2,Ejercicio 1 Opción A,". 2 1 1 — —2 4
+Sean las matrices A = , B= , C=
+0 — 2 0 1 —
+a) Razone si se pueden efectuar las siguientes operaciones
+A.D+B.C D'-.B-A*
+b) Halle la matriz X que verifica la ecuación matricial A- Y =B-C.
+SOCIALES II. 2017 RESERVA 2. EJERCICIO 1. OPCIÓN A"
+Mates CCSS,2017,Matrices Y Determinantes,Reserva 3,Ejercicio 1 Opción A,". 2 4 —3 0
+Sean las matrices A = y B=
+1 — 01
+a) Calcule A?+B3*.
+b) Calcule Y en la ecuación matricial (A +B)- X =A-B.
+SOCIALES II. 2017 RESERVA 3. EJERCICIO 1. OPCIÓN A"
+Mates CCSS,2017,Matrices Y Determinantes,Septiembre,Ejercicio 1 Opcion A,". 101
+Sean las matrices A = y B=
+011 11
+a) Justifique cuales de las siguientes operaciones pueden realizarse y, en tal caso, calcule el
+resultado: A? ; A-B ; A-B ; A-B'
+b) Halle la matriz X tal que: A'+B-X =3B
+SOCIALES II. 2017 SEPTIEMBRE EJERCICIO 1. OPCION A"
+Mates CCSS,2018,Matrices Y Determinantes,Junio,Ejercicio 1 Opción B,"— 0 2
+Se consideran las matrices A = [ 1 2) y B= [0
+a) ¿Se verifica la igualdad (A+B)”? =A”?+B?+2A-B
+b) Resuelva la ecuación matricial Y - A=2B'+1 .
+SOCIALES II. 2018 JUNIO. EJERCICIO 1 OPCIÓN B"
+Mates CCSS,2018,Matrices Y Determinantes,Reserva 1,Ejercicio 1 Opción B,". 6 0 —-4
+Sean las matrices A = , B= y C= (—2 —2)
+2 4 6
+a) Justifique cuáles de las siguientes operaciones se pueden realizar y efectúelas cuando sea
+posible:
+B+2C-A A-—(B-C)'
+1
+b) Resuelva la ecuación matricial g(B +A-X)=C""
+SOCIALES II. 2018 RESERVA 1. EJERCICIO 1. OPCIÓN B"
+Mates CCSS,2018,Matrices Y Determinantes,Reserva 2,Ejercicio 1 Opción B,"Se consideran las matrices
+-1 2 1 21 3 1
+A= , B= y C=
+—-3 4 302 2 -1 —
+a) Razone qué dimensiones deben tener las matrices P y Q para que los productos (A-P-B') y
+(0:A-C) den como resultado una matriz cuadrada.
+b) Resuelva la ecuación matricial A- X —2B-C'=4?
+SOCIALES II. 2018 RESERVA 2. EJERCICIO 1 OPCIÓN B"
+Mates CCSS,2018,Matrices Y Determinantes,Reserva 3,Ejercicio 1 Opción B,"a) Resuelva el sistema de ecuaciones matriciales:
+72 4 3
+24-5B= ; 3A—B=
+78 4 —
+3 — 01
+b) Dadas las matrices C=[1 1] y D=[ , 2) , resuelva la ecuación matricial
+X.C-D*=1,
+SOCIALES II. 2018 RESERVA 3. EJERCICIO 1. OPCIÓN B"
+Mates CCSS,2018,Matrices Y Determinantes,Reserva 4,Ejercicio 1 Opción A,"- 23 1 1 (a
+a) Resuelva la ecuación matricial X= .
+1 -5 0 —1 1
+b) Si A es una matriz con tres filas y dos columnas, determine razonadamente la dimensión que
+deben tener las matrices B, C y D para que se puedan efectuar las siguientes operaciones:
+24-3B  A-A'-C? A-D
+SOCIALES II. 2018 RESERVA 4. EJERCICIO 1 OPCIÓN A"
+Mates CCSS,2018,Matrices Y Determinantes,Septiembre,Ejercicio 1 Opción B,", 1 0
+Sean las matrices A = 1
+_ 10 —
+-1 z1 0
+a) Calcule A ** + 477
+b) Resuelva la ecuación matricial Y .- A+B-B'=2A
+SOCIALES II. 2018 SEPTIEMBRE. EJERCICIO 1. OPCIÓN B"
+Mates CCSS,2019,Matrices Y Determinantes,Junio,Ejercicio 1 Opción B,"1
+Se considera la matriz A=| —2
+0
+a) Razone si la matriz A es simétrica.
+b) Calcule A”'.
+€) Resuelva la ecuación matricial 2X .- A—-A*-31,=0
+SOCIALES II 2019 JUNIO. EJERCICIO 1. OPCIÓN B"
+Mates CCSS,2019,Matrices Y Determinantes,Reserva 1,Ejercicio 1 Opcion B,"Se consideran las matrices:
+a) Justifique cuáles de las siguientes operaciones se pueden realizar y efectúelas cuando sea
+posible:
+A+B.C A-.C+B.D' B?+C.D A+D-C
+b) Resuelva la ecuación matricial X - (A +1 2) =3B'.
+SOCIALES II. 2019 RESERVA 1. EJERCICIO 1. OPCION B"
+Mates CCSS,2019,Matrices Y Determinantes,Reserva 2,Ejercicio 1 Opcion B,"Se consideran las matrices
+1
+2
+1
+4 2
+A=
+a) Resuelva la ecuación matricial A*Y =B?+1,.
+b) ¿Tiene inversa la matriz C? Justique la respuesta.
+SOCIALES II. 2019 RESERVA 2. EJERCICIO 1. OPCION B"
+Mates CCSS,2019,Matrices Y Determinantes,Reserva 3,Ejercicio 1 Opcion B,"Se consideran las matrices
+0
+0 1 — 2
+A= B=
+21 0 1 —3
+a) ¿Tiene inversa la matriz A-B—C? Justifique la respuesta y, en caso afirmativo, calcule
+(4-B-C)”.
+b) Resuelva la ecuación matricial A-B-X—C-X=C'.
+SOCIALES II. 2019 RESERVA 3. EJERCICIO 1. OPCION B"
+Mates CCSS,2019,Matrices Y Determinantes,Reserva 4,Ejercicio 1 Opcion B,"Se consideran las matrices
+2
+A=l11 B=13
+0
+1 -1 —
+a) Justifique que la matriz A tiene inversa y calcule A-'.
+b) Calcule, si existe, la matriz Y que satisface la ecuación matricial A- X =B.
+SOCIALES II. 2019 RESERVA 4. EJERCICIO 1. OPCION B"
+Mates CCSS,2019,Matrices Y Determinantes,Septiembre,Ejercicio 1 Opción A,". . 10 —
+Se consideran las matrices A = . 0
+a) Justifique cuáles de las siguientes afirmaciones son ciertas:
+1) A- A' es una matriz simétrica
+7 —12 16
+— 7 L
+2) A- A' +B posee inversa
+b) Resuelva la ecuación matricial B. Y+A=C
+SOCIALES II. 2019 SEPTIEMBRE. EJERCICIO 1. OPCIÓN A"
+Mates CCSS,2019,Matrices Y Determinantes,Ponencia,1,". 012 2 1
+Dadas las matrices A = y B= .
+123 0
+a) Calcule la inversa de (A-4').
+b) ¿Admite inversa la matriz (A' - A)?.
+e) Calcule, cuando sea posible: A-B—, B-A
+SOCIALES II. 2019 PONENCIA 1"
+Mates CCSS,2019,Matrices Y Determinantes,Ponencia,2,"m*+
+Consideremos la matriz A = [
+), siendo m un parámetro real. Se pide:
+m
+a) ¿Para qué valores del parámetro m existe la matriz inversa de A?
+b) Para m =0, calcule la matriz inversa de A.
+2
+c) Para m =0 en la matriz A, resuelva la ecuación matricial X - A=2C,siendo C = [4
+SOCIALES II. 2019 PONENCIA 2"
+Mates CCSS,2019,Matrices Y Determinantes,Ponencia,3,". . 1 1 —3 1
+Se consideran las matrices A = y B=
+—-2 — 0 1
+a) ¿Es invertible la matriz B+2/7,?. Justifique la respuesta y, en caso afirmativo calcule
+(B+21,)'
+b) Resuelva la ecuación matricial A?+ X -B+2X =3B'.
+SOCIALES II. 2019 PONENCIA 3"
+Mates CCSS,2019,Matrices Y Determinantes,Ponencia,4,"—1 —
+Dada la matriz A=| 2 4
+m 2 -
+a) Calcule su determinante y el valor o los valores del parámetro m para los que existe la
+inversa de la matriz A.
+b) Para m =-1, calcule A”.
+c) Resuelva la ecuación matricial A- Y =A+1,
+SOCIALES II. 2019 PONENCIA 4"
+Mates CCSS,2019,Matrices Y Determinantes,Ponencia,5,"-1
+1
+Se considera la ecuación matricial A- Y =A'-B, donde A=| 0
+1
+a) ¿Qué dimensiones debe tener la matriz X?.
+b) Resuelva la ecuación matricial A- X =A'-B
+SOCIALES II. 2019 PONENCIA 5"
+Mates CCSS,2019,Matrices Y Determinantes,Ponencia,6,"Se consideran las siguientes matrices A=|1 2 1 ;B=[O 1 0J;C= 0 1|;D=|10|.
+1—-1 0 3 0 3
+a) Indique razonadamente cuáles de las siguientes matrices posee inversa, calculando dicha
+inversa cuando sea posible: A, B, C -C'.
+b) Calcule, si existe, una matriz Y que satisfaga la ecuación A- X =D
+SOCIALES II. 2019 PONENCIA 6"
+Mates CCSS,2019,Matrices Y Determinantes,Ponencia,7,"1
+Dada la matriz A=| m
+1
+-1
+n
+1
+1
+12
+a) Obtenga los valores de m y n para que A coincida con su traspuesta y no tenga inversa.
+b) Para m =0 y n=3, obtenga A'.
+€) Para m =0 y n=3, resuelva la ecuación matricial Y - A+21,=4*
+SOCIALES II. 2019 PONENCIA 7"
+Mates CCSS,2019,Matrices Y Determinantes,Ponencia,$,"2 0O0 m
+Dada la matriz A=| 1 —1 0
+m 32
+a) Determine el valor de m para los que la matriz A no tiene inversa.
+b) Para m =0, obtenga A”'.
+SOCIALES II. 2019 PONENCIA $"
+Mates CCSS,2020,Matrices Y Determinantes,Junio,Ejercicio A1,"Sean A, B, Y, Y matrices invertibles que verifican: A- X =B y B-Y=4.
+a) (1 punto) Compruebe que Y ' = Y.
+2 1
+B= , halle X e Y.
+0 —1
+3
+SOCIALES II. 2020 JUNIO. EJERCICIO A1"
+Mates CCSS,2020,Matrices Y Determinantes,Reserva 1,Ejercicio A2,"Se consideran las matrices A=|a -1 —l B=|2 0
+3 0 —2a 1 —2
+a) (0%7 Puntos). Determine para qué valores de a tiene inversa la matriz A.
+b) (1 Punto). Para a =2, calcule la matriz inversa de A.
+€) (0%8 Puntos). Para a =0, resuelva la ecuación matricial X . A!-B-B'=1 .
+SOCIALES II. 2020 RESERVA 1. EJERCICIO A2"
+Mates CCSS,2020,Matrices Y Determinantes,Reserva 2,Ejercicio A2,". . 10 —-2 1 — .
+Se consideran las matrices A= , B=A:A' y C= , siendo a un
+al 0 1 0
+parámetro real.
+a) (0%75 puntos) ¿Para qué valores del parámetro a existe la inversa de la matriz B?
+b) (0?75 puntos) Para a =1, calcule la inversa de la matriz B.
+c) (1 punto) Para a =1, resuelva la ecuación matricial B'- X +9C=0.
+SOCIALES II. 2020 RESERVA 2. EJERCICIO A2"
+Mates CCSS,2020,Matrices Y Determinantes,Reserva 3,Ejercicio A2,"1 01
+: , —2 — —2 4
+Se consideran las matrices A=| k -3 2| B= 1 1 y C= 13
+1 kdA
+a) (0”8 puntos) Razone si las siguientes operaciones se pueden realizar y en aquellos casos en
+que sea posible, indique la dimensión de la matriz resultante:
+B.A , C.B , B.A+B , B*
+b) (0.7 puntos) Calcule los valores del parámetro k para los que la matriz A es invertible.
+e) (1 punto) Para X =—1, calcule la inversa de la matriz A.
+SOCIALES II. 2020 RESERVA 3. EJERCICIO A2"
+Mates CCSS,2020,Matrices Y Determinantes,Reserva 4,Ejercicio A1,"2 0 m
+Dada la matriz A=| 1 1 1
+m 3 5
+a) (0”8 Puntos). ¿Para qué valores del parámetro m tiene inversa la matriz A?.
+b) (17 Puntos). Para m =0, resuelva la ecuación matricial Y - A=4-4'.
+SOCIALES II. 2020 RESERVA 4. EJERCICIO A1"
+Mates CCSS,2020,Matrices Y Determinantes,Septiembre,Ejercicio A1,"Tres institutos piden presupuesto de alojamiento en Roma en dos agencias de viajes, que les
+dan el precio por noche según tipo de habitación, individual, doble y triple.
+La primera agencia ofrece los siguientes precios: individual a 65 euros, doble a 85 euros y triple
+a 104 euros. La segunda agencia oferta la individual a 78 euros, la doble a 83 euros y la triple a
+106 euros. El primer instituto necesita tres habitaciones individuales, quince dobles y dos
+triples, el segundo dos individuales, doce dobles y cinco triples y el tercer instituto una
+individual, dieciséis dobles y siete triples.
+a) (1 punto) Exprese, mediante una matriz A, los precios de las dos agencias según el tipo de
+habitación y con otra matriz D la demanda de los tres individuos.
+b) (1 punto) Mediante operaciones con las matrices anteriores, calcule el precio por noche que
+cada agencia facilita a los distintos institutos por el total de habitaciones solicitadas. ¿Qué
+agencia le interesa a cada instituto?
+c) (0”5 puntos) ¿Existe inversa de la matriz D? ¿Y de la matriz A? Justifique las respuestas.
+SOCIALES II. 2020 SEPTIEMBRE EJERCICIO A1"
+Mates CCSS,2021,Matrices Y Determinantes,Junio,Ejercicio A2,"1 — m
+Se considera la matriz A=| 0 2 —3 |,conm un parámetro real.
+m 1 1
+a) ¿Para qué valores del parámetro m existe la matriz inversa de A?.
+b) Para m=2, resuelva la ecuación matricial Y . A—A?=1,.
+SOCIALES II. 2021 JUNIO. EJERCICIO A2"
+Mates CCSS,2021,Matrices Y Determinantes,Reserva 1,Ejercicio A2,"101 10 2
+Se consideran las matrices A=|0 1 0| ; B=11 1 11; C
+101 21 0 1
+a) Calcule A?,A*,A* y deduzca la expresión de A ”, con 7 un número natural
+b) Razone si existe la inversa de la matriz B.
+c) Razone si la ecuación matricial B- X =C tiene solución y resuélvala en caso de que sea
+posible.
+SOCIALES II. 2021 RESERVA 1. EJERCICIO A2"
+Mates CCSS,2021,Matrices Y Determinantes,Reserva 2,Ejercicio A2,"8 33
+a) Calcule el valor del parámetro a para que la matriz A no tenga inversa.
+b) Para a =3, resuelva la ecuación matricial X. A—-X.-B=C
+: . a 4 22
+Se consideran las matrices A = 6 , B= y» C =(1 2)
+e) Para a =3, compruebe que A? =11- A y exprese A* en función de la matriz A.
+SOCIALES II. 2021 RESERVA 2. EJERCICIO A2"
+Mates CCSS,2021,Matrices Y Determinantes,Reserva 3,Ejercicio A2,"Se considera la ecuación matricial (101 ; —A)- X =B, donde A= y B es una matriz
+con tres filas y una columna.
+a) Razone qué dimensión ha de tener la matriz Y.
+b) ¿Tiene solución la ecuación matricial anterior para cualquier matriz B de orden 3x1?. ¿Por
+qué?.
+€) Resuelva dicha ecuación matricial si B = (5 20 —3) -
+SOCIALES II. 2021 RESERVA 3. EJERCICIO A2"
+Mates CCSS,2021,Matrices Y Determinantes,Reserva 4,Ejercicio A1,"10
+Se considera la matriz A =[ 1 J
+a) Calcule Aººy(A')º0
+b) Caleule (4'+4)”
+c) Resuelva la ecuación matricial (A “+I1 2)— X=A'-1,
+SOCIALES II. 2021 RESERVA 4. EJERCICIO A1"
+Mates CCSS,2021,Matrices Y Determinantes,Julio,Ejercicio A1,"SELECTIVIDAD
+210
+Se considera la matriz A=|1 0 2
+0 2a
+a) Determine para qué valores del parámetro a, la matriz A tiene inversa.
+b) Para a =1, calcule la inversa de A
+ce) Para a =1, resuelva la ecuación matricial A- Y =B', siendo B= (0 1 —1) .
+SOCIALES II. 2021 JULIO. EJERCICIO A1"
+Mates CCSS,2022,Matrices Y Determinantes,Junio,Ejercicio A2,"10
+Se consideran las matrices A = a lt, B=(2 —1 0) , C=(1 3 —1)
+41
+Donde a es un número real.
+a) Halle los valores del parámetro a para que la matriz A tenga inversa.
+b) Para a =2, calcule la matriz inversa de A
+€) Para a=2, resuelva la ecuación matricial X - A+7,=B'-.C
+SOCIALES II. 2022 JUNIO. EJERCICIO A2"
+Mates CCSS,2022,Matrices Y Determinantes,Reserva 1,Ejercicio A1,"2 -3 —a—1
+Considere la matriz A=| -1 a+1
+Donde a es un número real. Determine de manera justificada:
+a) Los valores de a para los que la matriz A tiene inversa.
+b) Las matrices A?, A* y A* para a=4
+c) La matriz X que verifica que X - A=1, para a=3.
+SOCIALES II. 2022 RESERVA 1. EJERCICIO A1"
+Mates CCSS,2022,Matrices Y Determinantes,Reserva 2,Ejercicio A2,"Se consideran las matrices A=18 a 0| y B= , donde a es un número real
+0 0a
+a) Determine los valores de a para que la matriz A no sea invertible.
+b) Para a =5, calcule la inversa de la matriz A.
+) Para a =5, resuelva la ecuación matricial A- X =B.
+SOCIALES II. 2022 RESERVA 2. EJERCICIO A2"
+Mates CCSS,2022,Matrices Y Determinantes,Reserva 3,Ejercicio A1,"Se consideran las matrices: A=| -1 -1 1 B=|-1 —
+210 1 —1
+a) Razone si se pueden efectuar las siguientes operaciones y realice las que sean posibles:
+CA A+B CB
+b) Resuelva la ecuación matricial A- X =B-X+C.
+SOCIALES II. 2022 RESERVA 3. EJERCICIO A1"
+Mates CCSS,2022,Matrices Y Determinantes,Julio,Ejercicio A1,"2 —2
+Se consideran las matrices A=|-2 7.»0 1d1|, B=| 31
+0 — —
+a) Determine la matriz Y que verifica A- Y +B=4?.C.
+b) Determine las dimensiones de dos matrices P y Q sabiendo que A-P' +C =C :(0-B).
+SOCIALES II. 2022 JULIO. EJERCICIO A1"
+Mates CCSS,2023,Matrices Y Determinantes,Junio,Ejercicio A2,"a 2 1 2 -1
+Dadas las matrices A =| 0 B=[ _J C=11 -1
+a -1
+0 1 2 0
+a) Calcule los valores del parámetro a para los que tanto A como B admitan inversa.
+b) Para a =1, halle una matriz X que satisfaga A- X -B=C.
+SOCIALES II. 2023 JUNIO. EJERCICIO A2"
+Mates CCSS,2023,Matrices Y Determinantes,Reserva 1,Ejercicio A1,"a) Un agricultor vende la producción de tres tipos de uva, Tempranillo, Garnacha y Macabeo,
+50 40 35
+0 60 55
+de estos tipos de uva en cada finca. El precio de venta por kilogramo, en céntimos de euro, según
+40 38 42)
+de dos de sus fincas. La matriz Q =[ J recoge la producción, en miles de kilogramos,
+34 37 40
+Calcule el producto Q-P' y explique el significado económico de los elementos de la diagonal
+principal del resultado. Indique también la cantidad total de dinero que ha obtenido el agricultor
+por la venta de la cosecha de las dos fincas.
+b) Dada la siguiente ecuación matricial M- X +N=V:
+b.1) Suponiendo que M sea invertible, despeje la matriz X de la ecuación anterior
+el tipo de uva y la finca, viene dado por la matriz P = [
+10 54 87 .
+b.2) Para M = 1 ,N = yV= 5) calcule la matriz X.
+1 32
+SOCIALES II. 2023 RESERVA 1. EJERCICIO A1"
+Mates CCSS,2023,Matrices Y Determinantes,Reserva 2,Ejercicio A1,"Una conservera fabrica latas de pisto con tomate, cebolla y pimiento siguiendo dos recetas
+500 300 200
+600 100 300
+conseguir una lata de cada receta. Se dispone de dos proveedores, siendo la matriz de precios en
+0'5 0'4 0'6
+0'4 0'5 0'7
+euros por lata vienen dados por la matriz (0'11 0'09) . Los costes de transporte en euros por
+distintas. La matriz [
+] indica los gramos necesarios de cada producto para
+euros por kilo de cada producto [ ] . Los costes de producción de cada receta en
+lata según cada proveedor vienen dados por la matriz (0'02 0'03) . La conservera quiere
+obtener un beneficio de 5 céntimos por lata. Una distribuidora compra 11000 latas de la
+primera receta, siendo 5000 del primer proveedor, y otras 11000 de la segunda receta, siendo
+6000 del primer proveedor. ¿Cuánto debe cobrar la conservera por el pedido de esta
+distribuidora.
+SOCIALES II. 2023 RESERVA 2. EJERCICIO A1"
+Mates CCSS,2023,Matrices Y Determinantes,Reserva 3,Ejercicio A2,"a) Se considera la matriz A=| 0
+1 m
+a.1) Obtenga para qué valores de m la matriz A tiene inversa.
+a.2) Calcule, en caso de existir, la inversa de A para m =1.
+b) Despeje y simplifique Y en la ecuación Y -B—-B”+B=0, sabiendo que la matriz B es
+invertible.
+SOCIALES II. 2023 RESERVA 3. EJERCICIO A2"
+Mates CCSS,2023,Matrices Y Determinantes,Reserva 4,Ejercicio A2,"Se consideran las matrices A=|7 10 Z€4| B=1-2 0 1H
+0 3 - 0 4 -7
+a) Halle las dimensiones de las siguientes matrices: C'.-A-C , A-C-C'-B
+b) Calcule, en caso de existir, las matrices inversas de A y B.
+2X+3Y =A
+—3X+4Y =B""
+SOCIALES II. 2023 RESERVA 4. EJERCICIO A2"
+Mates CCSS,2023,Matrices Y Determinantes,Julio,Ejercicio A1,"1
+Se considera la matriz A=| 0
+a) Pruebe que se verifica que: A-' = %(A2 —4A+513) .
+1 2
+3 —
+b) Dada la ecuación matricial X'.A =[
+0
+J , determine la dimensión de X y resuelva la
+ecuación.
+SOCIALES II. 2023 JULIO. EJERCICIO A1"
