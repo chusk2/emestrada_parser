@@ -1,5 +1,5 @@
 subject,year,topic,exam,exercise,statement
-Mates CCSS,2001,Programación Lineal,Junio,Ejercicio 1 Opción A,"Para fabricar dos tipos de cable, A y B, que se venderán a 0”9 € y 0% € el metro,
+MATES_CCSS,2001,Programación Lineal,Junio,Ejercicio 1 Opción A,"Para fabricar dos tipos de cable, A y B, que se venderán a 0”9 € y 0% € el metro,
 respectivamente, se emplean 16 Kg de plástico y 4 Kg de cobre para cada Hm del tipo A y 6 Kg
 de plástico y 12 Kg de cobre para cada Hm del tipo B.
 Sabiendo que la longitud de cable fabricado del tipo B no puede ser mayor que el doble de la
@@ -7,7 +7,7 @@ del tipo A y que, además, no pueden emplearse más de 252 Kg de plástico ni m�
 cobre, determine la longitud, en Hm, de cada tipo de cable que debe fabricarse para que la
 cantidad de dinero obtenida en su venta sea máxima.
 SOCIALES II. 2001 JUNIO. EJERCICIO 1 OPCIÓN A."
-Mates CCSS,2001,Programación Lineal,Reserva 1,Ejercicio 1 Opción B,"x—-y-2<0
+MATES_CCSS,2001,Programación Lineal,Reserva 1,Ejercicio 1 Opción B,"x—-y-2<0
 Sea el recinto definido por las siguientes inecuaciones: 3x +4y —20<0
 x>0
 y>0.
@@ -15,14 +15,14 @@ a) Dibuje dicho recinto y determine sus vértices.
 b) Determine en qué punto de ese recinto alcanza la función F(x,y)=4x+3y el máximo
 valor.
 SOCIALES II. 2001 RESERVA 1. EJERCICIO 1 OPCIÓN B."
-Mates CCSS,2001,Programación Lineal,Reserva 2,Ejercicio 1 Opción B,"xX+)y
+MATES_CCSS,2001,Programación Lineal,Reserva 2,Ejercicio 1 Opción B,"xX+)y
 Sea el conjunto de restricciones siguiente:
 YX
 a) Dibuje la región factible determinada por dichas restricciones. b) Calcule los vértices de
 dicha región. c) Obtenga los puntos en los que la función objetivo F (x, y)= x+2y presenta el
 máximo y el mínimo.
 SOCIALES II. 2001 RESERVA 2. EJERCICIO 1 OPCIÓN B."
-Mates CCSS,2001,Programación Lineal,Reserva 3,Ejercicio 1 Opción B,"Represente gráficamente el recinto definido por el siguiente sistema de inecuaciones:
+MATES_CCSS,2001,Programación Lineal,Reserva 3,Ejercicio 1 Opción B,"Represente gráficamente el recinto definido por el siguiente sistema de inecuaciones:
 2x+y 18
 2x+3y 26
 xX+y 16
@@ -30,25 +30,25 @@ x>0 ; y>0
 a) Calcule los vértices de ese recinto. b) Obtenga en dicho recinto el valor máximo y el mínimo
 de la función F (x, y) = 5x + 3y . Diga en que puntos se alcanzan.
 SOCIALES II. 2001 RESERVA 3. EJERCICIO 1 OPCIÓN B."
-Mates CCSS,2001,Programación Lineal,Reserva 4,Ejercicio 1 Opción A,"Se quiere organizar un puente aéreo entre dos ciudades, con plazas suficientes de pasaje y
+MATES_CCSS,2001,Programación Lineal,Reserva 4,Ejercicio 1 Opción A,"Se quiere organizar un puente aéreo entre dos ciudades, con plazas suficientes de pasaje y
 carga, para transportar 1600 personas y 96 toneladas de equipaje. Los aviones disponibles son
 de dos tipos: 11 del tipo A y $ del tipo B. La contratación de un avión del tipo A cuesta 24.000 €
 y puede transportar 200 personas y 6 toneladas de equipaje; la contratación de uno del tipo B
 cuesta 6.000 € y puede transportar 100 personas y 15 toneladas de equipaje. ¿Cuántos aviones
 de cada tipo deben utilizarse para que el coste sea mínimo?.
 SOCIALES II. 2001 RESERVA 4. EJERCICIO 1 OPCIÓN A."
-Mates CCSS,2001,Programación Lineal,Septiembre,Ejercicio 1 Opción B,"Cierta sala de espectáculos tiene una capacidad máxima de 1500 personas, entre adultos y
+MATES_CCSS,2001,Programación Lineal,Septiembre,Ejercicio 1 Opción B,"Cierta sala de espectáculos tiene una capacidad máxima de 1500 personas, entre adultos y
 niños; el número de niños asistentes no puede superar los 600. El precio de la entrada a una
 sesión de un adulto es de 5 €, mientras que la de un niño es de un 40% menos. El número de
 adultos no puede superar al doble del número de niños.
 Cumpliendo las condiciones anteriores, ¿cuál es la cantidad máxima que se puede recaudar por
 la venta de entradas? ¿Cuántas de las entradas serán de niños?.
 SOCIALES II. 2001 SEPTIEMBRE. EJERCICIO 1 OPCIÓN B."
-Mates CCSS,2002,Programación Lineal,Junio,Ejercicio 1 Opción B,"Sea el sistema de inecuaciones siguiente: x + y <120;3y < x; x <100; y >10
+MATES_CCSS,2002,Programación Lineal,Junio,Ejercicio 1 Opción B,"Sea el sistema de inecuaciones siguiente: x + y <120;3y < x; x <100; y >10
 a) Represente gráficamente la región factible y calcule sus vértices.
 b) ¿En qué punto de esa región, F (x, y) =25x + 20y alcanza el máximo?.
 SOCIALES II. 2002 JUNIO. EJERCICIO 1 OPCIÓN B"
-Mates CCSS,2002,Programación Lineal,Reserva 1,Ejercicio 1 Opción B,"Un ahorrador dispone de 10000 euros para invertir en fondos de dos tipos: A ó B. La inversión
+MATES_CCSS,2002,Programación Lineal,Reserva 1,Ejercicio 1 Opción B,"Un ahorrador dispone de 10000 euros para invertir en fondos de dos tipos: A ó B. La inversión
 en fondos A debe superar los 5000 euros y, además, ésta debe doblar, al menos, la inversión en
 fondos B.
 La rentabilidad del pasado año de los fondos A ha sido del 2?7 % y la de los B ha sido del 673
@@ -56,7 +56,7 @@ La rentabilidad del pasado año de los fondos A ha sido del 2?7 % y la de los B 
 Suponiendo que la rentabilidad continúe siendo la misma, determine la inversión que obtenga
 el máximo beneficio. Calcule este beneficio. .
 SOCIALES II. 2002 RESERVA 1. EJERCICIO 1 OPCIÓN B."
-Mates CCSS,2002,Programación Lineal,Reserva 2,Ejercicio 1 Opción B,"Una empresa pastelera dispone semanalmente de 160 kg de azúcar y de 240 kg de almendra
+MATES_CCSS,2002,Programación Lineal,Reserva 2,Ejercicio 1 Opción B,"Una empresa pastelera dispone semanalmente de 160 kg de azúcar y de 240 kg de almendra
 para hacer tortas de almendra y tabletas de turrón.
 Se necesitan 150 g de almendra y 50 g de azúcar para hacer una torta de almendra y 100 g de
 almendra y 100 g de azúcar para cada tableta de turrón. El beneficio neto por la venta de cada
@@ -64,7 +64,7 @@ torta es 1775 euros, y por cada tableta de turrón es de 1 euro.
 Determine cuántas tortas de almendra y cuántas tabletas de turrón han de elaborarse para
 obtener la máxima ganancia. ¿Cuál es el beneficio máximo semanal?.
 SOCIALES II. 2002 RESERVA 2. EJERCICIO 1 OPCIÓN B."
-Mates CCSS,2002,Programación Lineal,Reserva 3,Ejercicio 1 Opción A,"Una fábrica de muebles dispone de 600 kg de madera para fabricar librerías de 1 y de 3
+MATES_CCSS,2002,Programación Lineal,Reserva 3,Ejercicio 1 Opción A,"Una fábrica de muebles dispone de 600 kg de madera para fabricar librerías de 1 y de 3
 estantes. Se sabe que son necesarios 4 kg de madera para fabricar una librería de 1 estante,
 siendo su precio de venta 20 euros; para fabricar una librería de 3 estantes se necesitan 8 kg de
 madera y el precio de venta de ésta es 35 euros.
@@ -72,7 +72,7 @@ Calcule el número de librerías de cada tipo que se deben fabricar para obtener
 ingreso, sabiendo que, por falta de otros materiales, no se pueden fabricar más de 120 librerías
 de 1 estante, ni tampoco más de 70 de 3 estantes.
 SOCIALES II. 2002 RESERVA 3. EJERCICIO 1 OPCIÓN A."
-Mates CCSS,2002,Programación Lineal,Reserva 4,Ejercicio 1 Opción B,"Una persona desea adelgazar. En la farmacia le ofrecen dos compuestos A y B para que tome
+MATES_CCSS,2002,Programación Lineal,Reserva 4,Ejercicio 1 Opción B,"Una persona desea adelgazar. En la farmacia le ofrecen dos compuestos A y B para que tome
 una mezcla de ambos en la comida, con las siguientes condiciones:
 No debe tomar más de 150 g de la mezcla, ni menos de 50 g.
 La cantidad de A debe ser mayor o igual que la de B.
@@ -84,7 +84,7 @@ sus vértices.
 b) ¿Cuántos gramos debe tomar de cada compuesto para obtener el preparado más rico en
 vitaminas?
 SOCIALES II. 2002 RESERVA 4. EJERCICIO 1 OPCIÓN B."
-Mates CCSS,2002,Programación Lineal,Septiembre,Ejercicio 1 Opción B,"Una fábrica produce dos tipos de juguetes, muñecas y coches teledirigidos. La fábrica puede
+MATES_CCSS,2002,Programación Lineal,Septiembre,Ejercicio 1 Opción B,"Una fábrica produce dos tipos de juguetes, muñecas y coches teledirigidos. La fábrica puede
 producir, como máximo, 200 muñecas y 300 coches. La empresa dispone de 1800 horas de
 trabajo para fabricar los juguetes y sabe que la producción de cada muñeca necesita 3 horas de
 trabajo y reporta un beneficio de 10 euros, mientras que la de cada coche necesita 6 horas de
@@ -92,38 +92,38 @@ trabajo y reporta un beneficio de 15 euros.
 Calcule el número de muñecas y de coches que han de fabricarse para que el beneficio global
 de la producción sea máximo y obtenga dicho beneficio.
 SOCIALES II. 2002 SEPTIEMBRE. EJERCICIO 1 OPCIÓN B."
-Mates CCSS,2003,Programación Lineal,Junio,Ejercicio 1 Opción A,"—Sx+3y <2
+MATES_CCSS,2003,Programación Lineal,Junio,Ejercicio 1 Opción A,"—Sx+3y <2
 Sea el siguiente sistema de inecuaciones: $ —x+2y>6
 2x+3y <37
 a) Represente el conjunto solución y determine sus vértices.
 b) Halle el punto del recinto anterior en el cual la función F (x, y)=-2x + 5y alcanza su valor
 máximo.
 SOCIALES II. 2003 JUNIO. EJERCICIO 1 OPCIÓN A"
-Mates CCSS,2003,Programación Lineal,Reserva 1,Ejercicio 1 Opción A,"a) Represente gráficamente la región del plano delimitada por las siguientes inecuaciones:
+MATES_CCSS,2003,Programación Lineal,Reserva 1,Ejercicio 1 Opción A,"a) Represente gráficamente la región del plano delimitada por las siguientes inecuaciones:
 —+ % >1; y<x ; x<2. Determine sus vértices.
 3
 b) Calcule los valores máximo y mínimo de la función F(x,y)=-x+2y-3 en la región
 anterior e indique para qué valores se alcanzan.
 SOCIALES II. 2003 RESERVA 1. EJERCICIO 1 OPCIÓN A."
-Mates CCSS,2003,Programación Lineal,Reserva 2,Ejercicio 1 Opción A,"Una piscifactoría vende gambas y langostinos a 10 y 15 € el Kg, respectivamente. La
+MATES_CCSS,2003,Programación Lineal,Reserva 2,Ejercicio 1 Opción A,"Una piscifactoría vende gambas y langostinos a 10 y 15 € el Kg, respectivamente. La
 producción máxima mensual es de 1 Tm de cada producto y la producción mínima mensual es
 de 100 Kg de cada uno.
 Si la producción total es, a lo sumo, de 1700 Kg al mes, ¿cuál es la producción que maximiza los
 ingresos mensuales?. Calcule estos ingresos máximos.
 SOCIALES II. 2003 RESERVA 2. EJERCICIO 1 OPCIÓN A."
-Mates CCSS,2003,Programación Lineal,Reserva 3,Ejercicio 1 Opcion B,"a) Represente gráficamente la región del plano delimitada por las siguientes inecuaciones:
+MATES_CCSS,2003,Programación Lineal,Reserva 3,Ejercicio 1 Opcion B,"a) Represente gráficamente la región del plano delimitada por las siguientes inecuaciones:
 X +2y > 80; 3x +2y > 160; x + y <70 y determine sus vértices.
 b) Calcule el máximo y el mínimo de la función F (x,y)=9x+8y-5 en la región anterior e
 indique para qué valores se alcanzan. .
 SOCIALES II. 2003 RESERVA 3. EJERCICIO 1 OPCION B."
-Mates CCSS,2003,Programación Lineal,Reserva 4,Ejercicio 1 Opción A,"Una empresa fabrica sofás de dos tipos, A y B, por los que obtiene un beneficio, por unidad, de
+MATES_CCSS,2003,Programación Lineal,Reserva 4,Ejercicio 1 Opción A,"Una empresa fabrica sofás de dos tipos, A y B, por los que obtiene un beneficio, por unidad, de
 1500 y 2000 €, respectivamente.
 Al menos se deben fabricar 6 sofás del tipo A y 10 del tipo B, por semana, y además, el número
 de los del tipo A no debe superar en más de 6 unidades al número de los del B.¿Cuántas
 unidades de cada tipo se deben fabricar semanalmente para obtener beneficio máximo, si no se
 pueden fabricar más de 30 sofás semanalmente?.
 SOCIALES II. 2003 RESERVA 4. EJERCICIO 1 OPCIÓN A."
-Mates CCSS,2003,Programación Lineal,Septiembre,Ejercicio 1 Opción B,"Una empresa gana 150 € por cada tonelada de escayola producida y 100 € por cada tonelada de
+MATES_CCSS,2003,Programación Lineal,Septiembre,Ejercicio 1 Opción B,"Una empresa gana 150 € por cada tonelada de escayola producida y 100 € por cada tonelada de
 yeso.
 La producción diaria debe ser como mínimo de 30 Tm de escayola y 30 Tm de yeso. La
 cantidad de yeso no puede superar en más de 60 Tm a la de escayola. El triple de la cantidad de
@@ -131,7 +131,7 @@ escayola, más la cantidad de yeso, no puede superar 420 Tm. Calcule la cantidad
 debe producirse de cada material, para obtener la máxima ganancia y determine dicha
 ganancia.
 SOCIALES II. 2003 SEPTIEMBRE. EJERCICIO 1 OPCIÓN B."
-Mates CCSS,2004,Programación Lineal,Junio,Ejercicio 1 Opción A,"xX+y<6
+MATES_CCSS,2004,Programación Lineal,Junio,Ejercicio 1 Opción A,"xX+y<6
 3x—-2y<13
 xX+3y>—-3
 x>0
@@ -140,51 +140,51 @@ a) Dibuje el recinto cuyos puntos son las soluciones del sistema y obtenga sus v
 b) Halle los puntos del recinto en los que la función F (x, y) = x —2y toma los valores máximo y
 mínimo, y determine éstos.
 SOCIALES II. 2004 JUNIO. EJERCICIO 1 OPCIÓN A"
-Mates CCSS,2004,Programación Lineal,Reserva 1,Ejercicio 1 Opción B,"Calcule los valores máximo y mínimo que alcanza la función F (x,y)=3x +5y, en el recinto
+MATES_CCSS,2004,Programación Lineal,Reserva 1,Ejercicio 1 Opción B,"Calcule los valores máximo y mínimo que alcanza la función F (x,y)=3x +5y, en el recinto
 del plano determinado por las inecuaciones:
 X 0, y0, 3x—-2y >10, 2x+3y <24, x-5y>—1
 SOCIALES II. 2004 RESERVA 1. EJERCICIO 1 OPCIÓN B."
-Mates CCSS,2004,Programación Lineal,Reserva 2,Ejercicio 1 Opción B,"a) Los vértices de un polígono convexo son (1,1), (3,1/2), (8/3,5/2), (7/3,3) y (0,5/3). Calcule el
+MATES_CCSS,2004,Programación Lineal,Reserva 2,Ejercicio 1 Opción B,"a) Los vértices de un polígono convexo son (1,1), (3,1/2), (8/3,5/2), (7/3,3) y (0,5/3). Calcule el
 máximo de la función objetivo F (x, y) =3x — 2y +4en la región delimitada por dicho polígono.
 b) Dibuje el recinto del plano definido por las inecuaciones:
 X+2y>6 ; Xx—-y<1 ; y<5 ; x>0 ; y>0
 y determine sus vértices. ,
 SOCIALES II. 2004 RESERVA 2. EJERCICIO 1 OPCIÓN B."
-Mates CCSS,2004,Programación Lineal,Reserva 3,Ejercicio 1 Opción A,"a) Dibuje la región del plano definida por las siguientes inecuaciones:
+MATES_CCSS,2004,Programación Lineal,Reserva 3,Ejercicio 1 Opción A,"a) Dibuje la región del plano definida por las siguientes inecuaciones:
 2x—3y>—13 , 2x+3y>17 , x+y<11 , y>0.
 b) Determine los vértices de este recinto.
 c) Calcule los valores máximo y mínimo de la función F (x, y) =5x +6y en la región anterior e
 indique en qué puntos se alcanzan. ,
 SOCIALES II. 2004 RESERVA 3. EJERCICIO 1 OPCIÓN A."
-Mates CCSS,2004,Programación Lineal,Reserva 4,Ejercicio 1 Opción A,"Una fábrica produce dos tipos de relojes: de pulsera, que vende a 90 euros la unidad, y de
+MATES_CCSS,2004,Programación Lineal,Reserva 4,Ejercicio 1 Opción A,"Una fábrica produce dos tipos de relojes: de pulsera, que vende a 90 euros la unidad, y de
 bolsillo, que vende a 120 euros cada uno. La capacidad máxima diaria de fabricación es de
 1000 relojes, pero no puede fabricar más de 800 de pulsera ni más de 600 de bolsillo. ¿Cuántos
 relojes de cada tipo debe producir para obtener el máximo ingreso? ¿Cuál sería dicho ingreso?
 SOCIALES II. 2004 RESERVA 4. EJERCICIO 1 OPCIÓN A."
-Mates CCSS,2004,Programación Lineal,Septiembre,Ejercicio 1 Opción A,"Una pastelería elabora dos tipos de trufas, dulces y amargas. Cada trufa dulce lleva 20 gr de
+MATES_CCSS,2004,Programación Lineal,Septiembre,Ejercicio 1 Opción A,"Una pastelería elabora dos tipos de trufas, dulces y amargas. Cada trufa dulce lleva 20 gr de
 cacao, 20 gr de nata y 30 gr de azúcar y se vende a 1 euro la unidad. Cada trufa amarga lleva
 100 gr de cacao, 20 gr de nata y 15 gr de azúcar y se vende a 173 euros la unidad.
 En un día, la pastelería sólo dispone de 30 kg de cacao, 8 kg de nata y 10%5 kg de azúcar. Sabiendo
 que vende todo lo que se elabora, calcule cuántas trufas de cada tipo deben elaborarse ese día,
 para maximizar los ingresos y determine dichos ingresos.
 SOCIALES II. 2004 SEPTIEMBRE. EJERCICIO 1 OPCIÓN A."
-Mates CCSS,2005,Programación Lineal,Junio,Ejercicio 1 Opción B,"Sea el siguiente sistema de inecuaciones: 2x —3y <6; x>2y—4; x+y<8;x>0;y>0
+MATES_CCSS,2005,Programación Lineal,Junio,Ejercicio 1 Opción B,"Sea el siguiente sistema de inecuaciones: 2x —3y <6; x>2y—4; x+y<8;x>0;y>0
 a) Dibuje la región que definen y calcule sus vértices.
 b) Halle los puntos de esa región en los que la función F(x,y)=2x+3y alcanza los valores
 máximo y mínimo y calcule dichos valores. ,
 SOCIALES II. 2005 JUNIO. EJERCICIO 1 OPCIÓN B"
-Mates CCSS,2005,Programación Lineal,Reserva 1,Ejercicio 1 Opción B,"a) Dibuje el recinto definido por las siguientes inecuaciones: x —y <1;x+2y >7;x>0;y<5
+MATES_CCSS,2005,Programación Lineal,Reserva 1,Ejercicio 1 Opción B,"a) Dibuje el recinto definido por las siguientes inecuaciones: x —y <1;x+2y >7;x>0;y<5
 b) Determine los vértices de este recinto.
 c) ¿Cuáles son los valores máximo y mínimo de la función objetivo F(x,y)=2x+4y-—5 y en
 qué puntos alcanza dichos valores? ,
 SOCIALES II. 2005 RESERVA 1. EJERCICIO 1 OPCIÓN B."
-Mates CCSS,2005,Programación Lineal,Reserva 2,Ejercicio 1 Opción A,"a) Represente la región definida por las siguientes inecuaciones y calcule sus vértices:
+MATES_CCSS,2005,Programación Lineal,Reserva 2,Ejercicio 1 Opción A,"a) Represente la región definida por las siguientes inecuaciones y calcule sus vértices:
 x
 x+2y26;x510—2y;ñ+%21;x20
 b) Calcule el máximo y el mínimo de la función F (x, y)=4-3x-—6y en la región anterior e
 indique en qué puntos se alcanzan. .
 SOCIALES II. 2005 RESERVA 2. EJERCICIO 1 OPCIÓN A."
-Mates CCSS,2005,Programación Lineal,Reserva 3,Ejercicio 1 Opción B,"El estadio del Mediterráneo, construido para la celebración de los “Juegos Mediterráneos
+MATES_CCSS,2005,Programación Lineal,Reserva 3,Ejercicio 1 Opción B,"El estadio del Mediterráneo, construido para la celebración de los “Juegos Mediterráneos
 Almería 2005”, tiene una capacidad de 20000 espectadores.
 Para la asistencia a estos juegos se han establecido las siguientes normas:
 El número de adultos no debe superar al doble del número de niños; el número de adultos
@@ -192,7 +192,7 @@ menos el número de niños no será superior a 5000.
 Si el precio de la entrada de niño es de 10 euros y la de adulto 15 euros ¿cuál es la composición
 de espectadores que proporciona mayores ingresos? ¿A cuánto ascenderán esos ingresos?
 SOCIALES II. 2005 RESERVA 3. EJERCICIO 1 OPCIÓN B."
-Mates CCSS,2005,Programación Lineal,Reserva 4,Ejercicio 1 Opción A,"Una empresa monta dos tipos de ordenadores: fijos y portátiles. La empresa puede montar
+MATES_CCSS,2005,Programación Lineal,Reserva 4,Ejercicio 1 Opción A,"Una empresa monta dos tipos de ordenadores: fijos y portátiles. La empresa puede montar
 como máximo 10 fijos y 15 portátiles a la semana, y dispone de 160 horas de trabajo a la
 semana. Se sabe que el montaje de un fijo requiere 4 horas de trabajo, y reporta un beneficio
 de 100 euros, mientras que cada portátil necesita 10 horas de trabajo y genera un beneficio de
@@ -200,53 +200,53 @@ de 100 euros, mientras que cada portátil necesita 10 horas de trabajo y genera 
 Calcule el número de ordenadores de cada tipo que deben montarse semanalmente para que el
 beneficio sea máximo, y obtenga dicho beneficio. ,
 SOCIALES II. 2005 RESERVA 4. EJERCICIO 1 OPCIÓN A."
-Mates CCSS,2005,Programación Lineal,Septiembre,Ejercicio 1 Opción B,"Sea el siguiente sistema de inecuaciones: x + y < 600; x < 500; y <3x;x>0;y>0
+MATES_CCSS,2005,Programación Lineal,Septiembre,Ejercicio 1 Opción B,"Sea el siguiente sistema de inecuaciones: x + y < 600; x < 500; y <3x;x>0;y>0
 a) Represente gráficamente el conjunto de soluciones del sistema y calcule sus vértices.
 b) Halle el punto del recinto anterior en el que la función F (x, y) =38x +27y alcanza su valor
 máximo. ,
 SOCIALES II. 2005 SEPTIEMBRE. EJERCICIO 1 OPCIÓN B."
-Mates CCSS,2006,Programación Lineal,Junio,Ejercicio 1 Opción B,"a) Represente la región definida por las siguientes inecuaciones y calcule sus vértices:
+MATES_CCSS,2006,Programación Lineal,Junio,Ejercicio 1 Opción B,"a) Represente la región definida por las siguientes inecuaciones y calcule sus vértices:
 X>20; y20;-x+2y<6; x+y<6; x<4
 b) Calcule el máximo de la función F (x, y) =2x +2y +1 en la región anterior e indique dónde
 se alcanza.
 SOCIALES II. 2006 JUNIO. EJERCICIO 1 OPCIÓN B"
-Mates CCSS,2006,Programación Lineal,Reserva 1,Ejercicio 1 Opción A,"Una imprenta local edita periódicos y revistas. Para cada periódico necesita un cartucho de
+MATES_CCSS,2006,Programación Lineal,Reserva 1,Ejercicio 1 Opción A,"Una imprenta local edita periódicos y revistas. Para cada periódico necesita un cartucho de
 tinta negra y otro de color, y para cada revista uno de tinta negra y dos de color. Si sólo
 dispone de 800 cartuchos de tinta negra y 1100 de color, y si no puede imprimir más de 400
 revistas, ¿cuánto dinero podrá ingresar como máximo, si vende cada periódico a 0”9 euros y
 cada revista a 12 euros?
 SOCIALES II. 2006 RESERVA 1. EJERCICIO 1 OPCIÓN A"
-Mates CCSS,2006,Programación Lineal,Reserva 2,Ejercicio 1 Opción B,"Un laboratorio farmacéutico vende dos preparados, A y B, a razón de 40 y 20 euros el kg,
+MATES_CCSS,2006,Programación Lineal,Reserva 2,Ejercicio 1 Opción B,"Un laboratorio farmacéutico vende dos preparados, A y B, a razón de 40 y 20 euros el kg,
 respectivamente. Su producción máxima es de 1000 kg de cada preparado. Si su producción
 total no puede superar los 1700 kg,¿cuál es la producción que maximiza sus ingresos? Calcule
 dichos ingresos máximos.
 SOCIALES II. 2006 RESERVA 2. EJERCICIO 1 OPCIÓN B"
-Mates CCSS,2006,Programación Lineal,Reserva 3,Ejercicio 1 Opción A,"Sea la región definida por las siguientes inecuaciones:
+MATES_CCSS,2006,Programación Lineal,Reserva 3,Ejercicio 1 Opción A,"Sea la región definida por las siguientes inecuaciones:
 £+%>1;—x+2y20;y52
 2
 a) Represente gráficamente dicha región y calcule sus vértices.
 b) Determine en qué puntos la función F (x, y) =3x — 6y +4 alcanza sus valores extremos y
 cuáles son éstos.
 SOCIALES II. 2006 RESERVA 3. EJERCICIO 1 OPCIÓN A"
-Mates CCSS,2006,Programación Lineal,Reserva 4,Ejercicio 1 Opción B,"Se considera el recinto definido por las inecuaciones
+MATES_CCSS,2006,Programación Lineal,Reserva 4,Ejercicio 1 Opción B,"Se considera el recinto definido por las inecuaciones
 Y—-X<4 », x—y<4 », x+y<1 , x>0 , y>0
 a) Represente el recinto y calcule sus vértices.
 2 4
 b) Dada la función objetivo F (x, y) = Ex - y , determine los valores máximo y mínimo de F
 y los puntos del recinto donde se alcanzan.
 SOCIALES II. 2006 RESERVA 4. EJERCICIO 1 OPCIÓN B"
-Mates CCSS,2006,Programación Lineal,Septiembre,Ejercicio 1 Opción A,"X20; y20; x>3(y—3) ;2x+3y <36 ; x<15
+MATES_CCSS,2006,Programación Lineal,Septiembre,Ejercicio 1 Opción A,"X20; y20; x>3(y—3) ;2x+3y <36 ; x<15
 b) Calcule los vértices del recinto.
 c) Obtenga el valor máximo de la función F (x, y)= 8x+12y en este recinto e indique dónde se
 alcanza.
 SOCIALES II. 2006 SEPTIEMBRE. EJERCICIO 1 OPCIÓN A"
-Mates CCSS,2007,Programación Lineal,Junio,Ejercicio 1 Opción B,"Consideramos el recinto del plano limitado por las siguientes inecuaciones:
+MATES_CCSS,2007,Programación Lineal,Junio,Ejercicio 1 Opción B,"Consideramos el recinto del plano limitado por las siguientes inecuaciones:
 Y—X<4; y+2x>7 ; —2x—y+13>0 ; x>0 ; y20
 a) Represente el recinto y calcule sus vértices.
 b) Halle en qué puntos de ese recinto alcanza los valores máximo y mínimo la función
 F(x,y)=4x+2y-1.
 SOCIALES II. 2007 JUNIO. EJERCICIO 1 OPCIÓN B"
-Mates CCSS,2007,Programación Lineal,Reserva 1,Ejercicio 1 Opción B,"Un Ayuntamiento concede licencia para la construcción de una urbanización de a lo sumo 120
+MATES_CCSS,2007,Programación Lineal,Reserva 1,Ejercicio 1 Opción B,"Un Ayuntamiento concede licencia para la construcción de una urbanización de a lo sumo 120
 viviendas, de dos tipos A y B.
 Para ello la empresa constructora dispone de un capital máximo de 15 millones de euros,
 siendo el coste de construcción de la vivienda de tipo A de 100000 euros y la de tipo B 300000
@@ -255,7 +255,7 @@ Si el beneficio obtenido por la venta de una vivienda de tipo A asciende a 20000
 de tipo B a 40000 euros, ¿cuántas viviendas de cada tipo deben construirse para obtener un
 beneficio máximo?
 SOCIALES II. 2007. RESERVA 1. EJERCICIO 1. OPCIÓN B."
-Mates CCSS,2007,Programación Lineal,Reserva 2,Ejercicio 1 Opción B,"Una empresa fabrica lunas para coches. Cada luna delantera requiere 25 m” de cristal,
+MATES_CCSS,2007,Programación Lineal,Reserva 2,Ejercicio 1 Opción B,"Una empresa fabrica lunas para coches. Cada luna delantera requiere 25 m” de cristal,
 mientras que cada luna trasera requiere 2 m”.
 La producción de una luna delantera precisa 0%3 horas de máquina de corte y cada luna
 trasera 0?2 horas. La empresa dispone de 1750 m? de cristal por semana y 260 horas
@@ -265,7 +265,7 @@ lunas delanteras que de lunas traseras.
 Determine cuántas lunas de cada tipo debe fabricar semanalmente la empresa para que el
 número total de lunas sea máximo.
 SOCIALES II. 2007. RESERVA 2. EJERCICIO 1. OPCIÓN B."
-Mates CCSS,2007,Programación Lineal,Reserva 3,Ejercicio 1 Opción B,"La candidatura de un determinado grupo político para las elecciones municipales debe cumplir
+MATES_CCSS,2007,Programación Lineal,Reserva 3,Ejercicio 1 Opción B,"La candidatura de un determinado grupo político para las elecciones municipales debe cumplir
 los siguientes requisitos: el número total de componentes de la candidatura debe estar
 comprendido entre 6 y 18 y el número de hombres (x) no debe exceder del doble del número de
 mujeres (y).
@@ -273,25 +273,25 @@ a) Represente el recinto asociado a estas restricciones y calcule sus vértices.
 b) ¿Cuál es el mayor número de hombres que puede tener una candidatura que cumpla esas
 condiciones?
 SOCIALES II. 2007. RESERVA 3. EJERCICIO 1. OPCIÓN B."
-Mates CCSS,2007,Programación Lineal,Reserva 4,Ejercicio 1 Opción B,"Una fábrica produce bombillas de bajo consumo que vende a 1 euro cada una, y focos
+MATES_CCSS,2007,Programación Lineal,Reserva 4,Ejercicio 1 Opción B,"Una fábrica produce bombillas de bajo consumo que vende a 1 euro cada una, y focos
 halógenos que vende a 15 euros. La capacidad máxima de fabricación es de 1000 unidades,
 entre bombillas y focos, si bien no se pueden fabricar más de 800 bombillas ni más de 600 focos.
 Se sabe que la fábrica vende todo lo que produce. Determine cuántas bombillas y cuántos focos
 debe producir para obtener los máximos ingresos posibles y cuáles serían éstos.
 SOCIALES II. 2007. RESERVA 4. EJERCICIO 1. OPCIÓN B."
-Mates CCSS,2007,Programación Lineal,Septiembre,Ejercicio 1 Opción A,"De un problema de programación lineal se deducen las siguientes restricciones:
+MATES_CCSS,2007,Programación Lineal,Septiembre,Ejercicio 1 Opción A,"De un problema de programación lineal se deducen las siguientes restricciones:
 10+y
 4x+3y >60 ; y<30 ; x< ; X>0; y>0
 a) Represente gráficamente la región factible del problema y calcule sus vértices.
 b) Maximice en esa región factible la función objetivo F (x, y)= x +3y.
 c) ¿Pertenece el punto (11,10) a la región factible?.
 SOCIALES II. 2007 SEPTIEMBRE. EJERCICIO 1 OPCIÓN A"
-Mates CCSS,2008,Programación Lineal,Junio,Ejercicio 1 Opción B,"a) Represente gráficamente la región determinada por las siguientes restricciones:
+MATES_CCSS,2008,Programación Lineal,Junio,Ejercicio 1 Opción B,"a) Represente gráficamente la región determinada por las siguientes restricciones:
 2x+y<6 ; 4x+y<10; —x+y<3; x>20; y>20
 b) Calcule el máximo de la función F (x, y) = 4x + 2y —3 en el recinto anterior e indique dónde
 se alcanza. ,
 SOCIALES II. 2008 JUNIO. EJERCICIO 1 OPCIÓN B"
-Mates CCSS,2008,Programación Lineal,Reserva 1,Ejercicio 1 Opción B,"Un pastelero dispone de 150 kg de harina, 22 kg de azúcar y 26 kg de mantequilla para hacer
+MATES_CCSS,2008,Programación Lineal,Reserva 1,Ejercicio 1 Opción B,"Un pastelero dispone de 150 kg de harina, 22 kg de azúcar y 26 kg de mantequilla para hacer
 dos tipos de tartas, A y B. Para hacer una hornada de tartas del tipo A se necesitan 3 kg de
 harina, 1 kg de azúcar y 1 kg de mantequilla, mientras que para hacer una hornada de tartas
 del tipo B se necesitan 6 kg de harina, 0.5 kg de azúcar y 1 kg de mantequilla. Sabiendo que el
@@ -299,13 +299,13 @@ beneficio que se obtiene al vender una hornada del tipo A es de 20 € y de 30 �
 hornada del tipo B, determine cuántas hornadas de cada tipo debe hacer y vender para
 maximizar sus beneficios.
 SOCIALES II. 2008 RESERVA 1. EJERCICIO 1. OPCIÓN B"
-Mates CCSS,2008,Programación Lineal,Reserva 2,Ejercicio 1 Opcion A,"Un joyero fabrica dos modelos de anillos. El modelo A se hace con 1 gramo de oro y 1.5 gramos
+MATES_CCSS,2008,Programación Lineal,Reserva 2,Ejercicio 1 Opcion A,"Un joyero fabrica dos modelos de anillos. El modelo A se hace con 1 gramo de oro y 1.5 gramos
 de plata. El modelo B lleva 1.5 gramos de oro y 1 gramo de plata. El joyero sólo dispone de 750
 gramos de cada metal y piensa fabricar, al menos, 150 anillos del tipo B que ya tiene
 encargados. Sabiendo que el beneficio de un anillo del tipo A es de 50 € y del tipo B es de 70 €,
 ¿cuántos anillos ha de fabricar de cada tipo para obtener el beneficio máximo y cuál será éste?
 SOCIALES II. 2008 RESERVA 2. EJERCICIO 1. OPCION A"
-Mates CCSS,2008,Programación Lineal,Reserva 3,Ejercicio 1 Opción A,"De las restricciones que deben cumplir las variables x e y en un problema de programación
+MATES_CCSS,2008,Programación Lineal,Reserva 3,Ejercicio 1 Opción A,"De las restricciones que deben cumplir las variables x e y en un problema de programación
 lineal se deduce el siguiente conjunto de inecuaciones:
 2y-x<8; x+y>13 ; y+4x<49 ; x>0; y>0
 a) Represente gráficamente el recinto determinado por estas inecuaciones.
@@ -313,7 +313,7 @@ b) Determine los vértices del recinto.
 c) Obtenga los valores extremos de la función F (x, y) =3x —4y +12 en ese recinto e indique en
 qué punto o puntos se alcanza cada extremo.
 SOCIALES II. 2008 RESERVA 3. EJERCICIO 1. OPCIÓN A"
-Mates CCSS,2008,Programación Lineal,Reserva 4,Ejercicio 1 Opción A,"Una empresa produce botellas de leche entera y de leche desnatada y tiene una capacidad de
+MATES_CCSS,2008,Programación Lineal,Reserva 4,Ejercicio 1 Opción A,"Una empresa produce botellas de leche entera y de leche desnatada y tiene una capacidad de
 producción máxima de 6000 botellas al día. Las condiciones de la empresa obligan a que la
 producción de botellas de leche desnatada sea, al menos, la quinta parte de las de leche entera
 y, como máximo, el triple de la misma. El beneficio de la empresa por botella de leche entera es
@@ -321,39 +321,39 @@ de 20 céntimos y por botella de leche desnatada es de 32 céntimos. Suponiendo 
 toda la producción, determine la cantidad de botellas de cada tipo que proporciona un
 beneficio máximo y el importe de este beneficio.
 SOCIALES II. 2008. RESERVA 4. EJERCICIO 1. OPCIÓN A"
-Mates CCSS,2008,Programación Lineal,Septiembre,Ejercicio 1 Opción B,"Un nutricionista informa a un individuo que, en cualquier tratamiento que siga, no debe
+MATES_CCSS,2008,Programación Lineal,Septiembre,Ejercicio 1 Opción B,"Un nutricionista informa a un individuo que, en cualquier tratamiento que siga, no debe
 ingerir diariamente más de 240 mg de hierro ni más de 200 mg de vitamina B. Para ello están
 disponibles píldoras de dos marcas, P y Q. Cada píldora de la marca P contiene 40 mg de
 hierro y 10 mg de vitamina B, y cuesta 6 céntimos de euro; cada píldora de la marca Q contiene
 10 mg de hierro y 20 mg de vitamina B, y cuesta 8 céntimos de euro. Entre los distintos
 tratamientos, ¿cuál sería el de máximo coste diario?
 SOCIALES II. 2008 SEPTIEMBRE. EJERCICIO 1. OPCIÓN B"
-Mates CCSS,2009,Programación Lineal,Junio,Ejercicio 1 Opción B,"a) Dibuje el recinto definido por las siguientes restricciones:
+MATES_CCSS,2009,Programación Lineal,Junio,Ejercicio 1 Opción B,"a) Dibuje el recinto definido por las siguientes restricciones:
 X+y>2; x—-y<0 ; y<4; x>0
 b) Determine el máximo y el mínimo de la función F (x, y)= x + y en el recinto anterior y los
 puntos dónde se alcanza.
 14 , ; ,
 c) ¿Pertenece el punto (5,5) al recinto anterior?. Justifique la respuesta.
 SOCIALES II. 2009 JUNIO. EJERCICIO 1 OPCIÓN B"
-Mates CCSS,2009,Programación Lineal,Reserva 1,Ejercicio 1 Opción B,"En un examen de Matemáticas se propone el siguiente problema:
+MATES_CCSS,2009,Programación Lineal,Reserva 1,Ejercicio 1 Opción B,"En un examen de Matemáticas se propone el siguiente problema:
 “Indique dónde se alcanza el mínimo de la función F(x,y)=6x+3y-2 en la región
 determinada por las restricciones 2x + y >6 ; 2x+5y <30 ; 2x—-y<6.”
 a) Resuelva el problema
 b) Ana responde que se alcanza en (1,4) y Benito que lo hace en (3,0). ¿Es cierto que el mínimo
 se alcanza en (1,4)?. ¿Es cierto que se alcanza en (3,0)?.
 SOCIALES II. 2009 RESERVA 1. EJERCICIO 1 OPCIÓN B"
-Mates CCSS,2009,Programación Lineal,Reserva 2,Ejercicio 1 Opción B,"Un agricultor posee 10 hectáreas (ha.) y decide dedicarlas al cultivo de cereales y hortalizas.
+MATES_CCSS,2009,Programación Lineal,Reserva 2,Ejercicio 1 Opción B,"Un agricultor posee 10 hectáreas (ha.) y decide dedicarlas al cultivo de cereales y hortalizas.
 Por las limitaciones de agua no puede destinar más de 5 ha. A hortalizas. El cultivo de cereales
 tiene un coste de 1000 euros/ha. Y el de hortalizas de 3000 euros/ha., no pudiendo superar el
 coste la cantidad de 16000 euros. El beneficio neto por ha. De cereales asciende a 2000 euros y
 el de hortalizas a 8000 euros. Halle la distribución de cultivos que maximiza el beneficio y
 calcule dicho máximo. ,
 SOCIALES II. 2009 RESERVA 2. EJERCICIO 1. OPCIÓN B"
-Mates CCSS,2009,Programación Lineal,Reserva 3,Ejercicio 1 Opción A,"Obtenga los valores máximo y mínimo, indicando donde se alcanzan, de la función objetivo
+MATES_CCSS,2009,Programación Lineal,Reserva 3,Ejercicio 1 Opción A,"Obtenga los valores máximo y mínimo, indicando donde se alcanzan, de la función objetivo
 F(x, y)= x — y en la región definida por las restricciones:
 ÓxX+y>3; 2x+y<2; y<% ; X>0; y>0
 SOCIALES II. 2009 RESERVA 3. EJERCICIO 1 OPCIÓN A"
-Mates CCSS,2009,Programación Lineal,Reserva 4,Ejercicio 1 Opción B,"a) Plantee, sin resolver, el siguiente problema de programación lineal: “Una empresa fabrica
+MATES_CCSS,2009,Programación Lineal,Reserva 4,Ejercicio 1 Opción B,"a) Plantee, sin resolver, el siguiente problema de programación lineal: “Una empresa fabrica
 camisas de dos tipos A y B. El beneficio que obtiene es de 8 euros por cada camisa que fabrica
 del tipo A y de 6 euros por cada una del tipo B. La empresa puede fabricar, como máximo,
 100.000 camisas, y las del tipo B han de suponer, al menos, el 60% del total. ¿Cuántas camisas
@@ -362,45 +362,45 @@ b) Represente la región definida por las inecuaciones:
 Y<xX ; y+2x<6 ; x<4y+3
 Calcule el máximo de F (x, y)= y + 2x en la región anterior e indique dónde se alcanza.
 SOCIALES II. 2009 RESERVA 4. EJERCICIO 1 OPCIÓN B"
-Mates CCSS,2009,Programación Lineal,Septiembre,Ejercicio 1 Opción A,"a) Represente la región definida por las siguientes inecuaciones y determine sus vértices:
+MATES_CCSS,2009,Programación Lineal,Septiembre,Ejercicio 1 Opción A,"a) Represente la región definida por las siguientes inecuaciones y determine sus vértices:
 x+3y<12 ; %+%21 ; y>1; x>0
 b) Calcule los valores extremos de la función F (x,y)=5x+15y en dicha región y dónde se
 alcanzan. ,
 SOCIALES II. 2009 SEPTIEMBRE. EJERCICIO 1 OPCIÓN A"
-Mates CCSS,2010,Programación Lineal,Junio,Ejercicio 1 Opción A,"Sea el recinto definido por las inecuaciones siguientes:
+MATES_CCSS,2010,Programación Lineal,Junio,Ejercicio 1 Opción A,"Sea el recinto definido por las inecuaciones siguientes:
 X+y<15; x<2y ; O<y<6 ; x>0
 a) Represente gráficamente dicho recinto.
 b) Calcule sus vértices.
 c) Determine el máximo valor de la función F (x, y)= 8x +5y en el recinto anterior y dónde se
 alcanza.
 SOCIALES II. 2010 JUNIO. EJERCICIO 1 OPCIÓN A"
-Mates CCSS,2010,Programación Lineal,Reserva 1,Ejercicio 1 Opción A,"Sea el recinto del plano definido por el siguiente sistema de inecuaciones:
+MATES_CCSS,2010,Programación Lineal,Reserva 1,Ejercicio 1 Opción A,"Sea el recinto del plano definido por el siguiente sistema de inecuaciones:
 X+y<3; —x+y<3; x<2; y20
 a) Represéntelo gráficamente.
 b) Calcule los vértices de dicho recinto.
 c) ¿Cuáles son los valores máximo y mínimo de la función objetivo F (x, y)=-2x — y ?.¿En qué
 puntos se alcanzan dichos valores?.
 SOCIALES II. 2010 RESERVA 1. EJERCICIO 1 OPCIÓN A"
-Mates CCSS,2010,Programación Lineal,Reserva 2,Ejercicio 1 Opción B,"a) Represente la región definida por las siguientes inecuaciones y determine sus vértices:
+MATES_CCSS,2010,Programación Lineal,Reserva 2,Ejercicio 1 Opción B,"a) Represente la región definida por las siguientes inecuaciones y determine sus vértices:
 X<2; y>—4x+8 ; 3y-4x-16<0
 b) Calcule los valores máximo y mínimo de la función F (x, y)= 3x — y, y los puntos donde se
 alcanzan. ,
 SOCIALES II. 2010 RESERVA 2. EJERCICIO 1 OPCIÓN B"
-Mates CCSS,2010,Programación Lineal,Reserva 3,Ejercicio 1 Opción A,"Un comerciante quiere dar salida a 400 kg de avellanas, 300 kg de nueces y 400 kg de
+MATES_CCSS,2010,Programación Lineal,Reserva 3,Ejercicio 1 Opción A,"Un comerciante quiere dar salida a 400 kg de avellanas, 300 kg de nueces y 400 kg de
 almendras. Para ello hace dos tipos de lotes: los de tipo A contienen 2 kg de avellanas, 2 kg de
 nueces y 1 kg de almendras; y los de tipo B contienen 3 kg de avellanas, 1 kg de nueces y 4 kg
 de almendras. El precio de venta de cada lote es de 20 € para los del tipo A y de 40€ para los del
 tipo B. ¿Cuántos lotes de cada tipo debe vender para obtener el máximo ingreso y a cuánto
 asciende éste?.
 SOCIALES II. 2010 RESERVA 3. EJERCICIO 1 OPCIÓN A."
-Mates CCSS,2010,Programación Lineal,Reserva 3,Ejercicio 1 Opción B,"Se considera el recinto del plano determinado por los siguientes semiplanos:
+MATES_CCSS,2010,Programación Lineal,Reserva 3,Ejercicio 1 Opción B,"Se considera el recinto del plano determinado por los siguientes semiplanos:
 4x—y>4 ; 2x+y<15 ; 3y-x<10; y>0
 a) Represente el recinto y calcule sus vértices.
 b) Calcule los puntos del recinto donde la función F(x, y)= 4x -7y alcanza el máximo y el
 mínimo
 C) ¿Entre que valores varia la función 7 (x, y) =4x —7y en el recinto?.
 SOCIALES II. 2010 RESERVA 3. EJERCICIO 1 OPCIÓN B"
-Mates CCSS,2010,Programación Lineal,Reserva 4,Ejercicio 1 Opción A,"Un supermercado se abastece de gambas y langostinos a través de dos mayoristas, A y B, que le
+MATES_CCSS,2010,Programación Lineal,Reserva 4,Ejercicio 1 Opción A,"Un supermercado se abastece de gambas y langostinos a través de dos mayoristas, A y B, que le
 envían contenedores con cajas completas de ambos productos. El mayorista A envía en cada
 contenedor 2 cajas de gambas y 3 de langostinos, al precio de 350 € el contenedor, mientras que
 el mayorista B envía en cada uno 1 caja de gambas y 5 de langostinos, al precio de 550 € el
@@ -410,32 +410,32 @@ almacenar, como máximo, 50 contenedores.
 ¿Cuántos contenedores debería pedir el supermercado a cada mayorista para satisfacer sus
 necesidades con el menor coste posible?. Indique cuál sería ese coste mínimo.
 SOCIALES II. 2010 RESERVA 4. EJERCICIO 1 OPCIÓN A."
-Mates CCSS,2010,Programación Lineal,Reserva 4,Ejercicio 1 Opción B,"a) Dibuje el recinto del plano definido por las inecuaciones:
+MATES_CCSS,2010,Programación Lineal,Reserva 4,Ejercicio 1 Opción B,"a) Dibuje el recinto del plano definido por las inecuaciones:
 X+3y 29 ; 4x-5y+25>0 ; 7x—-2y <17 ; x>0 ; y>0
 b) Calcule los vértices del mismo.
 c) Obtenga en dicho recinto los valores máximo y mínimo de la función F (x,y)=2x-y+6 y
 los puntos donde se alcanzan. ,
 SOCIALES II. 2010 RESERVA 4. EJERCICIO 1 OPCIÓN B"
-Mates CCSS,2010,Programación Lineal,Septiembre,Ejercicio 1 Opción A,"Sea el recinto del plano definido por el siguiente sistema de inecuaciones:
+MATES_CCSS,2010,Programación Lineal,Septiembre,Ejercicio 1 Opción A,"Sea el recinto del plano definido por el siguiente sistema de inecuaciones:
 3x+y>4; x+y<6; 0<y<S$S
 a) Represéntelo gráficamente.
 b) Calcule los vértices de dicho recinto.
 c) En el recinto anterior, halle los valores máximo y mínimo de la función F (x, y)=5x+3y.
 ¿En qué puntos se alcanzan dichos valores?.
 SOCIALES II. 2010 SEPTIEMBRE. EJERCICIO 1 OPCIÓN A"
-Mates CCSS,2011,Programación Lineal,Junio,Ejercicio 1 Opción B,"Sea el recinto determinado por las siguientes inecuaciones:
+MATES_CCSS,2011,Programación Lineal,Junio,Ejercicio 1 Opción B,"Sea el recinto determinado por las siguientes inecuaciones:
 Xx+y<20 ; 3x+5y<70 ; x>0 ; y20
 a) Razone si el punto de coordenadas (4.1,11.7) pertenece al recinto.
 b) Represente dicho recinto y calcule sus vértices.
 c) ¿Dónde alcanzará la función F (x, y) = 0.6x + y sus valores extremos y cuáles serán éstos?.
 SOCIALES II. 2011 JUNIO. EJERCICIO 1 OPCIÓN B"
-Mates CCSS,2011,Programación Lineal,Reserva 1,Ejercicio 1 Opción A,"a) Represente gráficamente el recinto determinado por las siguientes inecuaciones:
+MATES_CCSS,2011,Programación Lineal,Reserva 1,Ejercicio 1 Opción A,"a) Represente gráficamente el recinto determinado por las siguientes inecuaciones:
 6xX—y+9>0 ; 2x+5y—-13<0 ; 2x-3y—-5<0
 b) Determine los vértices del recinto anterior.
 c) Halle los valores máximo y mínimo de la función F (x,y)=3x-2y+3 en el recinto del
 primer apartado, y especifique en qué puntos los alcanza.
 SOCIALES II. 2011 RESERVA 1. EJERCICIO 1 OPCIÓN A"
-Mates CCSS,2011,Programación Lineal,Reserva 2,Ejercicio 1 Opción B,"Una empresa elabora dos productos, A y B. Cada unidad de A requiere 2 horas en una
+MATES_CCSS,2011,Programación Lineal,Reserva 2,Ejercicio 1 Opción B,"Una empresa elabora dos productos, A y B. Cada unidad de A requiere 2 horas en una
 máquina y 5 horas en una segunda máquina. Cada unidad B necesita 4 horas en la primera
 máquina y 3 horas en la segunda máquina. Semanalmente se dispone de 100 horas en la
 primera máquina y de 110 horas en la segunda.
@@ -443,59 +443,59 @@ Si la empresa obtiene un beneficio de 70 euros por cada unidad A, y de 50 euros 
 unidad de B, ¿qué cantidad semanal de cada producto debe producir con objeto de maximizar
 el beneficio total?. ¿Cuál es ese beneficio?
 SOCIALES II. 2011 RESERVA 2. EJERCICIO 1 OPCIÓN B"
-Mates CCSS,2011,Programación Lineal,Reserva 3,Ejercicio 1 Opción B,"a) Dibuje el recinto del plano definido por el siguiente sistema de inecuaciones y determine sus
+MATES_CCSS,2011,Programación Lineal,Reserva 3,Ejercicio 1 Opción B,"a) Dibuje el recinto del plano definido por el siguiente sistema de inecuaciones y determine sus
 vértices.
 y >200-2x ; x—100<3y ; x+2y<600 ; x>0
 b) Sabiendo que A(0,2),B(1,4),C(3,4),D(4,2) y E(2,1) son los vértices de una región factible,
 determine en ella el mínimo y el máximo de la función F(x,y)=10x+5y+21, e indique los
 puntos donde se alcanza. .
 SOCIALES II. 2011 RESERVA 3. EJERCICIO 1 OPCIÓN B"
-Mates CCSS,2011,Programación Lineal,Reserva 4,Ejercicio 1 Opción B,"Se considera el recinto R del plano determinado por las siguientes inecuaciones:
+MATES_CCSS,2011,Programación Lineal,Reserva 4,Ejercicio 1 Opción B,"Se considera el recinto R del plano determinado por las siguientes inecuaciones:
 13x+8y < 600 ; 3(x—2)> 2(y —3) ; x-4y<0
 a) Represente gráficamente el recinto R y calcule sus vértices.
 c) Calcule el valor máximo en dicho recinto de la función F (x, y) = 65x + 40y , indicando donde
 se alcanza. ,
 SOCIALES II. 2011 RESERVA 4. EJERCICIO 1 OPCIÓN B"
-Mates CCSS,2011,Programación Lineal,Septiembre,Ejercicio 1 Opción A,"Se considera el recinto R del plano, determinado por las siguientes inecuaciones:
+MATES_CCSS,2011,Programación Lineal,Septiembre,Ejercicio 1 Opción A,"Se considera el recinto R del plano, determinado por las siguientes inecuaciones:
 X+y>2;5 x+3y<15 ; 3x-—y<15 ; x>0 ; y>0
 a) Represente gráficamente el recinto R y calcule sus vértices.
 b) Halle los valores máximo y mínimo que alcanza la función F (x, y) =3x + y en dicho recinto.
 €) Razone si existen puntos (x, y) del recinto, para los que F (x, y) =30.
 SOCIALES II. 2011 SEPTIEMBRE. EJERCICIO 1 OPCIÓN A"
-Mates CCSS,2012,Programación Lineal,Junio,Ejercicio 1 Opción A,"Sea el recinto limitado por las siguientes inecuaciones:
+MATES_CCSS,2012,Programación Lineal,Junio,Ejercicio 1 Opción A,"Sea el recinto limitado por las siguientes inecuaciones:
 y+2x>2 ; 2y—-3x>—3 ; 3y—-x<6
 a) Represente gráficamente dicho recinto.
 b) Calcule sus vértices.
 c) Obtenga el valor mínimo de la función F (x, y)=2x -y en el recinto anterior, así como
 dónde lo alcanza. ,
 SOCIALES II. 2012 JUNIO. EJERCICIO 1 OPCIÓN A"
-Mates CCSS,2012,Programación Lineal,Reserva 1,Ejercicio 1 Opción B,"Sea el recinto determinado por las siguientes inecuaciones:
+MATES_CCSS,2012,Programación Lineal,Reserva 1,Ejercicio 1 Opción B,"Sea el recinto determinado por las siguientes inecuaciones:
 I3x+4y>28 ; Sx+2y<42 ; x—-y>0
 a) Razone si el punto de coordenadas (7,3) pertenece al recinto.
 b) Represente dicho recinto y halle sus vértices.
 c) Calcule el valor máximo de la función F (x, y) =3x —2y +6 en el recinto, indicando el punto
 0 los puntos donde se alcanza ese máximo.
 SOCIALES II. 2012 RESERVA 1. EJERCICIO 1 OPCIÓN B"
-Mates CCSS,2012,Programación Lineal,Reserva 2,Ejercicio 1 Opción A,"Un comerciante dispone de 1200 euros para comprar dos tipos de manzanas A y B. Las del tipo
+MATES_CCSS,2012,Programación Lineal,Reserva 2,Ejercicio 1 Opción A,"Un comerciante dispone de 1200 euros para comprar dos tipos de manzanas A y B. Las del tipo
 A las compra a 0.60 €/Kg y las vende a 0.90 €/Kg, mientras que las de tipo B las compra a1
 €/Kg y las vende a 1.35 €/Kg.
 Sabiendo que su vehículo a lo sumo puede transportar 1500 Kg de manzanas, ¿cuántos
 Kilogramos de cada tipo deberá adquirir para que el beneficio que obtenga sea máximo? ¿Cuál
 sería ese beneficio?.
 SOCIALES II. 2012 RESERVA 2. EJERCICIO 1 OPCIÓN A"
-Mates CCSS,2012,Programación Lineal,Reserva 3,Ejercicio 1 Opción B,"a) Represente la región definida por las siguientes inecuaciones y determine sus vértices.
+MATES_CCSS,2012,Programación Lineal,Reserva 3,Ejercicio 1 Opción B,"a) Represente la región definida por las siguientes inecuaciones y determine sus vértices.
 7x-y>—10 ; x+y<2 ; 3x-5y<14
 b) Calcule los valores máximo y mínimo que alcanza la función F (x,y)=2x+3y en dicha
 región.
 SOCIALES II. 2012 RESERVA 3. EJERCICIO 1 OPCIÓN B"
-Mates CCSS,2012,Programación Lineal,Reserva 4,Ejercicio 1 Opción B,"En una carpintería se construyen dos tipos de estanterías: grandes y pequeñas, y se tienen para
+MATES_CCSS,2012,Programación Lineal,Reserva 4,Ejercicio 1 Opción B,"En una carpintería se construyen dos tipos de estanterías: grandes y pequeñas, y se tienen para
 ello 60 m de tableros de madera. Las grandes necesitan 4 m” de tablero y las pequeñas 3 m”. El
 carpintero debe hacer como mínimo 3 estanterías grandes, y el número de pequeñas que haga
 debe ser, al menos, el doble del número de las grandes. Si la ganancia por cada estantería
 grande es de 60 euros y por cada una de las pequeñas es de 40 euros,¿cuántas debe fabricar de
 cada tipo para obtener el máximo beneficio?. .
 SOCIALES II. 2012 RESERVA 4. EJERCICIO 1 OPCIÓN B"
-Mates CCSS,2012,Programación Lineal,Septiembre,Ejercicio 1 Opcion A,"Un empresario fabrica camisas y pantalones para jóvenes. Para hacer una camisa se necesitan
+MATES_CCSS,2012,Programación Lineal,Septiembre,Ejercicio 1 Opcion A,"Un empresario fabrica camisas y pantalones para jóvenes. Para hacer una camisa se necesitan
 2 metros de tela y 5 botones, y para hacer un pantalón hacen falta 3 metros de tela, 2 botones y
 una cremallera. La empresa dispone de 1050 metros de tela, 1250 botones y 300 cremalleras. El
 beneficio que se obtiene por la venta de una camisa es de 30 euros y el de un pantalón es de 50
@@ -503,7 +503,7 @@ euros.
 Suponiendo que se vende todo lo que se fabrica, calcule el número de camisas y de pantalones
 que debe confeccionar para obtener el máximo beneficio, y determine este beneficio máximo.
 SOCIALES II. 2012 SEPTIEMBRE. EJERCICIO 1 OPCION A"
-Mates CCSS,2013,Programación Lineal,Junio,Ejercicio 1 Opción B,"Un fabricante de tapices dispone de 500 kg de hilo de seda, 400 kg de hilo de plata y 225 kg de
+MATES_CCSS,2013,Programación Lineal,Junio,Ejercicio 1 Opción B,"Un fabricante de tapices dispone de 500 kg de hilo de seda, 400 kg de hilo de plata y 225 kg de
 hilo de oro. Desea fabricar dos tipos de tapices: A y B. Para los del tipo A se necesita 1 kg de
 hilo de seda y 2 kg de hilo de plata, y para los del tipo B, 2 kg de hilo de seda, 1 kg de hilo de
 plata y 1 kg de hilo de oro. Cada tapiz del tipo A se vende a 2000 euros y cada tapiz del tipo B a
@@ -513,7 +513,7 @@ beneficio?
 b) ¿Qué cantidad de hilo de cada clase quedará cuando se fabrique el número de tapices que
 proporciona el máximo beneficio? .
 SOCIALES II. 2013 JUNIO. EJERCICIO 1 OPCIÓN B"
-Mates CCSS,2013,Programación Lineal,Reserva 1,Ejercicio 1 Opción A,"a) Plantee, sin resolver, el siguiente problema: “Un barco puede transportar vehículos de dos
+MATES_CCSS,2013,Programación Lineal,Reserva 1,Ejercicio 1 Opción A,"a) Plantee, sin resolver, el siguiente problema: “Un barco puede transportar vehículos de dos
 tipos: coches y motos. Las condiciones de la nave obligan a que el número de motos no pueda
 ser inferior a la cuarta parte del de coches ni superior a su doble; además, la suma del número
 de motos más el doble del número de coches no puede ser mayor que 100. ¿Cuántos vehículos,
@@ -521,47 +521,47 @@ como máximo, puede transportar este barco?”.
 b) Dado el recinto limitado por las inecuaciones: y >30 ; 3x— y >150 ; 6x+7y < 840, halle
 en qué puntos de ese recinto la función F (x, y) = 6x —2y , alcanza su valor mínimo.
 SOCIALES II. 2013 RESERVA 1. EJERCICIO 1 OPCIÓN A"
-Mates CCSS,2013,Programación Lineal,Reserva 2,Ejercicio 1 Opcion A,"Un fabricante elabora dos tipos de anillos a base de oro y plata. Cada anillo del primer tipo
+MATES_CCSS,2013,Programación Lineal,Reserva 2,Ejercicio 1 Opcion A,"Un fabricante elabora dos tipos de anillos a base de oro y plata. Cada anillo del primer tipo
 precisa 4 g de oro y 2 de plata, mientras que cada uno del segundo necesita 3 g de oro y 1 de
 plata. Sabiendo que dispone de 48 g de oro y 20 de plata y que los precios de venta de cada tipo
 de anillo son 150 euros el primero y 100 euros el segundo, ¿cuántos anillos de cada tipo tendría
 que producir para obtener los ingresos máximos? ¿A cuánto ascenderían estos ingresos?
 SOCIALES II. 2013 RESERVA 2. EJERCICIO 1. OPCION A"
-Mates CCSS,2013,Programación Lineal,Reserva 2,Ejercicio 1 Opción B,"En un problema de programación lineal, la región factible es la región acotada cuyos vértices
+MATES_CCSS,2013,Programación Lineal,Reserva 2,Ejercicio 1 Opción B,"En un problema de programación lineal, la región factible es la región acotada cuyos vértices
 son A(2,-1), B(-1,2), C(1,4) y D(5,0). La función objetivo es la función
 fx,y)=2x+3y +k, cuyo valor máximo, en dicha región, es igual a 19. Calcule el valor de k e
 indique dónde se alcanza el máximo y dónde el mínimo.
 SOCIALES II. 2013 RESERVA 2. EJERCICIO 1. OPCIÓN B"
-Mates CCSS,2013,Programación Lineal,Reserva 3,Ejercicio 1 Opción B,"Se considera el recinto R del plano determinado por las siguientes inecuaciones:
+MATES_CCSS,2013,Programación Lineal,Reserva 3,Ejercicio 1 Opción B,"Se considera el recinto R del plano determinado por las siguientes inecuaciones:
 Sx—4y<20,x+8y<48,x>2,y>0
 a) Represente gráficamente el recinto R y calcule sus vértices.
 b) Halle los valores máximo y mínimo que alcanza la función F (x, y) =2x+12y en este recinto
 e indique dónde se alcanzan.
 c) Razone si existen valores (x, y) pertenecientes al recinto para los que F (x, y) =100
 SOCIALES II. 2013 RESERVA 3. EJERCICIO 1. OPCIÓN B"
-Mates CCSS,2013,Programación Lineal,Reserva 4,Ejercicio 1 Opción B,"Se desea maximizar la función F (x, y) =14x + 8y en el recinto dado por:
+MATES_CCSS,2013,Programación Lineal,Reserva 4,Ejercicio 1 Opción B,"Se desea maximizar la función F (x, y) =14x + 8y en el recinto dado por:
 y+3x29,y$—%x+l4,5x—2y515,x20
 a) Represente la región factible del problema.
 b) ¿Cuál es el valor máximo de F y la solución óptima del problema?
 c) Obtenga un punto de la región factible que no sea el óptimo.
 SOCIALES II. 2013 RESERVA 4. EJERCICIO 1. OPCIÓN B"
-Mates CCSS,2013,Programación Lineal,Septiembre,Ejercicio 1 Opción A,"Sea R la región factible definida por las inecuaciones x > 3y ; x<5; y>1.
+MATES_CCSS,2013,Programación Lineal,Septiembre,Ejercicio 1 Opción A,"Sea R la región factible definida por las inecuaciones x > 3y ; x<5; y>1.
 a) Razone si el punto (4.5,1.55) pertenece a R.
 b) Dada la función objetivo F (x, y)= 2x — 3y , calcule sus valores extremos en R.
 €) Razone si hay algún punto de R donde la función F valga3.5 . ¿Y 7.5 ?
 SOCIALES II. 2013 SEPTIEMBRE. EJERCICIO 1 OPCIÓN A"
-Mates CCSS,2014,Programación Lineal,Junio,Ejercicio 1 Opción B,"a) Dadas las inecuaciones: y <x+5,2x+y>-4,4x<10-y, y>0, represente el recinto que
+MATES_CCSS,2014,Programación Lineal,Junio,Ejercicio 1 Opción B,"a) Dadas las inecuaciones: y <x+5,2x+y>-4,4x<10-y, y>0, represente el recinto que
 limitan y calcule sus vértices.
 b) obtenga el máximo y el mínimo de la función F (x, y)= x +% en el recinto anterior, así como
 los puntos en los que se alcanza. ,
 SOCIALES II. 2014 JUNIO. EJERCICIO 1. OPCIÓN B"
-Mates CCSS,2014,Programación Lineal,Reserva 1,Ejercicio 1 Opción B,"a) Represente la región del plano determinada por las siguientes inecuaciones:
+MATES_CCSS,2014,Programación Lineal,Reserva 1,Ejercicio 1 Opción B,"a) Represente la región del plano determinada por las siguientes inecuaciones:
 2x+5y <15 ; x+y<6 ; 5x-7y<42; x>0
 b) Halle los vértices de la región anterior.
 c) En esta región, halle el valor mínimo de la función F(x,y)=-2x-2y+3 y donde lo
 alcanza. )
 SOCIALES II. 2014 RESERVA 1. EJERCICIO 1 OPCIÓN B"
-Mates CCSS,2014,Programación Lineal,Reserva 2,Ejercicio 1 Opción B,"Un nutricionista receta a una de sus pacientes una dieta semanal especial basada en lácteos y
+MATES_CCSS,2014,Programación Lineal,Reserva 2,Ejercicio 1 Opción B,"Un nutricionista receta a una de sus pacientes una dieta semanal especial basada en lácteos y
 pescado. Cada kg de lácteos cuesta 6 € y proporciona 3 unidades de proteínas y 1 de calorías;
 cada kg de pescado cuesta 12 €, aportando 1 unidad de proteínas y 2 de calorías.
 La dieta le exige no tomar más de 4 kg, conjuntamente, de lácteos y pescado, y un aporte
@@ -570,16 +570,16 @@ a) Plantee el problema para obtener la combinación de ambos alimentos que tenga
 mínimo.
 b) Dibuje la región factible y determine la solución óptima del problema.
 SOCIALES II. 2014 RESERVA 2. EJERCICIO 1 OPCIÓN B"
-Mates CCSS,2014,Programación Lineal,Reserva 3,Ejercicio 1 Opción A,"a) Represente gráficamente la región definida por las siguientes inecuaciones y calcule sus vértices:
+MATES_CCSS,2014,Programación Lineal,Reserva 3,Ejercicio 1 Opción A,"a) Represente gráficamente la región definida por las siguientes inecuaciones y calcule sus vértices:
 Xx+2y<3,x-—y<1,x>—1, y0.
 b) Calcule los valores máximo y mínimo de la función objetivo F (x, y) =2x + 4y enla región anterior
 y los puntos donde se alcanzan.
 SOCIALES II. 2014 RESERVA 3. EJERCICIO 1. OPCIÓN A"
-Mates CCSS,2014,Programación Lineal,Reserva 4,Ejercicio 1B Opción B,"Si A(0,2) , B(2,0) , C(4,0) , D(6,3) y E(3,6) son los vértices de una región factible, determine,
+MATES_CCSS,2014,Programación Lineal,Reserva 4,Ejercicio 1B Opción B,"Si A(0,2) , B(2,0) , C(4,0) , D(6,3) y E(3,6) son los vértices de una región factible, determine,
 en esa región, el valor mínimo y el valor máximo de la función F (x, y) =4x-—3y+8 e indique
 los puntos donde se alcanzan.
 SOCIALES II. 2014 RESERVA 4. EJERCICIO 1b. OPCIÓN B"
-Mates CCSS,2014,Programación Lineal,Septiembre,Ejercicio 1 Opción B,"a) Plantee, sin resolver, el siguiente problema:
+MATES_CCSS,2014,Programación Lineal,Septiembre,Ejercicio 1 Opción B,"a) Plantee, sin resolver, el siguiente problema:
 “Un mayorista vende productos congelados que presenta en envases de dos tamaños, pequeños
 y grandes. La capacidad de sus congeladores no le permite almacenar más de 1000 envases en
 total. En función de la demanda sabe que debe mantener un stock mínimo de 100 envases
@@ -590,7 +590,7 @@ proporciona el mínimo coste de almacenaje?”
 b) Represente el recinto que determinan las inecuaciones
 2x>10+y ; x<2(5-y) ; x>0; y>0.
 SOCIALES II. 2014 SEPTIEMBRE. EJERCICIO 1 OPCIÓN B"
-Mates CCSS,2015,Programación Lineal,Junio,Ejercicio 1 Opción A,"Con motivo de su inauguración, una heladería quiere repartir dos tipos de tarrinas de helados.
+MATES_CCSS,2015,Programación Lineal,Junio,Ejercicio 1 Opción A,"Con motivo de su inauguración, una heladería quiere repartir dos tipos de tarrinas de helados.
 El primer tipo de tarrina está compuesto por 100 g de helado de chocolate, 200 g de helado de
 straciatella y 1 barquillo. El segundo tipo llevará 150 g de helado de chocolate, 150 g de helado
 de straciatella y 2 barquillos. Sólo se dispone de 8 Kg de helado de chocolate, 10 Kg de helado
@@ -598,13 +598,13 @@ de straciatella y 100 barquillos.
 ¿Cuántas tarrinas de cada tipo se deben preparar para repartir el máximo número posible de
 tarrinas?.
 SOCIALES II. 2015 JUNIO. EJERCICIO 1. OPCIÓN A"
-Mates CCSS,2015,Programación Lineal,Reserva 1,Ejercicio 1 Opcion B,"a) Represente gráficamente la región factible definida por las siguientes restricciones:
+MATES_CCSS,2015,Programación Lineal,Reserva 1,Ejercicio 1 Opcion B,"a) Represente gráficamente la región factible definida por las siguientes restricciones:
 4x+2y>5 2x+5y<10 2x+2y<6 x>0 y>0
 y calcule sus vértices.
 b) Calcule los valores máximo y mínimo de la función objetivo F(x,y)=x+2y en la región
 anterior y los puntos donde se alcanzan.
 SOCIALES II. 2015 RESERVA 1 EJERCICIO 1. OPCION B"
-Mates CCSS,2015,Programación Lineal,Reserva 2,Ejercicio 1 Opcion B,"Un supermercado tiene almacenados 600 kg de manzanas y 400 kg de naranjas. Para
+MATES_CCSS,2015,Programación Lineal,Reserva 2,Ejercicio 1 Opcion B,"Un supermercado tiene almacenados 600 kg de manzanas y 400 kg de naranjas. Para
 incentivar su venta elabora dos tipos de bolsas: A y B.
 Las bolsas de tipo A contienen 3 kg de manzanas y 1 kg de naranjas; las bolsas de tipo B
 incluyen 2 kg de cada uno de los productos.
@@ -612,20 +612,20 @@ El precio de venta de la bolsa A es de 4 € y de 3 € el de la bolsa de tipo B
 Suponiendo que vende todas las bolsas preparadas, ¿cuántas bolsas de cada tipo debe haber
 elaborado para maximizar los ingresos? ¿A cuánto asciende el ingreso máximo?
 SOCIALES II. 2015 RESERVA 2 EJERCICIO 1. OPCION B"
-Mates CCSS,2015,Programación Lineal,Reserva 3,Ejercicio 1 Opcion B,"Sea el siguiente conjunto de inecuaciones:
+MATES_CCSS,2015,Programación Lineal,Reserva 3,Ejercicio 1 Opcion B,"Sea el siguiente conjunto de inecuaciones:
 x—3y<8 I3x+2y>15 x+3y<12 x>0 y=0
 a) Dibuje el recinto del plano determinado por estas inecuaciones.
 b) Determine los vértices de este recinto.
 c) Maximice la función F (x, y)= 5x +9y en este recinto, indicando el punto o puntos donde se
 alcanza ese máximo.
 SOCIALES II. 2015 RESERVA 3 EJERCICIO 1. OPCION B"
-Mates CCSS,2015,Programación Lineal,Reserva 4,Ejercicio 1 Opcion B,"Se desea invertir 100000 € en dos productos financieros A y B que tienen una rentabilidad del
+MATES_CCSS,2015,Programación Lineal,Reserva 4,Ejercicio 1 Opcion B,"Se desea invertir 100000 € en dos productos financieros A y B que tienen una rentabilidad del
 2% y del 2.5% respectivamente. Se sabe que el producto B exige una inversión mínima de
 10000 € y, por cuestiones de riesgo, no se desea que la inversión en B supere el triple de lo
 invertido en A. ¿Cuánto se debe invertir en cada producto para que el beneficio sea máximo y
 cuál sería dicho beneficio?
 SOCIALES II. 2015 RESERVA 4 EJERCICIO 1. OPCION B"
-Mates CCSS,2015,Programación Lineal,Septiembre,Ejercicio 1 Opción B,"Se dispone de 160 m de tejido de pana y 240 m de tejido de lana para hacer trajes y abrigos. Se usa 1 m
+MATES_CCSS,2015,Programación Lineal,Septiembre,Ejercicio 1 Opción B,"Se dispone de 160 m de tejido de pana y 240 m de tejido de lana para hacer trajes y abrigos. Se usa 1 m
 de pana y 2 m de lana para cada traje, y 2 m de pana y 2 m de lana para cada abrigo. Cada traje se
 vende a 250 € y cada abrigo a 350 €.
 a) ¿Cuántos trajes y abrigos se deben confeccionar para obtener el máximo beneficio? ¿A cuánto
@@ -633,7 +633,7 @@ asciende dicho beneficio?
 b) ¿Pueden hacerse 60 trajes y 50 abrigos con esas cantidades de tejido?. En caso afirmativo, ¿obtendría
 el máximo beneficio al venderlo todo?.
 SOCIALES II. 2015 SEPTIEMBRE. EJERCICIO 1. OPCIÓN B"
-Mates CCSS,2016,Programación Lineal,Junio,Ejercicio 1 Opción B,"Un taller fabrica y vende dos tipos de alfombras, de seda y de lana. Para la elaboración de una
+MATES_CCSS,2016,Programación Lineal,Junio,Ejercicio 1 Opción B,"Un taller fabrica y vende dos tipos de alfombras, de seda y de lana. Para la elaboración de una
 unidad se necesita un trabajo manual de 2 horas para el primer tipo y de 3 horas para el
 segundo y de un trabajo de máquina de 2 horas para el primer tipo y de 1 hora para el
 segundo. Por cuestiones laborales y de planificación, se dispone de hasta 600 horas al mes para
@@ -642,7 +642,7 @@ Si el beneficio por unidad para cada tipo de alfombra es de 150 € y de 100 €
 ¿cuántas alfombras de cada tipo debe elaborar para obtener máximo beneficio? ¿A cuánto
 asciende el mismo?
 SOCIALES II. 2016 JUNIO. EJERCICIO 1. OPCIÓN B"
-Mates CCSS,2016,Programación Lineal,Reserva 1,Ejercicio 1 Opción B,"Una empresa fabrica dos tipos de productos A y B, y vende todo lo que produce obteniendo un
+MATES_CCSS,2016,Programación Lineal,Reserva 1,Ejercicio 1 Opción B,"Una empresa fabrica dos tipos de productos A y B, y vende todo lo que produce obteniendo un
 beneficio unitario de 500€ y 600€, respectivamente. Cada producto pasa por dos procesos de
 fabricación, P1 y P2. Una unidad del producto A necesita 3 horas en el proceso P1, mientras
 que una del producto B necesita 5 horas en ese proceso. La mano de obra contratada permite
@@ -653,26 +653,26 @@ la región factible y obtenga sus vértices.
 b) ¿Cuál es el máximo beneficio semanal que puede obtener la empresa? ¿Cuánto debe fabricar
 de cada producto para obtener ese beneficio?.
 SOCIALES II. 2016 RESERVA 1. EJERCICIO 1. OPCIÓN B"
-Mates CCSS,2016,Programación Lineal,Reserva 2,Ejercicio 1 Opcion B,"Una empresa fabrica dos tipos de agua de colonia, A y B. La colonia A contiene un 5% de
+MATES_CCSS,2016,Programación Lineal,Reserva 2,Ejercicio 1 Opcion B,"Una empresa fabrica dos tipos de agua de colonia, A y B. La colonia A contiene un 5% de
 extracto de rosas y un 10% de alcohol, mientras que la B se fabrica con un 10% de extracto de
 rosas y un 15% de alcohol. El precio de venta de la colonia A es de 24 €/litro y el de la B es de
 40 €/litro. Se dispone de 70 litros de extracto de rosas y de 120 litros de alcohol. ¿Cuántos litros
 de cada colonia convendría fabricar para que el importe de la venta de la producción sea
 máximo?
 SOCIALES II. 2016. RESERVA 2. EJERCICIO 1. OPCION B"
-Mates CCSS,2016,Programación Lineal,Reserva 3,Ejercicio 1 Opcion A,"Sea la región factible definida por las siguientes inecuaciones:
+MATES_CCSS,2016,Programación Lineal,Reserva 3,Ejercicio 1 Opcion A,"Sea la región factible definida por las siguientes inecuaciones:
 x+y<20 x—-y>0 Sx—13y+8<0
 a) Represéntela gráficamente y calcule sus vértices.
 b) Razone si el punto (3,2.5) está en la región factible.
 c) Determine el valor máximo y el mínimo de la función F (x, y)= x —y +6 en esa región y los
 puntos en los que se alcanzan.
 SOCIALES II. 2016. RESERVA 3. EJERCICIO 1. OPCION A"
-Mates CCSS,2016,Programación Lineal,Septiembre,Ejercicio 1 Opcion B,"a) Represente la región definida por las siguientes inecuaciones y determine sus vértices:
+MATES_CCSS,2016,Programación Lineal,Septiembre,Ejercicio 1 Opcion B,"a) Represente la región definida por las siguientes inecuaciones y determine sus vértices:
 2x—-y<—2 4x—2y>—10 Sx—y<4 x>0
 b) Calcule los valores extremos de la función F(x,y)=6x-3y, en la región anterior y
 determine los puntos en los que se alcanzan.
 SOCIALES II. 2016 SEPTIEMBRE EJERCICIO 1. OPCION B"
-Mates CCSS,2017,Programación Lineal,Junio,Ejercicio 1 Opción B,"Un distribuidor de software informático tiene en su cartea de cliente tanto a empresas como a
+MATES_CCSS,2017,Programación Lineal,Junio,Ejercicio 1 Opción B,"Un distribuidor de software informático tiene en su cartea de cliente tanto a empresas como a
 particulares. Ha de conseguir al menos 25 empresas como clientes y el número de clientes
 particulares deberá ser como mínimo el doble que el de empresas. Por razones de eficiencia del
 servicio postventa, tiene estipulado un límite global de 120 clientes anuales. Cada empresa le
@@ -680,7 +680,7 @@ produce 386 € de beneficio, mientras que cada particular le produce 229 €. �
 de empresas y particulares le proporcionará el máximo beneficio?. ¿A cuánto ascenderá ese
 beneficio?.
 SOCIALES II. 2017 JUNIO. EJERCICIO 1. OPCIÓN B"
-Mates CCSS,2017,Programación Lineal,Reserva 1,Ejercicio 1 Opción A,"Una empresa envasa y comercializa leche entera y leche desnatada. El litro de leche entera
+MATES_CCSS,2017,Programación Lineal,Reserva 1,Ejercicio 1 Opción A,"Una empresa envasa y comercializa leche entera y leche desnatada. El litro de leche entera
 envasado genera un beneficio diario a la empresa de 0.4 € y el de leche desnatada de 0.1 €. La
 tecnología de la empresa impone que el número de litros de leche entera que se envasan
 diariamente no supere el doble del número de litros de leche desnatada. Además, la cantidad
@@ -689,20 +689,20 @@ de 1200 litros diarios de leche entera para envasar.
 ¿Cuánto debe envasar de cada producto para obtener el beneficio máximo? ¿A cuánto
 ascendería este beneficio?
 SOCIALES II. 2017 RESERVA 1. EJERCICIO 1. OPCIÓN A"
-Mates CCSS,2017,Programación Lineal,Reserva 2,Ejercicio 1 Opción B,"Sea el siguiente sistema de inecuaciones:
+MATES_CCSS,2017,Programación Lineal,Reserva 2,Ejercicio 1 Opción B,"Sea el siguiente sistema de inecuaciones:
 Xx+2y<11 x>2y-5 3x+y<18
 a) Dibuje la región que definen y calcule sus vértices.
 b) ¿Pertenece el punto (5.5,2) a la región anterior?
 ce) Calcule los puntos de esa región en los que la función F (x, y) =2x +3y alcanza los valores
 máximo y mínimo y determine dichos valores.
 SOCIALES II. 2017 RESERVA 2. EJERCICIO 1. OPCIÓN B"
-Mates CCSS,2017,Programación Lineal,Reserva 3,Ejercicio 1 Opción B,"a) Represente el recinto dado por las siguientes inecuaciones:
+MATES_CCSS,2017,Programación Lineal,Reserva 3,Ejercicio 1 Opción B,"a) Represente el recinto dado por las siguientes inecuaciones:
 Y<X+3 x+5y>23 2x+7y<30 y>0
 b) Razone si el punto (5,3) pertenece al recinto anterior.
 c) Obtenga los valores mínimo y máximo de la función F (x, y) = x — y en ese recinto,
 indicando en qué puntos se alcanzan. ,
 SOCIALES II. 2017 RESERVA 3. EJERCICIO 1. OPCIÓN B"
-Mates CCSS,2017,Programación Lineal,Reserva 4,Ejercicio 1 Opción A,"Un fabricante de complementos alimenticios elabora dos tipos de bebidas energéticas a partir
+MATES_CCSS,2017,Programación Lineal,Reserva 4,Ejercicio 1 Opción A,"Un fabricante de complementos alimenticios elabora dos tipos de bebidas energéticas a partir
 de tres componentes: taurina, cafeína y L-carnitina. Un envase del primer tipo de bebida
 precisa 30 g de taurina, 40 g de cafeína y 20 g de L-carnitina, mientras que uno del segundo
 necesita 40 g de taurina, 30 g de cafeína y 10 g de L-carnitina.
@@ -711,21 +711,21 @@ envase del primer tipo se vende por 1.5 € y cada envase del segundo tipo por 1
 envases de cada tipo de bebida tendría que elaborar para obtener la ganancia máxima? ¿A
 cuánto ascendería esta ganancia?
 SOCIALES II. 2017 RESERVA 4. EJERCICIO 1. OPCIÓN A"
-Mates CCSS,2017,Programación Lineal,Reserva 4,Ejercicio 1 Opción B,"Sea el recinto definido por las siguientes inecuaciones:
+MATES_CCSS,2017,Programación Lineal,Reserva 4,Ejercicio 1 Opción B,"Sea el recinto definido por las siguientes inecuaciones:
 y<2x+1 y<13-4x x>4-y
 a) Razone si el punto de coordenadas (1.1,2.8) pertenece al recinto.
 b) ¿En qué puntos alcanza la función F (x,y)=-3x+1.5y sus valores extremos y cuáles son
 Éstos?
 €) Razone si existe algún punto del recinto en el que la fqnción F se anule.
 SOCIALES II. 2017 RESERVA 4. EJERCICIO 1. OPCIÓN B"
-Mates CCSS,2017,Programación Lineal,Septiembre,Ejercicio 1 Opcion B,"a) Represente el recinto definido por las siguientes inecuaciones:
+MATES_CCSS,2017,Programación Lineal,Septiembre,Ejercicio 1 Opcion B,"a) Represente el recinto definido por las siguientes inecuaciones:
 X+y<3 2x+y>4 y»>—1
 b) Razone si el punto (2,1) pertenece al recinto anterior.
 c) Obtenga los vértices del recinto y los valores mínimo y máximo de la función
 F (x, y) =5x +4y en ese recinto, indicando en que puntos se alcanzan.
 d) Razona si la función F puede alcanzar el valor 9 en el recinto anterior.
 SOCIALES II. 2017 SEPTIEMBRE EJERCICIO 1. OPCION B"
-Mates CCSS,2018,Programación Lineal,Junio,Ejercicio 1 Opción A,"a) Plantee, sin resolver, las restricciones de este problema e indique la función a optimizar. “Un
+MATES_CCSS,2018,Programación Lineal,Junio,Ejercicio 1 Opción A,"a) Plantee, sin resolver, las restricciones de este problema e indique la función a optimizar. “Un
 ganadero alimenta a sus ovejas con maíz y pienso. Cada kilogramo de maíz aporta 600 g de
 hidratos de carbono y 200 g de proteínas, mientras que cada kilogramo de pienso aporta 300 g
 de hidratos de carbono y 600 g de proteínas. Cada oveja necesita diariamente como mínimo
@@ -736,14 +736,14 @@ b) Represente el recinto limitado por las siguientes restricciones, calculando s
 X>0 ; x<2y+2 ; x+y<S5
 Calcule el máximo de F (x, y) = 4x +3y en dicho recinto, así como el punto donde se alcanza.
 SOCIALES IT. 2018 JUNIO. EJERCICIO 1 OPCIÓN A"
-Mates CCSS,2018,Programación Lineal,Reserva 1,Ejercicio 1 Opcion A,"Se considera la región definida por las siguientes inecuaciones:
+MATES_CCSS,2018,Programación Lineal,Reserva 1,Ejercicio 1 Opcion A,"Se considera la región definida por las siguientes inecuaciones:
 2x-y>2 —x+2y<2 3x+y<15 y>0
 a) Represéntala gráficamente y determine sus vértices.
 b) Indique razonadamente si el punto (3,3) pertenece a dicha región
 c) ¿En qué puntos de la región anterior la función F (x,y)=3x-2y alcanza los valores
 máximo y mínimo y cuáles son éstos?. ,
 SOCIALES II. 2018 RESERVA 1. EJERCICIO 1. OPCION A"
-Mates CCSS,2018,Programación Lineal,Reserva 2,Ejercicio 1 Opción A,"La capacidad máxima de trabajo de un taller que se dedica a la confección de pañuelos y
+MATES_CCSS,2018,Programación Lineal,Reserva 2,Ejercicio 1 Opción A,"La capacidad máxima de trabajo de un taller que se dedica a la confección de pañuelos y
 corbatas es de 60 horas semanales. Cada pañuelo que confecciona le supone 2 horas de trabajo
 y le reporta un beneficio de 4 euros. En el caso de las corbatas son 3 horas y 6 euros
 respectivamente por unidad. Contrae el compromiso de que el número de corbatas
@@ -751,7 +751,7 @@ confeccionadas más el doble del número de pañuelos debe ser, como mínimo, 28
 condiciones, ¿cuántas unidades de cada tipo de prenda debe confeccionar para obtener un
 beneficio económico máximo?
 SOCIALES II. 2018 RESERVA 2. EJERCICIO 1. OPCIÓN A"
-Mates CCSS,2018,Programación Lineal,Reserva 3,Ejercicio 1 Opción A,"Una joyería elabora dos tipos de collares a partir de perlas blancas, grises y negras. Para un
+MATES_CCSS,2018,Programación Lineal,Reserva 3,Ejercicio 1 Opción A,"Una joyería elabora dos tipos de collares a partir de perlas blancas, grises y negras. Para un
 collar de tipo A hacen falta 20 perlas blancas, 20 grises y 30 negras, mientras que para un
 collar del tipo B, 10 perlas blancas, 20 grises y 60 negras. Se dispone de un máximo de 900
 perlas blancas y 1400 grises, mientras que es necesario que se utilicen al menos 1800 perlas
@@ -760,7 +760,7 @@ cada collar del tipo B, 500 euros, calcule cuál debe ser la producción para ob
 beneficio, así como a cuánto asciende el mismo. ¿Es posible fabricar 40 collares del tipo A y 20
 del tipo B?
 SOCIALES II. 2018 RESERVA 3. EJERCICIO 1. OPCIÓN A"
-Mates CCSS,2018,Programación Lineal,Reserva 4,Ejercicio 1 Opción B,"Una fábrica de palas de pádel produce dos modelos A y B con los que obtiene un beneficio por
+MATES_CCSS,2018,Programación Lineal,Reserva 4,Ejercicio 1 Opción B,"Una fábrica de palas de pádel produce dos modelos A y B con los que obtiene un beneficio por
 cada pala de 30 y 20 euros respectivamente. Para la elaboración de una pala del modelo A se
 necesitan 90 g de fibra de carbono y 100 g de goma EVA, mientras que para una pala del
 modelo B son necesarios 100 g de fibra de carbono y 50 g de goma EVA. La fábrica dispone
@@ -769,14 +769,14 @@ máximo 60 unidades diarias del modelo A. Calcule cuántas palas de cada modelo 
 fabricar para que el beneficio sea máximo y determine su importe. ¿Sería posible una
 producción diaria de 49 palas del modelo A y 32 palas del modelo B?
 SOCIALES II. 2018 RESERVA 4. EJERCICIO 1. OPCIÓN B"
-Mates CCSS,2018,Programación Lineal,Septiembre,Ejercicio 1 Opción A,"Sea el siguiente sistema de inecuaciones:
+MATES_CCSS,2018,Programación Lineal,Septiembre,Ejercicio 1 Opción A,"Sea el siguiente sistema de inecuaciones:
 X+2y<11 x>2y-5 3x+y<18 x>0 y>0
 a) Represente gráficamente la región que definen y calcule sus vértices.
 b) Halle los puntos de esa región en los que la función F (x, y)=2x+3y alcanza los valores
 máximo y mínimo y calcule dichos valores.
 e) Justifique si el punto (5.5,2) pertenece a la región factible.
 SOCIALES II. 2018 SEPTIEMBRE. EJERCICIO 1. OPCIÓN A"
-Mates CCSS,2019,Programación Lineal,Junio,Ejercicio 1 Opción A,"Una empresa textil quiere fabricar dos tipos de camisetas, lisas y estampadas. Para fabricar
+MATES_CCSS,2019,Programación Lineal,Junio,Ejercicio 1 Opción A,"Una empresa textil quiere fabricar dos tipos de camisetas, lisas y estampadas. Para fabricar
 una camiseta lisa necesita 70 g de algodón y 20 g de poliéster y para cada camiseta estampada
 60 g de algodón y 10 g de poliéster. La empresa dispone para ello de 4200 g de algodón y 800 g
 de poliéster. Para que sea rentable debe fabricar al menos 10 estampadas y además, el doble de
@@ -784,32 +784,32 @@ las estampadas debe ser al menos igual al número de lisas. Sabiendo que cada ca
 un beneficio de 5 euros y cada estampada de 4 euros, ¿cuántas camisetas de cada tipo debería
 fabricar para obtener el máximo beneficio? ¿Cuál es ese beneficio?.
 SOCIALES II. 2019 JUNIO. EJERCICIO 1 OPCIÓN A"
-Mates CCSS,2019,Programación Lineal,Reserva 1,Ejercicio 1 Opcion A,"Consideremos el recinto definido por las siguientes desigualdades:
+MATES_CCSS,2019,Programación Lineal,Reserva 1,Ejercicio 1 Opcion A,"Consideremos el recinto definido por las siguientes desigualdades:
 7y <15+3x y>x—3 3y>—x+11
 a) Represente gráficamente el recinto anterior y calcule sus vértices.
 b) Calcule en qué puntos se alcanzan los valores máximo y mínimo de la función
 H(x, y) =4x — y —16 restringida al anterior recinto y obtenga dichos valores.
 SOCIALES II. 2019 RESERVA 1. EJERCICIO 1. OPCION A"
-Mates CCSS,2019,Programación Lineal,Reserva 2,Ejercicio 1 Opcion A,"Una granja elabora una dieta mezclando dos tipos de pienso A y B. El pienso A aporta 2 unidades
+MATES_CCSS,2019,Programación Lineal,Reserva 2,Ejercicio 1 Opcion A,"Una granja elabora una dieta mezclando dos tipos de pienso A y B. El pienso A aporta 2 unidades
 de Calcio y 1 de Hierro por cada kilogramo, mientras que el B aporta 1 de Calcio y 2 de Hierro. El
 coste por kilogramo tanto del pienso A como del pienso B es 1 euro por kilogramo. La dieta
 deberá aportar al menos 2 unidades de Calcio y 2 de Hierro. Determine los kilogramos que se han
 de mezclar de cada tipo de pienso para que el coste de la dieta sea mínimo. ¿Cuál sería dicho
 coste? ¿Cuántas unidades de Hierro y de Calcio se administrarían a los animales con esta dieta?
 SOCIALES II. 2019 RESERVA 2. EJERCICIO 1. OPCION A"
-Mates CCSS,2019,Programación Lineal,Reserva 3,Ejercicio 1 Opcion A,"a) Se considera el recinto cuadrado de vértices (1,0), (0,1), (—1,0) y (0,-1). Indique en qué
+MATES_CCSS,2019,Programación Lineal,Reserva 3,Ejercicio 1 Opcion A,"a) Se considera el recinto cuadrado de vértices (1,0), (0,1), (—1,0) y (0,-1). Indique en qué
 puntos del recinto se alcanzan el valor máximo de la función F (x,y)=3x+2y+7 y el valor
 mínimo de la función G(x, y) = x + y + 6, calculando dichos valores.
 b) Resuelva la ecuación matricial (A —-A' ) X =B,siendo A y B las matrices
 SOCIALES II. 2019 RESERVA 3. EJERCICIO 1. OPCION A"
-Mates CCSS,2019,Programación Lineal,Reserva 4,Ejercicio 1 Opcion A,"Se quiere elaborar dos suplementos alimenticios UNAL y DOSAL con idea de completar la dieta
+MATES_CCSS,2019,Programación Lineal,Reserva 4,Ejercicio 1 Opcion A,"Se quiere elaborar dos suplementos alimenticios UNAL y DOSAL con idea de completar la dieta
 de ciertos individuos. Cada comprimido de UNAL aporta 5 unidades de calcio, 5 de proteínas y 1
 caloría y tiene un coste 0.6 euros, mientras que un comprimido de DOSAL aporta 2 unidades de
 calcio, 5 de proteínas y 3 calorías, siendo su coste de 1 euro. Sabiendo que los mínimos diarios
 requeridos son 10 unidades de calcio, 20 de proteínas y 6 calorías, encuentre la combinación de
 comprimidos de los dos suplementos que satisfacen las necesidades diarias con el menor coste.
 SOCIALES II. 2019 RESERVA 4. EJERCICIO 1. OPCION A"
-Mates CCSS,2019,Programación Lineal,Septiembre,Ejercicio 1 Opción B,"Una empresa comercializa dos tipos de concentrado de café, A y B, que se obtienen a partir de
+MATES_CCSS,2019,Programación Lineal,Septiembre,Ejercicio 1 Opción B,"Una empresa comercializa dos tipos de concentrado de café, A y B, que se obtienen a partir de
 tres tipos de grano: de Colombia, de Etiopía y de Costa Rica. Para elaborar 1 kg de
 concentrado A se necesitan 4.5 kg de grano de Colombia y 3 kg de grano de Etiopía. Por otra
 parte, se requieren 7.5 kg de grano de Colombia y 1.5 kg de grano de Costa Rica para elaborar
@@ -824,12 +824,12 @@ c) Sabiendo que el beneficio obtenido por la venta de cada kilogramo del tipo A 
 cada kilogramo del tipo B es 4 euros, ¿cuántos kilogramos del tipo A y cuántos del tipo B se
 habrán de producir para que el beneficio sea máximo? ¿Cuál es ese beneficio?.
 SOCIALES II. 2019 SEPTIEMBRE. EJERCICIO 1. OPCIÓN B"
-Mates CCSS,2019,Programación Lineal,Ponencia,9,"a) Represente el recinto limitado por las siguientes restricciones, calculando sus vértices:
+MATES_CCSS,2019,Programación Lineal,Ponencia,9,"a) Represente el recinto limitado por las siguientes restricciones, calculando sus vértices:
 y<2x x—y<2 3x+2y<24 2x+3y>12
 b) Halle los puntos de esta región donde la función F(x,y)=x+2y alcanza los valores
 máximo y mínimo, calculando dichos valores.
 SOCIALES II. 2019 PONENCIA 9"
-Mates CCSS,2018,Programación Lineal,Ponencia,10,"Una librería necesita al menos 14 cajas de rotuladores, 8 cajas de folios y 18 cajas de bolígrafos.
+MATES_CCSS,2018,Programación Lineal,Ponencia,10,"Una librería necesita al menos 14 cajas de rotuladores, 8 cajas de folios y 18 cajas de bolígrafos.
 Dos distribuidores pueden proporcionarle los materiales, pero solamente los venden en lotes
 completos. El distribuidor A envía en cada lote 2 cajas de rotuladores, 4 de folios y 1 de
 bolígrafos. El distribuidor B envía en cada lote 3 cajas de rotuladores, 1 de folios y 7 de
@@ -837,13 +837,13 @@ bolígrafos. Los costes por lote que se compre a cada distribuidor son de 60 €
 respectivamente. ¿Cuántos lotes habrá que comprar a cada distribuidor para que los costes
 sean mínimos?. ¿Cuáles serían esos costes?.
 SOCIALES II. 2018 PONENCIA 10"
-Mates CCSS,2019,Programación Lineal,Ponencia,11,"Consideremos el recinto definido por las siguientes desigualdades:
+MATES_CCSS,2019,Programación Lineal,Ponencia,11,"Consideremos el recinto definido por las siguientes desigualdades:
 2y<-3x+3 y>x—-6 2x<7y+37
 a) Represente gráficamente el recinto anterior y calcule sus vértices.
 b) Calcule en qué punto se alcanza el mínimo de la función H (x, y) =-3x +3y +2 restringida
 al anterior recinto y cuál es dicho valor.
 SOCIALES II. 2019 PONENCIA 11"
-Mates CCSS,2018,Programación Lineal,Ponencia,12,"Una agencia de viajes quiere reservar una serie de camarotes para un crucero. Sus previsiones
+MATES_CCSS,2018,Programación Lineal,Ponencia,12,"Una agencia de viajes quiere reservar una serie de camarotes para un crucero. Sus previsiones
 de venta son de al menos 8 camarotes individuales, 10 camarotes dobles y 8 triples.
 Actualmente hay dos navieras que le ofrecen sendas ofertas por paquetes. La naviera A le
 ofrece comprar paquetes formados por 3 camarotes individuales, 2 dobles y 2 triples a 7800
@@ -851,7 +851,7 @@ euros el paquete. La naviera B ofrece paquetes a 8000 euros, formados por 2 cama
 individuales, 3 dobles y 2 triples. ¿Cuántos paquetes habrá de comprar a cada naviera para
 que la agencia de viajes tenga un coste mínimo?. ¿A cuánto asciende dicho coste?.
 SOCIALES II. 2018 PONENCIA 12"
-Mates CCSS,2018,Programación Lineal,Ponencia,13,"Un agricultor quiere abonar su terreno con una mezcla de dos abonos A y B. El abono A aporta
+MATES_CCSS,2018,Programación Lineal,Ponencia,13,"Un agricultor quiere abonar su terreno con una mezcla de dos abonos A y B. El abono A aporta
 por cada kg de producto 3 unidades de Nitrógeno, 1 unidad de Potasio y 1 de Fósforo, mientras
 que el abono B aporta por cada kg de producto 1 unidad de Nitrógeno, 1 unidad de Potasio y 4
 de Fósforo. El terreno a abonar necesita al menos 10 unidades de Nitrógeno, al menos 6 de
@@ -859,7 +859,7 @@ Potasio y al menos 12 de Fósforo. Por otra parte, se sabe que el precio de cada
 €/kg para el abono A y 2 €/kg para el abono B. ¿Cuántos kg de abono se han de mezclar para
 que, respetando las condiciones indicadas, el coste sea el mínimo posible?.
 SOCIALES II. 2018 PONENCIA 13"
-Mates CCSS,2018,Programación Lineal,Ponencia,14,"Una empresa dedicada al comercio electrónico, pretende planificar su publicidad diaria en
+MATES_CCSS,2018,Programación Lineal,Ponencia,14,"Una empresa dedicada al comercio electrónico, pretende planificar su publicidad diaria en
 radio y televisión. Se estima que cada espacio publicitario en radio proporciona 2000 nuevos
 clientes en la sección de electrónica y 4000 en la sección de moda. Por otra parte, la estimación
 de nuevos clientes por cada espacio publicitario en TV es de 1000 para la sección de electrónica
@@ -870,12 +870,12 @@ el doble de la emisión en radio.
 Determine el número de espacios publicitarios que se deben emitir diariamente para conseguir
 los objetivos indicados de nuevos clientes con un coste mínimo. ¿Cuál es dicho coste?.
 SOCIALES II. 2018 PONENCIA 14"
-Mates CCSS,2019,Programación Lineal,Ponencia,15,"a) Represente gráficamente la región factible definida por las siguientes restricciones,
+MATES_CCSS,2019,Programación Lineal,Ponencia,15,"a) Represente gráficamente la región factible definida por las siguientes restricciones,
 calculando sus vértices:
 2x-y>4 2x+3y>12 y>1 y<10
 b) Calcule el mínimo de F (x, y) = 3x +4y enla región anterior.
 SOCIALES II. 2019 PONENCIA 15"
-Mates CCSS,2020,Programación Lineal,Junio,Ejercicio A2,"a) (1 punto) Una fábrica de electrodomésticos dispone de dos cadenas de montaje. En una hora
+MATES_CCSS,2020,Programación Lineal,Junio,Ejercicio A2,"a) (1 punto) Una fábrica de electrodomésticos dispone de dos cadenas de montaje. En una hora
 de trabajo, la cadena A produce 10 lavadoras y 5 frigoríficos, mientras que la cadena B
 produce 7 lavadoras y 6 frigoríficos. El coste de cada hora de trabajo en las cadenas A y B es de
 1200y 1500 euros, respectivamente. La cadena A puede funciona, como máximo, el doble de
@@ -887,7 +887,7 @@ vértices: x+2y>7 ; 4x—y>1 ; 2x—y<4 ; 3x+2y<20 ; x>0 ; y>0
 Obtenga el valor mínimo de la función F (x,y)=2x+y en el recinto anterior, así como el
 punto en el que se alcanza.
 SOCIALES II. 2020 JUNIO. EJERCICIO A2"
-Mates CCSS,2020,Programación Lineal,Reserva 1,Ejercicio A1,"Con el fin de recaudar dinero para el viaje de fin de curso, los alumnos de un instituto van a
+MATES_CCSS,2020,Programación Lineal,Reserva 1,Ejercicio A1,"Con el fin de recaudar dinero para el viaje de fin de curso, los alumnos de un instituto van a
 poner a la venta dos tipos de bolsas de merienda. El primer tipo contendrá dos bocadillos, un
 refresco y una pieza de fruta y el segundo tipo tendrá un bocadillo, un refresco y dos piezas de
 fruta. Por cada bolsa del primer tipo cobrarán 6 euros y por las del segundo tipo 5 euros.
@@ -897,7 +897,7 @@ la cantidad de dinero obtenida por su venta sea máxima y a cuánto asciende la 
 posible que vendan 40 bolsas de cada tipo? ¿Hay alguna posibilidad de que el importe de las
 ventas sea de 410 euros?
 SOCIALES II. 2020 RESERVA 1. EJERCICIO A1"
-Mates CCSS,2020,Programación Lineal,Reserva 2,Ejercicio A1,"(2.5 puntos) Un cocinero tiene que hacer el postre para una cena y le han encargado dos de sus
+MATES_CCSS,2020,Programación Lineal,Reserva 2,Ejercicio A1,"(2.5 puntos) Un cocinero tiene que hacer el postre para una cena y le han encargado dos de sus
 mejores creaciones: Delicia Roja y Delicia Negra. Para elaborar 1 kg de Delicia Roja son
 necesarias 3 tarrinas de fresas y 1 tableta de chocolate y para elaborar 1 kg de Delicia Negra se
 necesita 1 tarrina de fresas y 2 tabletas de chocolate. Dispone de 15 tarrinas de fresas y 10
@@ -906,7 +906,7 @@ tampoco debe ser superior al doble de Delicia Roja. Si cada kilogramo de Delicia
 reporta un beneficio de 3 euros y el de Delicia Negra 5 euros, averigiie qué cantidad de cada
 postre debe elaborar para conseguir un beneficio máximo y a cuánto asciende ese beneficio.
 SOCIALES II. 2020 RESERVA 2. EJERCICIO A1"
-Mates CCSS,2020,Programación Lineal,Reserva 3,Ejercicio A1,"(2.5 puntos) Una confitería elabora dos tipos de tartas, unas de chocolate y otras de merengue y
+MATES_CCSS,2020,Programación Lineal,Reserva 3,Ejercicio A1,"(2.5 puntos) Una confitería elabora dos tipos de tartas, unas de chocolate y otras de merengue y
 chocolate. Para ello dispone de 100 kg de bizcocho, 80 kg de crema de chocolate y 46 kg de
 merengue. Para elaborar una tarta de chocolate, se requieren 1 kg de bizcocho y 2 kg de crema
 de chocolate y para la tarta de chocolate y merengue se requieren 2 kg de bizcocho, 1 kg de
@@ -915,20 +915,20 @@ crema de chocolate y 1 kg de merengue. Por cada tarta de chocolate se obtiene un
 que se elabora, ¿cuántas tartas de cada tipo debe preparar para obtener un beneficio máximo?
 ¿Cuál es dicho beneficio?
 SOCIALES II. 2020 RESERVA 3. EJERCICIO A1"
-Mates CCSS,2020,Programación Lineal,Reserva 4,Ejercicio A2,"Se considera la región del plano definida por las siguientes inecuaciones:
+MATES_CCSS,2020,Programación Lineal,Reserva 4,Ejercicio A2,"Se considera la región del plano definida por las siguientes inecuaciones:
 X+y<4; x—-y2—2 ; x+3y>2; y<2
 a) (15 puntos) Represéntela gráficamente y determine sus vértices.
 b) (0%25 puntos) Indique razonadamente si el punto (4,—0'75) pertenece a dicha región.
 ce) (0.75 puntos) ¿En qué puntos de la región anterior la función F (x, y)= x +y alcanza los
 valores máximo y mínimo y cuáles son estos valores?
 SOCIALES II. 2020 RESERVA 4. EJERCICIO A2"
-Mates CCSS,2020,Programación Lineal,Septiembre,Ejercicio A2,"a) (1?75 puntos) Represente la región factible definida por las siguientes inecuaciones y calcule
+MATES_CCSS,2020,Programación Lineal,Septiembre,Ejercicio A2,"a) (1?75 puntos) Represente la región factible definida por las siguientes inecuaciones y calcule
 sus vértices:
 X+2y<13 x-y<4 x—-2y>—7 Xx+y>5
 b) (0%75 puntos) Calcule los valores máximo y mínimo de la función objetivo F (x, y)= x +y en
 la región anterior y determine los puntos en los que se alcanzan.
 SOCIALES II. 2020 SEPTIEMBRE. EJERCICIO A2"
-Mates CCSS,2021,Programación Lineal,Junio,Ejercicio A1,"Una empresa de recambios industriales produce dos tipos de baterías, A y B. Su producción
+MATES_CCSS,2021,Programación Lineal,Junio,Ejercicio A1,"Una empresa de recambios industriales produce dos tipos de baterías, A y B. Su producción
 semanal debe ser de al menos 10 baterías en total y el número de baterías de tipo B no puede
 superar en más de 10 unidades a las fabricadas del tipo A. Cada batería de tipo A tiene unos
 gastos de producción de 150 euros y cada batería de tipo B de 100 euros, disponiendo de un
@@ -937,7 +937,7 @@ Si la empresa vende todo lo que produce y cada batería de tipo A genera un bene
 130euros y la de tipo B de 140 euros, ¿cuántas baterías de cada tipo tendrán que producir a la
 semana para que el beneficio total sea máximo?. ¿Cuál es ese beneficio?.
 SOCIALES II. 2021 JUNIO. EJERCICIO A1"
-Mates CCSS,2021,Programación Lineal,Reserva 1,Ejercicio A1,"La Agencia Espacial Europea contará con un presupuesto de 24 millones de euros para
+MATES_CCSS,2021,Programación Lineal,Reserva 1,Ejercicio A1,"La Agencia Espacial Europea contará con un presupuesto de 24 millones de euros para
 financiar misiones sobre Observación de la Tierra y para financiar programas de Transporte
 Espacial.
 Cada misión supone una inversión de 200.000 euros y cada programa 100.000 euros. Teniendo
@@ -947,7 +947,7 @@ número de misiones debe ser al menos 4, pero no más de la mitad del número de
 función F (x, y) =0'6x +0'4y, con x misiones e y programas?.
 ,
 SOCIALES II. 2021 RESERVA 1. EJERCICIO A1"
-Mates CCSS,2021,Programación Lineal,Reserva 2,Ejercicio A1,"Un laboratorio farmacéutico tiene una línea de producción con dos medicamentos A y B, con
+MATES_CCSS,2021,Programación Lineal,Reserva 2,Ejercicio A1,"Un laboratorio farmacéutico tiene una línea de producción con dos medicamentos A y B, con
 marca comercial y genérico respectivamente, de los cuales, entre los dos como máximo puede
 fabricar 10 unidades a la hora. Desde el punto de vista del rendimiento, se han de producir al
 menos 4 unidades por hora entre los dos y por motivos de política sanitaria, la producción de A
@@ -957,7 +957,7 @@ unidad de tipo B le produce un beneficio de 25 euros. Si se vende todo lo que se
 determine las unidades de cada medicamento que deberá fabricar por hora para maximizar su
 beneficio y obtenga el valor de dicho beneficio.
 SOCIALES II. 2021 RESERVA 2. EJERCICIO A1"
-Mates CCSS,2021,Programación Lineal,Reserva 3,Ejercicio A1,"a) Una frutería vende dos tipos de surtidos de frutos rojos, A y B. El surtido de tipo A contiene
+MATES_CCSS,2021,Programación Lineal,Reserva 3,Ejercicio A1,"a) Una frutería vende dos tipos de surtidos de frutos rojos, A y B. El surtido de tipo A contiene
 75 g de arándanos, 100 g de frambuesas y se vende a 2,40 euros, mientras que el de tipo B
 contiene 75 g de arándanos, 50 g de frambuesas y se vende a 1,80 euros. La frutería dispone de
 un total de 3?75 kg de arándanos y 4 kg de frambuesas y el número de surtidos que vende del
@@ -969,7 +969,7 @@ X+4y>5 ; x+2y>4 ; 7x+5y<35 ; x>0
 ¿En qué punto de la región anterior la función F (x,y)=2x+ y alcanza el mínimo y cuál es
 dicho valor?.
 SOCIALES II. 2021 RESERVA 3. EJERCICIO A1"
-Mates CCSS,2021,Programación Lineal,Reserva 4,Ejercicio A2,"Se consideran las siguientes inecuaciones:
+MATES_CCSS,2021,Programación Lineal,Reserva 4,Ejercicio A2,"Se consideran las siguientes inecuaciones:
 Sx—3y>—9 ; x+y<11 ; 6x+y<36 ; x+2y>6
 a) Representa la región factible definida por las inecuaciones anteriores y determine sus
 vértices.
@@ -977,7 +977,7 @@ b) ¿Pertenece el punto (5,7) a la región factible anterior?.
 c) Calcule los valores máximo y mínimo de la función F (x, y) =10x —6y en la región anterior
 y determine los puntos en los que se alcanzan.
 SOCIALES II. 2021 RESERVA 4. EJERCICIO A2"
-Mates CCSS,2021,Programación Lineal,Julio,Ejercicio A2,"Se consideran las siguientes inecuaciones:
+MATES_CCSS,2021,Programación Lineal,Julio,Ejercicio A2,"Se consideran las siguientes inecuaciones:
 Sx—-4y<—-19 3x-4y<-13 x>—7 x—y>2
 a) Represente la región factible definida por las inecuaciones y determine sus vértices.
 b) ¿Cuáles son los puntos en los que se alcanza el mínimo y el máximo de la función
@@ -986,40 +986,40 @@ G(x, y) = _Ex + E y enlacitada región factible?. ¿Cuál es su valor?.
 c) Responda de forma razonada si la función G(x, y) = —%x+% y puede alcanzar el valor 37
 en la región factible hallada.
 SOCIALES II. 2021 JULIO. EJERCICIO A2"
-Mates CCSS,2022,Programación Lineal,Junio,Ejercicio A1,"Una pastelería decide preparar dos tipos de cajas de pastelitos para regalar a los clientes en su
+MATES_CCSS,2022,Programación Lineal,Junio,Ejercicio A1,"Una pastelería decide preparar dos tipos de cajas de pastelitos para regalar a los clientes en su
 inauguración. En total dispone de 120 piononos y 150 pestiños. En la caja del primer tipo habrá
 3 piononos y 2 pestiños y en la caja del segundo tipo 4 piononos y 6 pestiños. Deben preparar al
 menos 9 cajas del segundo tipo.
 Determine cuántas cajas de cada tipo deberá preparar para realizar el máximo número de
 regalos posible. En este caso, indique cuántos piononos y cuántos pestiños se utilizarán.
 SOCIALES II. 2022 JUNIO. EJERCICIO A1"
-Mates CCSS,2022,Programación Lineal,Reserva 1,Ejercicio A2,"Una sastrería dispone de 70m? de tela de lino y de 150m? de tela de algodón. En la confección
+MATES_CCSS,2022,Programación Lineal,Reserva 1,Ejercicio A2,"Una sastrería dispone de 70m? de tela de lino y de 150m? de tela de algodón. En la confección
 de un traje se emplea 1m? de tela de lino y 3m? de tela de algodón, y en un vestido se
 necesitan 2m” de tela de cada tipo. Se obtienen 60 euros de beneficio por cada traje y 70 euros
 por cada vestido. Determine el número de trajes y vestidos que se deben confeccionar para
 obtener el máximo beneficio, así como dicho beneficio máximo.
 SOCIALES II. 2022 RESERVA 1. EJERCICIO A2"
-Mates CCSS,2022,Programación Lineal,Reserva 2,Ejercicio A1,"Se considera el recinto definido por las siguientes inecuaciones:
+MATES_CCSS,2022,Programación Lineal,Reserva 2,Ejercicio A1,"Se considera el recinto definido por las siguientes inecuaciones:
 Xx+2y>7 2x—y<4 A4x-—y>1 3x+2y<20
 a) Represente dicho recinto y calcule sus vértices.
 b) Obtenga el valor máximo de la función F (x, y)= x+3y en el recinto anterior, así como el
 punto donde se alcanza.
 SOCIALES II. 2022 RESERVA 2. EJERCICIO A1"
-Mates CCSS,2022,Programación Lineal,Reserva 3,Ejercicio A2,"Una papelería quiere vender 400 cuadernos de vacaciones y 300 estuches de lápices de colores.
+MATES_CCSS,2022,Programación Lineal,Reserva 3,Ejercicio A2,"Una papelería quiere vender 400 cuadernos de vacaciones y 300 estuches de lápices de colores.
 Para ello ha preparado dos lotes de esos productos a precios especiales. Los lotes de tipo A
 contienen 2 cuadernos y dos estuches; los lotes de tipo B contienen 3 cuadernos y 1 estuche. No
 es posible vender más de 100 lotes de tipo B. Cada lote de tipo A se vende a 35 € y cada lote de
 tipo B a 45 €. Calcule cuántos lotes de cada tipo debe vender la papelería para conseguir el
 máximo valor de ventas. ¿A cuánto asciende dicho valor?
 SOCIALES II. 2022 RESERVA 3. EJERCICIO A2"
-Mates CCSS,2022,Programación Lineal,Reserva 4,Ejercicio A1,"Una fábrica de juguetes educativos produce juegos de ajedrez y dominó. Para fabricar un
+MATES_CCSS,2022,Programación Lineal,Reserva 4,Ejercicio A1,"Una fábrica de juguetes educativos produce juegos de ajedrez y dominó. Para fabricar un
 ajedrez se necesitan 2 kg de madera y 4 horas de trabajo, mientras que para fabricar un
 dominó se necesita 1 kg de madera y 1 hora de trabajo. Para que la producción sea rentable
 hay que hacer al día al menos 3 juegos y emplear como máximo 7 kg de madera y 9 horas de
 trabajo. Cada ajedrez se vende por 40 € y cada dominó por 15 €. ¿Cuántos juegos de ajedrez y
 dominó deben fabricarse para que la ganancia obtenida sea máxima? ¿Cuál será esa ganancia?
 SOCIALES II. 2022 RESERVA 4. EJERCICIO A1"
-Mates CCSS,2022,Programación Lineal,Julio,Ejercicio A2,"Se considera el recinto limitado por las siguientes inecuaciones:
+MATES_CCSS,2022,Programación Lineal,Julio,Ejercicio A2,"Se considera el recinto limitado por las siguientes inecuaciones:
 y—-2x<7 —x+3y<21 x+2y<19 x+y<14
 a) Represente el recinto y determine sus vértices.
 b) Calcule los valores máximo y mínimo de la función F(x, y)= x+4y en el recinto anterior,
@@ -1027,14 +1027,14 @@ así como los puntos donde se alcanza.
 c) ¿Podría tomar la función objetivo F el valor de 40 en algún punto de la región factible? ¿Y el
 valor 20?. Justifique las respuestas.
 SOCIALES II. 2022 JULIO. EJERCICIO A2"
-Mates CCSS,2023,Programación Lineal,Junio,Ejercicio A1,"Sea la función F (x, y) = 5x —3y y la región del plano R definida mediante las inecuaciones:
+MATES_CCSS,2023,Programación Lineal,Junio,Ejercicio A1,"Sea la función F (x, y) = 5x —3y y la región del plano R definida mediante las inecuaciones:
 2x—3y<1 4x+y<9 x+y<5 9x-y>0 y=0
 a) Dibuje la región R y calcule sus vértices.
 b) Indique razonadamente si los puntos A(2,2) y B(1,3'5) pertenecen a la región R.
 c) Obtenga los puntos de la región R donde F alcanza el máximo y el mínimo y calcule sus
 valores correspondientes.
 SOCIALES II. 2023 JUNIO. EJERCICIO A1"
-Mates CCSS,2023,Programación Lineal,Reserva 1,Ejercicio A2,"Una empresa de material informático dispone de dos cadenas de fabricación, A y B, en las que
+MATES_CCSS,2023,Programación Lineal,Reserva 1,Ejercicio A2,"Una empresa de material informático dispone de dos cadenas de fabricación, A y B, en las que
 quiere aumentar su producción realizando horas extraordinarias.
 En una hora extraordinaria de trabajo, la cadena A prepara 15 portátiles y 6 tablets, y la
 cadena B prepara 10 portátiles y 10 tablets. Los costes de producción por hora extraordinaria
@@ -1044,7 +1044,7 @@ semana se debe producir adicionalmente un máximo de 360 portátiles y al menos 
 formule y resuelva el problema que permita obtener la planificación de la empresa que
 minimice los costes de producción. ¿A cuánto ascienden dichos costes?.
 SOCIALES II. 2023 RESERVA 1. EJERCICIO A2"
-Mates CCSS,2023,Programación Lineal,Reserva 2,Ejercicio A2,"Una compañía de transporte marítimo de mercancías dispone de dos barcos B, y B, para
+MATES_CCSS,2023,Programación Lineal,Reserva 2,Ejercicio A2,"Una compañía de transporte marítimo de mercancías dispone de dos barcos B, y B, para
 realizar una determinada ruta, durante un año, entre dos ciudades costeras europeas. El barco
 B , no puede realizar más de 14 viajes y debe realizar tantos viajes o más que el barco B,.
 Entre los dos barcos deben realizar al menos 10 viajes y como mucho 24. La compañía obtiene
@@ -1052,7 +1052,7 @@ unos beneficios de 15000 € por cada viaje del barco B, y 17000 € por cada vi
 Halle el número de viajes que debe realizar cada barco para que el beneficio obtenido por la
 empresa sea máximo y obtenga dicho beneficio.
 SOCIALES II. 2023 RESERVA 2. EJERCICIO A2"
-Mates CCSS,2023,Programación Lineal,Reserva 3,Ejercicio A1,"El aforo de un campo de fútbol es de 10000 personas. Según el reglamento establecido por la
+MATES_CCSS,2023,Programación Lineal,Reserva 3,Ejercicio A1,"El aforo de un campo de fútbol es de 10000 personas. Según el reglamento establecido por la
 federación de fútbol, como máximo deben ponerse a la venta 3000 entradas para los aficionados
 del equipo visitante y por cada aficionado visitante debe haber dos aficionados locales como
 mínimo y cuatro aficionados locales como máximo.
@@ -1060,7 +1060,7 @@ Si el precio de la entrada es de 50 € pero el aficionado local tiene un descue
 ¿cuántos aficionados locales y visitantes deben asistir para obtener el mayor importe con la
 venta de entradas?.
 SOCIALES II. 2023 RESERVA 3. EJERCICIO A1"
-Mates CCSS,2023,Programación Lineal,Reserva 4,Ejercicio A1,"Una empresa de pinturas quiere elaborar botes de pintura de dos colores nuevos: Júpiter y
+MATES_CCSS,2023,Programación Lineal,Reserva 4,Ejercicio A1,"Una empresa de pinturas quiere elaborar botes de pintura de dos colores nuevos: Júpiter y
 Minerva. Para ello, dispone de 1000 kg de pintura de color verde, 800 kg de color morado y 300
 kg de color naranja. Para elaborar un bote de color Júpiter se necesitan 10 kg de pintura verde,
 5 kg de morada y 5 kg de naranja. Para elaborar un bote de color Minerva se necesitan 5 kg de
@@ -1068,7 +1068,7 @@ pintura verde y 5 kg de morada. Sabiendo que se obtiene un beneficio de 30 € p
 pintura Júpiter y 20 € por un bote de pintura Minerva, ¿cuántos botes de cada tipo deberá
 fabricar la empresa para obtener un beneficio máximo? ¿cuál será el valor de ese beneficio?.
 SOCIALES II. 2023 RESERVA 4. EJERCICIO A1"
-Mates CCSS,2023,Programación Lineal,Julio,Ejercicio A2,"Un artesano decide montar dos tipos de anillos utilizando dos tipos de piedras semipreciosas,
+MATES_CCSS,2023,Programación Lineal,Julio,Ejercicio A2,"Un artesano decide montar dos tipos de anillos utilizando dos tipos de piedras semipreciosas,
 una de mayor calidad que otra. Para montar uno de los anillos tarda 20 minutos y utiliza 1 de
 las piedras de mayor calidad y 2 de la menor calidad. Para el otro tarda 50 minutos y utiliza 3
 piedras de mayor calidad y 1 de menor calidad.
@@ -1078,7 +1078,7 @@ Sabiendo que el primer tipo de anillo se vende a 21€, el segundo a 50€ y que
 menos 20 anilllos del primer tipo a la semana, determine cuántos anillos de cada tipo deben
 montarse para maximizar el valor de la ventas. ¿A cuánto asciende dicho valor?.
 SOCIALES II. 2023 JULIO. EJERCICIO A2"
-Mates CCSS,2024,Programación Lineal,Junio,Ejercicio A2,"Un agricultor posee una finca con un olivar intensivo de secano y desea transformar una parte
+MATES_CCSS,2024,Programación Lineal,Junio,Ejercicio A2,"Un agricultor posee una finca con un olivar intensivo de secano y desea transformar una parte
 de la misma en regadío, pero manteniendo un mínimo de 20 hectáreas de cultivo de secano.
 Para ello, anualmente dispone de 30.000 m* de agua, de 5.500 kg de abono y de 3.00 kg de
 productos fitosanitarios. Cada hectárea de olivar de regadío necesita 1.500 m* de agua, 110 kg

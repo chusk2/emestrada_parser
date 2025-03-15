@@ -1,5 +1,361 @@
 subject,year,topic,exam,exercise,statement
-fisica,2021,Movimiento Ondulatorio,Junio,Ejercicio C1,"a) Un rayo de luz monocromática pasa de un medio de índice de refracción n, a otro medio con
+fisica,2016,Ondas,Junio,Ejercicio 2 Opción A,"a) Explique las características cinemáticas de un movimiento armónico simple.
+b) Dos partículas de igual masa, m, unidas a dos resortes de constantes k, y k, (k,>k,),
+describen movimientos armónicos simples de igual amplitud. ¿Cuál de las dos partículas tiene
+mayor energía cinética al pasar por su posición de equilibrio? ¿Cuál de las dos oscila con
+mayor periodo? Razone las respuestas.
+FISICA. 2016. JUNIO. EJERCICIO 2. OPCIÓN A"
+fisica,2016,Ondas,Junio,Ejercicio 4 Opción B,"Un rayo de luz con una longitud de onda de 300 nm se propaga en el interior de una fibra de
+vidrio, de forma que sufre reflexión total en sus caras.
+a) Determine para qué valores del ángulo que forma el rayo luminoso con la normal a la
+superficie de la fibra se producirá reflexión total si en el exterior hay aire. Razone la respuesta.
+b) ¿Cuál será la longitud de onda del rayo de luz al emerger de la fibra óptica?
+vidrio — 1'38
+FISICA. 2016. JUNIO. EJERCICIO 4. OPCIÓN B"
+fisica,2016,Ondas,Reserva 2,Ejercicio 2 Opción A,"a) Explique qué es una onda estacionaria e indique cómo puede producirse. Describa sus
+características.
+b) Explique cómo se mueven los puntos de una cuerda sujeta por sus extremos en la que se ha
+formado una onda estacionaria.
+FISICA. 2016. RESERVA 2. EJERCICIO 2. OPCIÓN A"
+fisica,2016,Ondas,Reserva 2,Ejercicio 4 Opción B,"La ecuación de una onda en una cuerda es: y (x,t)=0'5 sen (3nt + 21tx) (S.L.)
+a) Explique las características de la onda y calcule su periodo, longitud de onda y velocidad de
+propagación.
+b) Calcule la elongación y la velocidad de una partícula de la cuerda situada en x=0'2 m, en
+el instante t=0'3s. ¿Cuál es la diferencia de fase entre dos puntos separados 0,3 m?
+FISICA. 2016. RESERVA 2. EJERCICIO 4. OPCIÓN B"
+fisica,2016,Ondas,Reserva 3,Ejercicio 2 Opción B,"a) Superposición de ondas; descripción cualitativa de los fenómenos de interferencia de dos
+ondas.
+b) Comente las siguientes afirmaciones: En una onda estacionaria se cumple: i) la amplitud es
+constante; ii) la onda transporta energía; iii) la frecuencia es la misma que la de las dos ondas
+que interfieren.
+FISICA. 2016. RESERVA 3. EJERCICIO 2. OPCIÓN B"
+fisica,2016,Ondas,Reserva 3,Ejercicio 4 Opción A,FISICA. 2016. RESERVA 3. EJERCICIO 4. OPCIÓN A
+fisica,2016,Ondas,Reserva 3,Ejercicio 4 Opción B,"Un rayo luminoso incide sobre el vidrio de una ventana de índice de refracción 1,4.
+a) Determine el ángulo de refracción en el interior del vidrio y el ángulo con el que emerge, una
+vez que lo atraviesa, para un ángulo de incidencia de 20*.
+b) Sabiendo que el vidrio tiene un espesor de 8 mm, determine la distancia recorrida por la luz
+en su interior y el tiempo que tarda en atravesarlo.
+e=3-10""m-s""! ; n =1
+FISICA. 2016. RESERVA 3. EJERCICIO 4. OPCIÓN B"
+fisica,2016,Ondas,Reserva 4,Ejercicio 2 Opción B,"a) Enuncie las leyes de la reflexión y de la refracción de la luz.
+b) Dibuje la trayectoria de un rayo de luz: i) cuando pasa de un medio a otro de mayor índice
+de refracción; ii) cuando pasa de un medio a otro de menor índice de refracción. Razone en
+cuál de los dos casos puede producirse reflexión total. Haga uso de las leyes de la reflexión y
+refracción de la luz para justificar sus respuestas
+FISICA. 2016. RESERVA 4. EJERCICIO 2. OPCIÓN B"
+fisica,2016,Ondas,Reserva 4,Ejercicio 4 Opción A,"Sobre un plano horizontal sin rozamiento se encuentra un bloque, de masa m =0'25 kg, sujeto
+al extremo libre de un resorte horizontal fijo por el otro extremo. El bloque realiza un
+movimiento armónico simple con un periodo de 0'17 s y su energía cinética máxima es 0,5 J.
+a) Escriba la ecuación de movimiento del bloque sabiendo que en el instante inicial se
+encuentra en la posición de equilibrio.
+b) Razone cómo cambiarían la amplitud y la frecuencia del movimiento si se sustituye el resorte
+por otro de constante elástica doble, manteniendo la misma energía cinética máxima
+FISICA. 2016. RESERVA 4. EJERCICIO 4. OPCIÓN A"
+fisica,2016,Ondas,Septiembre,Ejercicio 2 Opción B,"a) Periodicidad espacial y temporal de las ondas; su interdependencia.
+b) Escriba la ecuación de una onda armónica que se propaga en el sentido positivo del eje X e
+indique el significado de las magnitudes que aparecen en ella. Escriba la ecuación de otra onda
+que se propague en sentido opuesto y que tenga doble amplitud y frecuencia mitad que la
+anterior. Razone si las velocidades de propagación de ambas ondas es la misma.
+FISICA. 2016. SEPTIEMBRE. EJERCICIO 2. OPCIÓN B"
+fisica,2016,Ondas,Septiembre,Ejercicio 4 Opción A,"Una onda se propaga en un medio material según la ecuación:
+y (x,t) =0'2 sen 2n(50t—%) (S.L)
+a) Indiqué el tipo de onda y su sentido de propagación y determine la amplitud, período,
+longitud de onda y velocidad de propagación.
+b) Determine la máxima velocidad de oscilación de las partículas del medio y calcule la
+diferencia de fase, en un mismo instante, entre dos puntos que distan entre sí 2,5 cm.
+FISICA. 2016. SEPTIEMBRE. EJERCICIO 4. OPCIÓN A"
+fisica,2016,Ondas,Septiembre,Ejercicio 4 Opción B,"Un rayo láser, cuya longitud de onda en el aire es 500 nm, pasa del aire a un vidrio.
+a) Describa con ayuda de un esquema los fenómenos de reflexión y refracción que se producen
+y calcule la frecuencia de la luz láser.
+b) Si el ángulo de incidencia es de 45” y el de refracción 27”, calcule el índice de refracción del
+vidrio y la longitud de onda de la luz láser en el interior del mismo.
+e=3-10* m-s ""; ,,, =1
+FISICA. 2016. SEPTIEMBRE. EJERCICIO 4. OPCIÓN B"
+fisica,2017,Ondas,Junio,Ejercicio 3 Opción A,"a) Explique la naturaleza de las ondas electromagnéticas e indique las distintas zonas en las que
+se divide el espectro electromagnético, indicando al menos una aplicación de cada una de ellas.
+b) Una antena de radar emite en el vacío radiación electromagnética de longitud de onda 0,03
+m, que penetra en agua con un ángulo de incidencia de 20* respecto a la normal. Su velocidad
+en el agua se reduce al 80 % del valor en el vacío. Calcule el periodo, la longitud de onda y el
+ángulo de refracción en el agua.
+e=3:10% m-s”
+FISICA. 2017. JUNIO. EJERCICIO 3. OPCIÓN A"
+fisica,2017,Ondas,Junio,Ejercicio 3 Opción B,"a) Enuncie las leyes de la reflexión y de la refracción de la luz. Explique la diferencia entre
+ambos fenómenos.
+b) Sea un recipiente con agua cuya superficie está cubierta por una capa de aceite. Realice un
+diagrama que indique la trayectoria de los rayos de luz al pasar del aire al aceite y después al
+agua. Si un rayo de luz incide desde el aire sobre la capa de aceite con un ángulo de 20”,
+determine el ángulo de refracción en el agua. ¿Con qué velocidad se desplazará la luz por el
+aceite?
+i acerte
+e=3-10""m-s ""5n =15 ucy =1'45 5 uu =1'33
+FISICA. 2017. JUNIO. EJERCICIO 3. OPCIÓN B"
+fisica,2017,Ondas,Reserva 1,Ejercicio 3 Opción A,"describen.
+b) En una cuerda tensa se genera una onda viajera de 10 cm de amplitud mediante un
+oscilador de 20 Hz. La onda se propaga a 2 m-s-'. Escriba la ecuación de la onda suponiendo
+que se propaga en el sentido negativo del eje X y que en el instante inicial la elongación en el
+foco es nula. Calcule la velocidad de un punto de la cuerda situado a 1 m del foco en el instante
+t=3s.
+FISICA. 2017. RESERVA 1. EJERCICIO 3. OPCIÓN A"
+fisica,2017,Ondas,Reserva 2,Ejercicio 3 Opción A,"a) Escriba la ecuación de una onda armónica que se propaga en el sentido negativo del eje X.
+¿Qué se entiende por periodo y por longitud de onda? ¿Qué relación hay entre esas dos
+magnitudes?
+b) Una onda armónica se propaga por una cuerda en el sentido positivo del eje X con una
+velocidad de 10 m-s7'. La frecuencia del foco emisor es 2s”' y la amplitud de la onda es
+0'4m. Escriba la ecuación de la onda considerando que en el instante inicial la elongación en
+el origen es cero. Calcule la velocidad de una partícula de la cuerda situada en x=2m, en el
+instante t=1s.
+FISICA. 2017. RESERVA 2. EJERCICIO 3. OPCIÓN A"
+fisica,2017,Ondas,Reserva 3,Ejercicio 3 Opción A,"a) Considere la siguiente ecuación de las ondas que se propagan en una cuerda:
+y (x,t) = Asen(Bt+Cx)
+¿Qué representan los coeficientes A, B y C? ¿Cuáles son sus unidades en el Sistema
+Internacional? ¿Que indica el signo “ +” que aparece dentro del paréntesis?
+b) Obtenga la ecuación de una onda transversal de periodo 0,2 s que se propaga por una
+cuerda, en el sentido positivo del eje X, con una velocidad de 40 cm-s”'. La velocidad máxima
+de los puntos de la cuerda es 0'57 m-s ""' y, en el instante inicial, la elongación en el origen
+(x=0) es máxima. ¿Cuánto vale la velocidad de un punto situado a 10 cm del origen cuando
+han transcurrido 15 s desde que se generó la onda?
+FISICA. 2017. RESERVA 3. EJERCICIO 3. OPCIÓN A"
+fisica,2017,Ondas,Reserva 4,Ejercicio 3 Opción A,"a) Escriba la ecuación de una onda armónica transversal que se propaga a lo largo del sentido
+positivo del eje X e indique el significado de las magnitudes que aparecen en ella.
+b) En el centro de la superficie de una piscina circular de 10 m de radio se genera una onda
+armónica transversal de 4 cm de amplitud y una frecuencia de 5 Hz que tarda 5 s en llegar al
+borde de la piscina. Escriba la ecuación de la onda y calcule la elongación de un punto situado
+a 6 m del foco emisor al cabo de 12 s.
+FISICA. 2017. RESERVA 4. EJERCICIO 3. OPCIÓN A"
+fisica,2017,Ondas,Reserva 4,Ejercicio 3 Opción B,"a) ¿Qué se entiende por refracción de la luz? Explique qué es el ángulo límite y qué condiciones
+deben cumplirse para que pueda observarse.
+b) El ángulo límite vidrio-agua es de 60”. Un rayo de luz, que se propaga por el vidrio, incide
+sobre la superficie de separación con un ángulo de 45” y se refracta dentro del agua. Determine
+el índice de refracción del vidrio. Calcule el ángulo de refracción en el agua.
+Nasua =1'33
+agua
+FISICA. 2017. RESERVA 4. EJERCICIO 3. OPCIÓN B"
+fisica,2017,Ondas,Septiembre,Ejercicio 3 Opción A,"a) ¿Por qué un objeto situado en el fondo de una piscina llena de agua se observa desde el aire
+aparentemente a menor profundidad de la que en realidad se encuentra? Justifique la
+respuesta con la ayuda de un esquema.
+b) Sobre una de las caras de una lámina de vidrio de caras paralelas y espesor 8 cm, colocada
+horizontalmente en el aire, incide un rayo de luz con un ángulo de 30* respecto de la normal.
+Calcule el tiempo que tarda la luz en atravesar la lámina y el desplazamiento horizontal, con
+respecto a la normal en el punto de incidencia, que experimenta el rayo al emerger por la otra
+cara de la lámina de vidrio.
+c=3-10""m-s';n
+aíre =15 =1'5
+FISICA. 2017. SEPTIEMBRE. EJERCICIO 3. OPCIÓN A"
+fisica,2017,Ondas,Septiembre,Ejercicio 3 Opción B,"a) ¿Qué es una onda electromagnética? Si una onda electromagnética que se propaga por el
+aire penetra en un bloque de metacrilato, justifique qué características de la onda cambian al
+pasar de un medio al otro.
+b) El campo eléctrico de una onda electromagnética que se propaga en un medio es:
+E(x,t) = S0Osen (7 -10% t-1'25x) (SI)
+Calcule su frecuencia y su longitud de onda y determine el índice de refracción del medio.
+e=3-10% m-5!
+FISICA. 2017. SEPTIEMBRE. EJERCICIO 3. OPCIÓN B"
+fisica,2018,Ondas,Junio,Ejercicio 3 Opción A,"a) ¿Qué significa que dos puntos de la dirección de propagación de una onda armónica estén en
+fase o en oposición de fase? ¿Qué distancia les separaría en cada caso?
+b) Una onda armónica de amplitud 0,3 m se propaga hacia la derecha por una cuerda con una
+velocidad de 2ms' y un periodo de 0,125 s. Determine la ecuación de la onda
+correspondiente sabiendo que el punto x=0 m de la cuerda se encuentra a la máxima altura
+para el instante inicial, justificando las respuestas.
+FISICA. 2018. JUNIO. EJERCICIO 3. OPCIÓN A"
+fisica,2018,Ondas,Reserva 1,Ejercicio 3 Opción B,"a) Indique, razonando sus respuestas, qué características deben tener dos ondas que se
+propagan por una cuerda tensa con sus dos extremos fijos para que su superposición origine
+una onda estacionaria.
+b) En una cuerda tensa con sus extremos fijos se ha generado una onda cuya ecuación es:
+T
+y(x,t) = 25en[zx) cos(8nt) (SD
+Determine la amplitud y la velocidad de propagación de dicha onda, así como el periodo y la
+frecuencia de las oscilaciones.
+FISICA. 2018. RESERVA 1. EJERCICIO 3. OPCIÓN B"
+fisica,2018,Ondas,Reserva 2,Ejercicio 3 Opción B,"a) Discuta razonadamente la veracidad de la siguiente afirmación: “Cuando una onda incide en
+la superficie de separación de dos medios, las ondas reflejada y refractada tienen igual
+frecuencia e igual longitud de onda que la onda incidente”.
+b) Una onda electromagnética que se desplaza por un medio viene descrita por la siguiente
+ecuación: y(x,t)=0'Ssen(3-10"" t-175x) (SD)
+Calcule el periodo, la longitud de onda y el índice de refracción del medio por el que se
+propaga, justificando sus respuestas.
+c=3-10* m-s !
+FISICA. 2018. RESERVA 2. EJERCICIO 3. OPCIÓN B"
+fisica,2018,Ondas,Reserva 3,Ejercicio 3 Opción A,"a) Un rayo de luz pasa de un medio a otro, observándose que en el segundo medio el rayo se
+desvía acercándose a la superficie de separación de ambos medios. Razone: (i) En qué medio el
+rayo se propaga con mayor velocidad; (ii) en qué medio tiene menor longitud de onda.
+b) Un rayo de luz de longitud de onda de 5'46-10-7 m se propaga por el aire e incide sobre el
+extremo de una fibra de cuarzo cuyo índice de refracción es 1,5. Determine, justificando las
+respuestas: (i) La longitud de onda del rayo en la fibra de cuarzo; (ii) el ángulo de incidencia a
+partir del cual el rayo no sale al exterior.
+c=3-10*m-s""!
+FISICA. 2018. RESERVA 3. EJERCICIO 3. OPCIÓN A"
+fisica,2018,Ondas,Reserva 3,Ejercicio 3 Opción B,"a) Explique, ayudándose de esquemas en cada caso, la doble periodicidad espacial y temporal
+de las ondas, definiendo las magnitudes que las describen e indicando, si existe, la relación
+entre ellas.
+b) Determine la ecuación de una onda armónica que se propaga en sentido positivo del eje X
+con velocidad de 600 m-s ', frecuencia 200 Hz y amplitud 0,03 m, sabiendo que en el instante
+inicial la elongación del punto x =0 m es y =0 m. Calcule la velocidad de vibración de dicho
+punto en el instante t=0s.
+FISICA. 2018. RESERVA 3. EJERCICIO 3. OPCIÓN B"
+fisica,2018,Ondas,Reserva 4,Ejercicio 3 Opción A,"a) Explique, ayudándose con un esquema, el concepto de ángulo límite. Indique las condiciones
+para que pueda producirse.
+b) Un rayo de luz que se propaga por el aire incide con un ángulo de 20* respecto de la vertical
+sobre un líquido A, cuyo índice de refracción es 1,2, propagándose seguidamente a otro líquido
+B de índice de refracción 1,5. Represente el esquema de rayos correspondiente, determine la
+velocidad de la luz en cada medio y calcule el ángulo que forma dicho rayo con la vertical en el
+líquido B.
+Nuie =1 3 €=3:10"" m:5""!
+FISICA. 2018. RESERVA 4. EJERCICIO 3. OPCIÓN A"
+fisica,2018,Ondas,Reserva 4,Ejercicio 3 Opción B,"a) Defina, ayudándose de los esquemas precisos, los conceptos de onda estacionaria, vientre y
+nodo. b) Una cuerda vibra según la ecuación: y(x,t)=55en([%)x)cos(40nt) (SI). Calcule
+razonadamente: (i) La velocidad de vibración en un punto que dista 1,5 m del origen en el
+instante t=1'25 s ; (ii) la distancia entre dos nodos consecutivo
+FISICA. 2018. RESERVA 4. EJERCICIO 3. OPCIÓN B"
+fisica,2018,Ondas,Septiembre,Ejercicio 3 Opción B,"a) ¿Es lo mismo velocidad de vibración que velocidad de propagación de una onda? Justifique
+su respuesta en base a sus expresiones matemáticas correspondientes.
+b) Dada la onda de ecuación: y(x,t)=4sen (10xt-0'1xx) (SI)
+Determine razonadamente: (i) La velocidad y el sentido de propagación de la onda; (ii) el
+instante en el que un punto que dista 5 cm del origen alcanza su velocidad de máxima vibración
+FISICA. 2018. SEPTIEMBRE. EJERCICIO 3. OPCIÓN B"
+fisica,2019,Ondas,Junio,Ejercicio 3 Opción B,"a) Explique las diferencias entre ondas armónicas y ondas estacionarias. Escriba un ejemplo de
+cada tipo de ondas.
+b) Una onda transversal, que se propaga en sentido negativo del eje OX, tiene una amplitud de
+2 m, una longitud de onda de 12 m y la velocidad de propagación es de 3 m-s-'. Escriba la
+ecuación de dicha onda sabiendo que la perturbación, y(x,t), toma el valor máximo en el
+punto x =0 m, enel instante t=0s.
+FISICA. 2019. JUNIO. EJERCICIO 3. OPCIÓN B"
+fisica,2019,Ondas,Reserva 1,Ejercicio 3 Opción B,"a) Una onda transversal se propaga por una cuerda tensa con una velocidad v, una amplitud
+A, y oscila con una frecuencia f,. Si se aumenta al doble la longitud de onda, manteniendo
+constante la velocidad de propagación, conteste razonadamente en qué proporción cambiarían
+la velocidad máxima y la aceleración máxima de oscilación de las partículas del medio.
+b) Si la ecuación de la onda que se propaga por la cuerda es:
+y(xt)=0'02sen(100xt—40nx) - (SD)
+Calcule la longitud de onda, el periodo y la velocidad de propagación. Determine las ecuaciones
+de la velocidad de vibración y de la aceleración de vibración.
+FISICA. 2019. RESERVA 1. EJERCICIO 3. OPCIÓN B"
+fisica,2019,Ondas,Reserva 2,Ejercicio 3 Opción B,"a) Razone la veracidad o falsedad de las siguientes frases utilizando, si procede, algún ejemplo:
+i) El espectro electromagnético está formado sólo por las ondas electromagnéticas que podemos
+percibir con nuestra vista. ii) Si al iluminar un objeto con luz blanca, lo vemos de color rojo, es
+debido a que el objeto absorbe las tonalidades rojas de la luz.
+b) Un rayo de luz monocromático de frecuencia 6-10'* Hz incide con un ángulo de 35* sobre la
+superficie de separación de dos medios con diferente índice de refracción. Sabiendo que la luz
+viaja por el primer medio a una velocidad de 2'4-10% m-s-' y que la longitud de onda en el
+segundo medio es de 5-1077m: i) Calcule el ángulo de refracción. ii) Determine el ángulo
+límite de incidencia a partir del cual se produciría la reflexión total.
+e=3:10""m-5""!
+FISICA. 2019. RESERVA 2. EJERCICIO 3. OPCIÓN B"
+fisica,2019,Ondas,Reserva 3,Ejercicio 3 Opción B,"a) Explique, con la ayuda de un esquema, en qué consiste el fenómeno de la dispersión de la luz
+blanca a través de un prisma de vidrio. ¿Ocurriría dicho fenómeno si la luz blanca incide
+perpendicularmente sobre una lámina de vidrio de caras plano paralelas? Razone su respuesta.
+b) Sobre una lámina de vidrio de caras plano paralelas de 0,03 m de espesor y situada en el aire
+incide un rayo de luz monocromática con un ángulo de incidencia de 35%. La velocidad de
+propagación del rayo en la lámina de vidrio es de 2-10*m-s-'. (i) Determine el índice de
+refracción de la lámina de vidrio. (ii) Realice un esquema con la trayectoria del rayo y
+determine el ángulo de emergencia. (iii) Determine el tiempo que tarda el rayo en atravesar la
+lámina.
+c=3:10""m-s ! ;n
+aire =1
+FISICA. 2019. RESERVA 3. EJERCICIO 3. OPCIÓN B"
+fisica,2019,Ondas,Reserva 4,Ejercicio 3 Opción A,"a) Explique con la ayuda de un dibujo en qué consiste la reflexión total y las condiciones en que
+se produce.
+b) Perpendicularmente a la cara AB de un prisma de vidrio con índice de refracción 1,5 incide
+desde el aire un rayo de luz de longitud de onda 6-10-7m, como se ilustra en la figura.
+Calcule: (i) La longitud de onda y frecuencia del rayo dentro del prisma.( ii) El valor más
+grande que puede tener el ángulo a para que no se refracte el rayo hacia fuera del prisma por
+la cara AC.
+e=3-10""m-s ""; ,.=1
+FISICA. 2019. RESERVA 4. EJERCICIO 3. OPCIÓN A"
+fisica,2019,Ondas,Reserva 4,Ejercicio 3 Opción B,"a) Explique la doble periodicidad de una onda. Indique las magnitudes que la describe y realice
+esquemas.
+b) Una onda viene dada por la ecuación: y (x,t) =0'4cos [%XJ cos(27t) (SI)
+Indique de qué tipo de onda se trata y calcule su longitud de onda, frecuencia, y la velocidad y
+aceleración de oscilación de un punto situado en x=2 m para t=0'25s.
+FISICA. 2019. RESERVA 4. EJERCICIO 3. OPCIÓN B"
+fisica,2019,Ondas,Septiembre,Ejercicio 3 Opción A,"a) Escriba la ecuación general de una onda estacionaria. Explique el significado físico de cada
+una de las magnitudes que aparecen en dicha ecuación y relaciónelas con los parámetros de las
+ondas que la han originado. ¿Cómo se denominan y cuál es el significado físico en los puntos de
+máxima y mínima amplitud?.
+b) La ecuación de una onda armónica que se propaga en una cuerda es:
+y (x,t) =0'04 sen [8t —5x+ %J (S.L)
+Calcule la amplitud, frecuencia, longitud de onda, velocidad de propagación y velocidad
+máxima de un punto de dicha cuerda. .
+FISICA. 2019. SEPTIEMBRE. EJERCICIO 3. OPCIÓN A"
+fisica,2019,Ondas,Septiembre,Ejercicio 3 Opción B,"a) El índice de refracción de un vidrio es mayor que el del aire. Razone cómo cambian las
+siguientes magnitudes al pasar un haz de luz del aire al vidrio: frecuencia, longitud de onda y
+velocidad de propagación.
+b) Un rayo de luz de longitud de onda en el vacio de 6'5-10-7m incide desde el aire sobre el
+extremo de una fibra óptica, formando un ángulo a con el eje de la fibra (ver figura), siendo el
+índice de refracción de la fibra n, =1'5. La fibra está recubierta de un material de índice de
+refracción n, =1'4. Determine: (i) La longitud de onda de la luz dentro de la fibra. (ii) El valor
+máximo del ángulo a para que se produzca reflexión total interna en el punto P.
+=1
+c=3:10""m-:s"";n
+aire
+FISICA. 2019. SEPTIEMBRE. EJERCICIO 3. OPCIÓN B"
+fisica,2020,Ondas,Junio,Ejercicio 7,"a) ¿Qué significa que una onda armónica viajera tenga doble periodicidad?. Realice las
+gráficas necesarias para representar ambas periodicidades.
+b) Una onda viajera viene dada por la ecuación: y (x,t) = 20cos (10t —50x) (S.I.).
+Calcule: i) Su velocidad de propagación. ii) La ecuación de la velocidad de oscilación y su valor
+máximo. iii) La ecuación de la aceleración y su valor máximo.
+FISICA. 2020. JUNIO. EJERCICIO 7"
+fisica,2020,Ondas,Reserva 1,Ejercicio 7,"a) i) ¿Qué significa que dos puntos de una onda armónica estén en fase?. ii) ¿Y en oposición de
+fase?. Explique ambas cuestiones con la ayuda de un dibujo.
+b) Una onda armónica que se propaga por una cuerda en el sentido negativo del eje OX tiene
+una longitud de onda de 025 m, y en el instante inicial la elongación en el foco es nula. El foco
+emisor vibra con una frecuencia de 50 Hz y una amplitud de 0%05 m. i) Escriba la ecuación de
+la onda explicando el razonamiento seguido para ello. ii) Calcule la ecuación de la velocidad de
+oscilación e indique el valor máximo de dicha velocidad.
+FISICA. 2020. RESERVA 1. EJERCICIO 7"
+fisica,2020,Ondas,Reserva 2,Ejercicio 7,"a) i) Un rayo de luz pasa de un medio a otro con mayor índice de refracción. Compare la
+longitud de onda y la frecuencia de los rayos incidente y refractado. ii) ¿En qué condiciones se
+produce la reflexión total?. Justifique la respuesta.
+b) Un haz de luz de frecuencia f=10'Hz pasa desde un cristal de cuarzo al aire
+produciéndose reflexión y refracción. Sabiendo que el índice de refracción del cuarzo es 146 y
+el ángulo de incidencia con la normal es 20”. i) Realice un esquema de la trayectoria de los
+rayos y determine los ángulos de reflexión y refracción de la luz. ii) Calcule la longitud de onda
+-1
+de la luz en el cuarzo. c=3-10*m-s 5 Nj =1
+FISICA. 2020. RESERVA 2. EJERCICIO 7"
+fisica,2020,Ondas,Reserva 3,Ejercicio 7,"a) i) ¿Cambia la longitud de onda de la luz al pasar de un medio a otro?. ii) La luz azul y
+amarilla del espectro visible, ¿tienen la misma velocidad de propagación en el vacio? ¿y la
+misma frecuencia?. Justifique sus respuestas.
+b) Un rayo luminoso de longitud de onda 6-10-7m, que se propaga en el aire, incide sobre un
+medio transparente con un ángulo de 30* con la normal. Sabiendo que la longitud de onda del
+rayo refractado es 5-10 -7 m, calcule razonadamente: i) La frecuencia del rayo refractado.
+ii) El índice de refracción de dicho medio transparente. iii) El ángulo de refracción. A póyese en
+un esquema.
+e=3-10""m-s ""; ,.=1
+FISICA. 2020. RESERVA 3. EJERCICIO 7"
+fisica,2020,Ondas,Reserva 4,Ejercicio 3,"se produzca reflexión total. ii) Obtenga la expresión del ángulo límite.
+b) Una onda electromagnética de frecuencia 2-10' Hz se propaga en el vacío en el sentido
+negativo del eje OX. El campo eléctrico tiene una amplitud de 2V .m ' y oscila en el eje OY.
+Calcule: i) La longitud de onda y escriba la ecuación de la onda para el campo eléctrico. ii) La
+amplitud del campo magnético y deduzca la dirección de oscilación del mismo.
+e=3-10""'m-s!
+FISICA. 2020. RESERVA 4. EJERCICIO 3"
+fisica,2020,Ondas,Reserva 4,Ejercicio 7,"a) Justifique la veracidad o falsedad de las siguientes afirmaciones: i) La amplitud de una onda
+estacionaria en un vientre es el doble de la amplitud de las ondas armónicas que la producen.
+ii) La distancia entre un nodo y un vientre consecutivo, en una onda estacionaria, es igual a
+media longitud de onda.
+b) La ecuación de una onda estacionaria en una cuerda tensa es:
+y (x,t) = 0'0S cos (27 x) -sen (157t) - (S.I.).
+Calcule razonadamente: i) La amplitud máxima. ii) La velocidad de propagación de las ondas
+armónicas que la producen. iii) La velocidad de oscilación máxima de un punto de la cuerda
+situado en x=0'75 m.
+FISICA. 2020. RESERVA 4. EJERCICIO 7"
+fisica,2020,Ondas,Septiembre,Ejercicio 3,"a) Dos ondas armónicas se propagan por el mismo medio a igual velocidad, con la misma
+amplitud, la misma dirección de propagación y la frecuencia de la primera es el doble que la de
+la segunda. i) Compare la longitud de onda y el periodo de ambas ondas. ii) Escriba la ecuación
+de la segunda onda en función de las magnitudes de la primera.
+b) La ecuación de una onda que se propaga por una cuerda tensa es:
+y (x,t) =5 sen (50xt—207x) - (S.I.)
+Calcule: i) La velocidad de propagación de la onda. ii) La velocidad del punto x=0 de la
+cuerda en el instante t=1s. iii) La diferencia de fase, en un mismo instante, entre dos puntos
+separados 1 m.
+FISICA. 2020. SEPTIEMBRE. EJERCICIO 3"
+fisica,2020,Ondas,Septiembre,Ejercicio 7,"a) Un rayo de luz pasa de un medio a otro donde su longitud de onda es mayor. i) Indique cómo
+varían la frecuencia y la velocidad de propagación. ii) Realice un esquema indicando si el haz
+refractado se aleja o se acerca de la normal.
+b) Un rayo de luz incide sobre la superficie que separa dos medios de índices de refracción
+n, =2'37 y n, desconocido con un ángulo de incidencia de 16* y uno de refracción de 30*.
+i) Haga un esquema del proceso y determine n,. ii) Calcule a partir de que ángulo de
+incidencia no se produce refracción.
+FISICA. 2020. SEPTIEMBRE. EJERCICIO 7"
+fisica,2021,Ondas,Junio,Ejercicio C1,"a) Un rayo de luz monocromática pasa de un medio de índice de refracción n, a otro medio con
 índice de refracción n,, siendo n, <n,. Razone y justifique la veracidad o falsedad de las
 siguientes frases: i) La velocidad de dicho rayo aumenta al pasar del primer medio al segundo.
 ii) La longitud de onda del rayo es mayor en el segundo medio.
@@ -13,7 +369,7 @@ y en el agua. ii) Calcule la velocidad de la luz en el agua.
 8 —1. —1.
 c=3-10 m-s"" ¿Ay =15 Auccito agua
 FISICA. 2021. JUNIO. EJERCICIO C1"
-fisica,2021,Movimiento Ondulatorio,Reserva 1,Ejercicio C2,"a) Razone y justifique la veracidad o falsedad de las siguientes frases: i) Vista desde el aire, la
+fisica,2021,Ondas,Reserva 1,Ejercicio C2,"a) Razone y justifique la veracidad o falsedad de las siguientes frases: i) Vista desde el aire, la
 profundidad real de un recipiente lleno de agua es menor que su profundidad aparente.
 ii) Cuando un haz de luz pasa de una región donde hay agua a otra región donde hay aceite,
 dicho haz viajará con mayor velocidad en la región del aceite.
@@ -28,7 +384,7 @@ velocidad de propagación de la luz dentro de la lámina. ii) Calcule la longitu
 naranja en la lámina.
 Arnaranjacaire) = 6'15:1077 m ; €=3-10""m-s""';n
 FISICA. 2021. RESERVA 1. EJERCICIO C2"
-fisica,2021,Movimiento Ondulatorio,Reserva 2,Ejercicio C1,"a) i) ¿Qué información ofrece la ecuación de una onda armónica si fijamos una posición
+fisica,2021,Ondas,Reserva 2,Ejercicio C1,"a) i) ¿Qué información ofrece la ecuación de una onda armónica si fijamos una posición
 concreta?. Realice una representación gráfica. ii) ¿Y si fijamos una posición y un tiempo
 concretos simultáneamente?.
 b) La siguiente ecuación corresponde a una onda armónica que se desplaza por un medio
@@ -37,7 +393,7 @@ elástico: y(x,t)=0'1sen [5nt — E1tx + %:| (S.L).
 Determine: i) Su periodo, su longitud de onda y su velocidad de propagación. ii) La velocidad
 de oscilación del punto x =2 m en el instante t=1s.
 FISICA. 2021. RESERVA 2. EJERCICIO C1"
-fisica,2021,Movimiento Ondulatorio,Reserva 3,Ejercicio C2,"a) Una onda armónica de amplitud A y frecuencia f se propaga por una cuerda con una
+fisica,2021,Ondas,Reserva 3,Ejercicio C2,"a) Una onda armónica de amplitud A y frecuencia f se propaga por una cuerda con una
 velocidad v. Determine los cambios que se producirían en la longitud de onda y la velocidad
 máxima de oscilación de un punto del medio si, manteniendo constantes el resto de parámetros:
 i) Se reduce a la mitad la frecuencia. ii) Se aumenta su amplitud al doble.
@@ -47,7 +403,7 @@ ecuación teniendo en cuenta que en el instante inicial el punto x=0 m se encuen
 posición más alta de su oscilación. ii) Razone si los puntos x, =0'6 m y x, =0'9 m están en
 fase o en oposición de fase.
 FISICA. 2021. RESERVA 3. EJERCICIO C2"
-fisica,2021,Movimiento Ondulatorio,Reserva 4,Ejercicio C1,"a) i) Explique brevemente qué es una onda electromagnética. ii) Sitúe, en orden creciente de
+fisica,2021,Ondas,Reserva 4,Ejercicio C1,"a) i) Explique brevemente qué es una onda electromagnética. ii) Sitúe, en orden creciente de
 frecuencias, las siguientes regiones del espectro electromagnético: ultravioleta, infrarrojo,
 microondas y luz visible. iii) Justifique razonadamente si dos rayos de diferentes colores del
 espectro visible (por ejemplo, violeta y verde), pueden tener la misma frecuencia.
@@ -59,7 +415,7 @@ rayo en el segundo medio. iii) ¿Cuál es el ángulo de incidencia critico a par
 se reflejaría completamente?. Razone sus respuestas ayudándose de un esquema.
 e=3:10* m:5 ,
 FISICA. 2021. RESERVA 4. EJERCICIO C1"
-fisica,2021,Movimiento Ondulatorio,Reserva 4,Ejercicio C2,"a) Una onda armónica que viaja por un medio pasa a un segundo medio en el que la velocidad
+fisica,2021,Ondas,Reserva 4,Ejercicio C2,"a) Una onda armónica que viaja por un medio pasa a un segundo medio en el que la velocidad
 de propagación es inferior. Suponiendo que la onda pasa completamente al segundo medio, sin
 reflexión ni absorción: i) Razone cómo se modifican la frecuencia y la longitud de onda al
 cambiar de medio. ii) Razone si se verán afectadas la amplitud y la velocidad máxima de
@@ -70,7 +426,7 @@ transversal de 0005 m de amplitud, 2 Hz de frecuencia y con una velocidad de pro
 encuentra en la posición más alta de su oscilación. ii) Calcule la expresión de la velocidad de
 oscilación de un punto del medio y su valor máximo.
 FISICA. 2021. RESERVA 4. EJERCICIO C2"
-fisica,2021,Movimiento Ondulatorio,Julio,Ejercicio C1,"a) i) Justifique que en una onda estacionaria la amplitud varía en cada punto. ii) Realice una
+fisica,2021,Ondas,Julio,Ejercicio C1,"a) i) Justifique que en una onda estacionaria la amplitud varía en cada punto. ii) Realice una
 representación gráfica de una onda estacionaria en función del espacio y explique qué se
 entiende por un nodo en este tipo de ondas.
 b) Una onda estacionaria queda descrita mediante la ecuación:
@@ -79,7 +435,7 @@ Determine razonadamente: i) Amplitud, longitud de onda y velocidad de propagaci�
 ondas armónicas cuya superposición da lugar a esta onda estacionaria. ii) Posición de los
 vientres y amplitud de los mismos.
 FISICA. 2021. JULIO. EJERCICIO C1"
-fisica,2021,Movimiento Ondulatorio,Julio,Ejercicio C2,"a) Razone y justifique la veracidad o falsedad de las siguientes frases: i) Cuando la luz pasa de
+fisica,2021,Ondas,Julio,Ejercicio C2,"a) Razone y justifique la veracidad o falsedad de las siguientes frases: i) Cuando la luz pasa de
 un medio a otro experimenta un aumento de su velocidad si el segundo medio tiene un índice de
 refracción mayor que el primero. ii) La reflexión total de la luz en la superficie de separación
 de dos medios puede producirse cuando el índice de refracción del segundo medio es mayor que
@@ -92,7 +448,7 @@ como en el material. ii) Deduzca cuál de las dos componentes (azul o roja) se p
 rápidamente en el interior de la lámina. iii) Determine las frecuencias de los rayos en el aire.
 material(azul) — 1'47;n =1'44
 FISICA. 2021. JULIO. EJERCICIO C2"
-fisica,2022,Movimiento Ondulatorio,Junio,Ejercicio C1,"a) ¿Qué significa que una onda armónica es doblemente periódica?. Explíquelo apoyándose en
+fisica,2022,Ondas,Junio,Ejercicio C1,"a) ¿Qué significa que una onda armónica es doblemente periódica?. Explíquelo apoyándose en
 las gráficas correspondientes.
 b) Una onda armónica transversal se propaga en sentido negativo del eje OX con una velocidad
 de propagación de 3 m-s !. Si su longitud de onda es de 175 m y su amplitud es de 2 m:
@@ -100,7 +456,7 @@ i) escriba la ecuación de la onda teniendo en cuenta que en el punto x=0 m y en
 t=0s la perturbación es nula y la velocidad de oscilación es positiva. ii) Determine la
 velocidad máxima de oscilación de un punto cualquiera del medio.
 FISICA. 2022. JUNIO. EJERCICIO C1"
-fisica,2022,Movimiento Ondulatorio,Reserva 1,Ejercicio C1,"a) Un rayo de luz monocromática pasa de un medio con índice de refracción n, a otro medio
+fisica,2022,Ondas,Reserva 1,Ejercicio C1,"a) Un rayo de luz monocromática pasa de un medio con índice de refracción n, a otro medio
 con índice n,. Sabiendo que n, >M,, i) compare razonadamente la velocidad de propagación
 del rayo, su longitud de onda y su frecuencia en cada medio. ii) Justifique si existe, o no, la
 posibilidad de que exista reflexión total para un rayo que incide sobre la superficie de
@@ -112,7 +468,7 @@ iii) Calcule la frecuencia y la longitud de onda de cada componente del rayo den
 ae =15 Didrio,rojo — 1'612; D vidrio,azul = 1'671;
 2 =6'563-1077 m 5 A ieany =4'861-1077 m ; e=3-10""m-51
 FISICA. 2022. RESERVA 1. EJERCICIO C1"
-fisica,2022,Movimiento Ondulatorio,Reserva 1,Ejercicio C2,"a) Justifique la veracidad o falsedad de las siguientes afirmaciones acerca de las ondas
+fisica,2022,Ondas,Reserva 1,Ejercicio C2,"a) Justifique la veracidad o falsedad de las siguientes afirmaciones acerca de las ondas
 estacionarias: i) La amplitud de la oscilación para cada punto del medio no depende de su
 posición. ii) La distancia entre dos nodos consecutivos es igual a la longitud de onda.
 b) Una onda viene dada por la expresión:
@@ -120,7 +476,7 @@ y (x,t) = 0'Scos(0'8x)sen(20t) (S.I.)
 Indique qué tipo de onda es y calcule su amplitud, frecuencia y longitud de onda, así como la
 velocidad de oscilación máxima de un punto situado en x=0'2 m.
 FISICA. 2022. RESERVA 1. EJERCICIO C2"
-fisica,2022,Movimiento Ondulatorio,Reserva 2,Ejercicio C2,"a) Explique qué características deben tener dos ondas armónicas para que su superposición
+fisica,2022,Ondas,Reserva 2,Ejercicio C2,"a) Explique qué características deben tener dos ondas armónicas para que su superposición
 origine una onda estacionaria y cómo depende la amplitud de esta última con la posición.
 b) Una onda estacionaria viene dada por la expresión:
 y (x,t) =0'02sen(0'25 7x)cos(107t) (S.I.)
@@ -128,7 +484,7 @@ i) Determine las posiciones de los vientres de la onda estacionaria. ii) Determi
 frecuencia, longitud de onda y velocidad de propagación de las ondas armónicas cuya
 superposición da lugar a la onda estacionaria.
 FISICA. 2022. RESERVA 2. EJERCICIO C2"
-fisica,2022,Movimiento Ondulatorio,Reserva 3,Ejercicio C2,"a) Razone la veracidad de las siguientes afirmaciones: i) Si un rayo de luz pasa de un medio 1a
+fisica,2022,Ondas,Reserva 3,Ejercicio C2,"a) Razone la veracidad de las siguientes afirmaciones: i) Si un rayo de luz pasa de un medio 1a
 un medio 2 tal que 1, <4,, el ángulo de incidencia es mayor que el refractado. ii) Si un rayo de
 luz pasa de un medio 1 a un medio 2 menos refrigente puede ocurrir reflexión total.
 b) El ángulo límite en la refracción agua-aire es 48”6”. i) Calcule el índice de refracción del
@@ -137,7 +493,7 @@ velocidad es % de su velocidad en el agua, para que exista reflexión total. iii
 ángulo límite del apartado anterior.
 Daj =1
 FISICA. 2022. RESERVA 3. EJERCICIO C2"
-fisica,2022,Movimiento Ondulatorio,Reserva 4,Ejercicio C1,"a) Una onda armónica cambia de un medio a otro donde su longitud de onda es el doble a la del
+fisica,2022,Ondas,Reserva 4,Ejercicio C1,"a) Una onda armónica cambia de un medio a otro donde su longitud de onda es el doble a la del
 medio anterior, manteniendo su amplitud constante. Justifique la relación entre: i) las
 velocidades de propagación de la onda en ambos medios y ii) la velocidad máxima de oscilación
 en ambos medios.
@@ -148,7 +504,7 @@ i) Determine los valores de la amplitud, periodo, longitud de onda y velocidad d
 de la onda. ii) Calcule razonadamente, para un determinado instante t, la diferencia de fase
 entre dos puntos separados una distancia de 1 m.
 FISICA. 2022. RESERVA 4. EJERCICIO C1"
-fisica,2022,Movimiento Ondulatorio,Reserva 4,Ejercicio C2,"a) Un rayo de luz monocromática aumenta de velocidad al pasar de un medio a otro distinto.
+fisica,2022,Ondas,Reserva 4,Ejercicio C2,"a) Un rayo de luz monocromática aumenta de velocidad al pasar de un medio a otro distinto.
 i) Justifique cómo afecta ese cambio de medio a la longitud de onda y a la frecuencia del rayo.
 ii) Justifique si el cambio del medio citado puede dar lugar a una reflexión total.
 b) Un haz de luz monocromática con longitud de onda de 6-10-7 m incide desde el aire con un
@@ -157,7 +513,7 @@ agua. Determine razonadamente y con ayuda de un esquema: i) el ángulo de refrac
 vidrio y en el agua; ii) la longitud de onda y la velocidad de dicho rayo en el vidrio y en el agua.
 =1'50; n,,., =1'33
 FISICA. 2022. RESERVA 4. EJERCICIO C2"
-fisica,2022,Movimiento Ondulatorio,Julio,Ejercicio C1,"a) Un rayo de luz monocromática se propaga por el aire e incide formando un ángulo de
+fisica,2022,Ondas,Julio,Ejercicio C1,"a) Un rayo de luz monocromática se propaga por el aire e incide formando un ángulo de
 incidencia 0 sobre una lámina de vidrio de caras planas y paralelas. El rayo atraviesa la
 lámina, se propaga por el vidrio y sale nuevamente al aire. i) Dibuje un esquema de la
 trayectoria que sigue el rayo en el proceso descrito. ii) Analice la velocidad, longitud de onda y
@@ -171,7 +527,7 @@ sus respuestas.
 c=3:10""m-s ! ;n
 aire =1
 FISICA. 2022. JULIO. EJERCICIO C1"
-fisica,2023,Movimiento Ondulatorio,Junio,Ejercicio C2,"a) Un rayo de luz monocromática duplica su velocidad al pasar de un medio a otro. i)
+fisica,2023,Ondas,Junio,Ejercicio C2,"a) Un rayo de luz monocromática duplica su velocidad al pasar de un medio a otro. i)
 Represente la trayectoria de un rayo que incide con un ángulo no nulo respecto a la normal, y
 justifique si puede producirse el fenómeno de la reflexión total. ii) Determine razonadamente la
 relación entre las longitudes de onda de ambos medios.
@@ -182,7 +538,7 @@ en la superficie de separación con el aire con un ángulo de 10* respecto a la 
 esquema con la trayectoria de los rayos y calcule los ángulos de refracción y de reflexión.
 aire =1
 FISICA. 2023. JUNIO. EJERCICIO C2"
-fisica,2023,Movimiento Ondulatorio,Reserva 1,Ejercicio C1,"a) Una onda armónica se propaga por una cuerda tensa. Si duplicamos el periodo sin que varíe
+fisica,2023,Ondas,Reserva 1,Ejercicio C1,"a) Una onda armónica se propaga por una cuerda tensa. Si duplicamos el periodo sin que varíe
 la velocidad de propagación, indique razonadamente cómo se modifican: i) la longitud de onda;
 ii) la frecuencia angular.
 b) La ecuación de una onda armónica transversal en una cuerda tensa viene dada por:
@@ -192,7 +548,7 @@ vibración de un punto cualquiera; ii) la distancia a la que se encuentran dos p
 37
 cuerda si en un instante dado hay entre ellos una diferencia de fase de 2
 FISICA. 2023. RESERVA 1. EJERCICIO C1"
-fisica,2023,Movimiento Ondulatorio,Reserva 1,Ejercicio C2,"a) Un rayo de luz pasa de un medio a otro, observándose que en el segundo medio se desvía
+fisica,2023,Ondas,Reserva 1,Ejercicio C2,"a) Un rayo de luz pasa de un medio a otro, observándose que en el segundo medio se desvía
 alejándose de la normal. Justifique: i) en qué medio se propaga el rayo con mayor velocidad; ii)
 en qué medio tiene menor longitud de onda.
 b) Un rayo de luz está propagándose inicialmente en el interior de un material plástico. Cuando
@@ -203,7 +559,7 @@ longitud de onda del rayo de luz en el interior del plástico sabiendo que su lo
 el aire es de 6'5-10-”m.
 e=3-10""m-s ""; n =1
 FISICA. 2023. RESERVA 1. EJERCICIO C2"
-fisica,2023,Movimiento Ondulatorio,Reserva 2,Ejercicio C1,"a) i) Escriba la ecuación de una onda armónica transversal que se propaga en una cuerda tensa
+fisica,2023,Ondas,Reserva 2,Ejercicio C1,"a) i) Escriba la ecuación de una onda armónica transversal que se propaga en una cuerda tensa
 en el sentido negativo del eje OX y que tiene una fase inicial no nula. Identifique cada una de
 las magnitudes que aparecen en la expresión. ii) Explique la diferencia entre la velocidad de
 propagación y la velocidad de vibración de un punto de la cuerda y escriba sus ecuaciones para
@@ -214,7 +570,7 @@ i) Determine la longitud de onda y la velocidad de propagación de las ondas arm
 superposición da lugar a la onda anterior. ii) Calcule razonadamente la distancia entre dos
 nodos consecutivos y la distancia entre un vientre y un nodo consecutivos.
 FISICA. 2023. RESERVA 2. EJERCICIO C1"
-fisica,2023,Movimiento Ondulatorio,Reserva 2,Ejercicio C2,"a) Un rayo de luz reduce su velocidad a la mitad al pasar de un medio a otro. i) Determine
+fisica,2023,Ondas,Reserva 2,Ejercicio C2,"a) Un rayo de luz reduce su velocidad a la mitad al pasar de un medio a otro. i) Determine
 razonadamente la relación entre los índices de refracción de ambos medios. ii) Represente la
 trayectoria de un rayo que incide con un ángulo no nulo con respecto a la normal, y justifique
 si puede producirse el fenómeno de reflexión total.
@@ -226,21 +582,21 @@ normal, realice un esquema con la trayectoria de los rayos y determine razonadam
 ángulo de incidencia.
 e=3-10""m-s ""; n =1
 FISICA. 2023. RESERVA 2. EJERCICIO C2"
-fisica,2023,Movimiento Ondulatorio,Reserva 3,Ejercicio C2,"a) Indique las características que deben tener dos ondas que se propagan por una cuerda tensa
+fisica,2023,Ondas,Reserva 3,Ejercicio C2,"a) Indique las características que deben tener dos ondas que se propagan por una cuerda tensa
 para que la superposición de ambas origine una onda estacionaria. Escriba las ecuaciones de
 dichas ondas y de la onda estacionaria resultante.
 b) Una cuerda vibra de acuerdo a la ecuación: y(x,t)= 105en(%x)—cos(20nt) (S.I.) Calcule
 razonadamente: i) la longitud de onda y la distancia entre el segundo y el quinto nodo; ii) la
 velocidad de vibración del punto situado en x =4'5 m en el instante t=0'4s.
 FISICA. 2023. RESERVA 3. EJERCICIO C2"
-fisica,2023,Movimiento Ondulatorio,Reserva 4,Ejercicio C1,"a) i) Escriba la ecuación de una onda estacionaria definiendo qué son los nodos y los vientres.
+fisica,2023,Ondas,Reserva 4,Ejercicio C1,"a) i) Escriba la ecuación de una onda estacionaria definiendo qué son los nodos y los vientres.
 ii) Deduzca la posición de los nodos y los vientres en función de la longitud de onda.
 b) Por una cuerda tensa se propaga una onda armónica cuya ecuación es:
 y (x,t) = 3sen(0'Sxt-7x) (S.I.)
 Determine razonadamente: i) la velocidad máxima de vibración de un punto de la cuerda; ii) el
 valor de la aceleración para el punto x=1 m para t=4s.
 FISICA. 2023. RESERVA 4. EJERCICIO C1"
-fisica,2023,Movimiento Ondulatorio,Julio,Ejercicio C1,"a) Un rayo de luz pasa del aire a otro medio con un índice de refracción mayor. Razone cómo
+fisica,2023,Ondas,Julio,Ejercicio C1,"a) Un rayo de luz pasa del aire a otro medio con un índice de refracción mayor. Razone cómo
 cambian el ángulo con la normal, la frecuencia, la longitud de onda y la velocidad de
 propagación.
 b) Un haz de luz con una longitud de onda de 5'5-10-m que se propaga a través del aire
@@ -250,7 +606,7 @@ un esquema con la trayectoria de los rayos y calcule el índice de refracción d
 Determine razonadamente su longitud de onda en el interior del mismo.
 aire =1
 FISICA. 2023. JULIO. EJERCICIO C1"
-fisica,2024,Movimiento Ondulatorio,Junio,Ejercicio C1,"a) Demuestre razonadamente, a partir de la ecuación de onda, cómo varían la velocidad y la
+fisica,2024,Ondas,Junio,Ejercicio C1,"a) Demuestre razonadamente, a partir de la ecuación de onda, cómo varían la velocidad y la
 aceleración máxima de oscilación de una onda armónica en las siguientes situaciones: i) se
 duplica la amplitud sin modificar el periodo; ii) se duplica la frecuencia sin modificar la
 amplitud.
@@ -260,7 +616,7 @@ Calcule razonadamente: i) la frecuencia y la longitud de onda; ii) la velocidad 
 de la onda, especificando su dirección y sentido de propagación; iii) la velocidad máxima de
 oscilación de la onda.
 FISICA. 2024. JUNIO. EJERCICIO C1"
-fisica,2024,Movimiento Ondulatorio,Junio,Ejercicio C2,"a) Un rayo de luz monocromática duplica su longitud de onda al pasar del medio 1 al medio 2.
+fisica,2024,Ondas,Junio,Ejercicio C2,"a) Un rayo de luz monocromática duplica su longitud de onda al pasar del medio 1 al medio 2.
 i) Determine razonadamente la relación entre los índices de refracción de los medios.
 ii) Deduzca si el rayo se acerca o aleja de la normal a la superficie y explique si puede darse la
 reflexión total.
