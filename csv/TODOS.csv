@@ -1,4 +1,4 @@
-subject,year,topic,exam,exercise,statement
+subject,year,topic,exam,exercise_number,statement
 Física,2016,Física cuántica y nuclear,Junio,"Ejercicio 2, Opción B","a) Teoría de Einstein del efecto fotoeléctrico: concepto de fotón.
 b) Un haz de luz provoca efecto fotoeléctrico en un determinado metal. Explique cómo se
 modifica el número de fotoelectrones y su energía cinética máxima si: i) aumenta la intensidad
