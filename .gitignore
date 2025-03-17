@@ -5,4 +5,5 @@ desktop.ini
 pdf_files/
 SELECTIVIDAD/
 boot_credentials.py
+db_credentials.json
 __pycache__/
