@@ -55,10 +55,12 @@ if subject:
                 df_filtered = df_filtered[df_filtered.exercise_type == exercise_type]
         
         
-    #df_filtered = df_filtered.sort_values('year', ascending=False)
+    df_filtered = df_filtered.sort_values('year', ascending=False)
     df_filtered.reset_index(drop = True, inplace= True)
     df_filtered.index = df_filtered.index + 1
-    st.write(df_filtered)        
+    # drop statement column
+    cols = [i for i in df_filtered.columns if i != 'statement']
+    st.write(df_filtered[cols])        
 
 
 else:
