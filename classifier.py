@@ -88,7 +88,13 @@ file = st.file_uploader('Upload an exams file', key='file_uploader')
 
 if file:
     year, subject, topic, exams = get_exams(file)
-    exercise_types = available_types_dict[subject][topic]
+
+    st.markdown("---") # Visual separator
+
     for index, exam in enumerate(exams):
         st.write(exam)
-        st.multiselect(label = 'tipo ejercicio', options = exercise_types, key = f'multiselect_{index}')
+        st.multiselect(
+            label='tipo ejercicio',
+            options=st.session_state.current_exercise_types, # Use the list from session state
+            key=f'multiselect_{index}'
+        )

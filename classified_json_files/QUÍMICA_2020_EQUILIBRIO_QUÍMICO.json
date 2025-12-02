@@ -1,0 +1,101 @@
+[
+    {
+        "subject": "QU\u00cdMICA",
+        "year": 2020,
+        "topic": "EQUILIBRIO QU\u00cdMICO",
+        "exam": "Junio, Ejercicio B2",
+        "type": [
+            "Principio de LeChatelier"
+        ]
+    },
+    {
+        "subject": "QU\u00cdMICA",
+        "year": 2020,
+        "topic": "EQUILIBRIO QU\u00cdMICO",
+        "exam": "Junio, Ejercicio C1",
+        "type": [
+            "Concentraciones",
+            "Kc, Kp"
+        ]
+    },
+    {
+        "subject": "QU\u00cdMICA",
+        "year": 2020,
+        "topic": "EQUILIBRIO QU\u00cdMICO",
+        "exam": "Reserva 1, Ejercicio C1",
+        "type": [
+            "Concentraciones",
+            "Kc, Kp",
+            "c\u00e1lculo de presi\u00f3n"
+        ]
+    },
+    {
+        "subject": "QU\u00cdMICA",
+        "year": 2020,
+        "topic": "EQUILIBRIO QU\u00cdMICO",
+        "exam": "Reserva 2, Ejercicio C1",
+        "type": [
+            "interesante",
+            "c\u00e1lculo de presi\u00f3n",
+            "Kc, Kp"
+        ]
+    },
+    {
+        "subject": "QU\u00cdMICA",
+        "year": 2020,
+        "topic": "EQUILIBRIO QU\u00cdMICO",
+        "exam": "Reserva 3, Ejercicio B2",
+        "type": [
+            "Principio de LeChatelier"
+        ]
+    },
+    {
+        "subject": "QU\u00cdMICA",
+        "year": 2020,
+        "topic": "EQUILIBRIO QU\u00cdMICO",
+        "exam": "Reserva 3, Ejercicio C1",
+        "type": [
+            "Kc, Kp",
+            "c\u00e1lculo de presi\u00f3n"
+        ]
+    },
+    {
+        "subject": "QU\u00cdMICA",
+        "year": 2020,
+        "topic": "EQUILIBRIO QU\u00cdMICO",
+        "exam": "Reserva 4, Ejercicio B2",
+        "type": [
+            "Cin\u00e9tica"
+        ]
+    },
+    {
+        "subject": "QU\u00cdMICA",
+        "year": 2020,
+        "topic": "EQUILIBRIO QU\u00cdMICO",
+        "exam": "Reserva 4, Ejercicio C1",
+        "type": [
+            "Equilibrio heterog\u00e9neo",
+            "c\u00e1lculo de presi\u00f3n"
+        ]
+    },
+    {
+        "subject": "QU\u00cdMICA",
+        "year": 2020,
+        "topic": "EQUILIBRIO QU\u00cdMICO",
+        "exam": "Septiembre , Ejercicio B6",
+        "type": [
+            "Cin\u00e9tica"
+        ]
+    },
+    {
+        "subject": "QU\u00cdMICA",
+        "year": 2020,
+        "topic": "EQUILIBRIO QU\u00cdMICO",
+        "exam": "Septiembre, Ejercicio C1",
+        "type": [
+            "interesante",
+            "Concentraciones",
+            "Kc, Kp"
+        ]
+    }
+]
