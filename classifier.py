@@ -19,9 +19,6 @@ def get_exams(file):
             year = int(line)
 
         elif line in ['QUÍMICA', 'FISICA', 'MATEMÁTICAS']:
-            if line == 'QUÍMICA':
-                subject = 'QUIMICA'
-            else:
                 subject = line
 
         elif line.startswith('TEMA'):
@@ -36,12 +33,15 @@ def get_exams(file):
 
     return year, subject, topic, exams
 
-
-available_types = ['Alfa', 'Principio de LeChatelier',
+available_types_dict = {}
+available_types_dict['QUÍMICA'] = {
+    'EQUILIBRIO QUÍMICO': ['Alfa', 'Principio de LeChatelier',
                    'Concentraciones', 'Cinética',
                    'Equilibrio heterogéneo',
                    'En función de alfa',
-                   'Kc, Kp']
+                   'Kc, Kp',
+                   'interesante']
+    }
 
 st.title('Exercises classifier')
 
@@ -88,6 +88,7 @@ file = st.file_uploader('Upload an exams file', key='file_uploader')
 
 if file:
     year, subject, topic, exams = get_exams(file)
+    exercise_types = available_types_dict[subject][topic]
     for index, exam in enumerate(exams):
         st.write(exam)
-        st.multiselect(label = 'tipo ejercicio', options = available_types, key = f'multiselect_{index}')
+        st.multiselect(label = 'tipo ejercicio', options = exercise_types, key = f'multiselect_{index}')

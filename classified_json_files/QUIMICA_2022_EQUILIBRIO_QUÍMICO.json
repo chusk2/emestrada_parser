@@ -1,0 +1,95 @@
+[
+    {
+        "subject": "QUIMICA",
+        "year": 2022,
+        "topic": "EQUILIBRIO QU\u00cdMICO",
+        "exam": "Junio, Ejercicio B2",
+        "type": [
+            "Cin\u00e9tica"
+        ]
+    },
+    {
+        "subject": "QUIMICA",
+        "year": 2022,
+        "topic": "EQUILIBRIO QU\u00cdMICO",
+        "exam": "Junio, Ejercicio C1",
+        "type": [
+            "Equilibrio heterog\u00e9neo"
+        ]
+    },
+    {
+        "subject": "QUIMICA",
+        "year": 2022,
+        "topic": "EQUILIBRIO QU\u00cdMICO",
+        "exam": "Reserva 1, Ejercicio C1",
+        "type": [
+            "Alfa",
+            "Kc, Kp"
+        ]
+    },
+    {
+        "subject": "QUIMICA",
+        "year": 2022,
+        "topic": "EQUILIBRIO QU\u00cdMICO",
+        "exam": "Reserva 2, Ejercicio B2",
+        "type": [
+            "Principio de LeChatelier"
+        ]
+    },
+    {
+        "subject": "QUIMICA",
+        "year": 2022,
+        "topic": "EQUILIBRIO QU\u00cdMICO",
+        "exam": "Reserva 2, Ejercicio C1",
+        "type": [
+            "interesante",
+            "Kc, Kp"
+        ]
+    },
+    {
+        "subject": "QUIMICA",
+        "year": 2022,
+        "topic": "EQUILIBRIO QU\u00cdMICO",
+        "exam": "Reserva 3, Ejercicio B2",
+        "type": [
+            "Principio de LeChatelier"
+        ]
+    },
+    {
+        "subject": "QUIMICA",
+        "year": 2022,
+        "topic": "EQUILIBRIO QU\u00cdMICO",
+        "exam": "Reserva 3, Ejercicio C1",
+        "type": [
+            "Kc, Kp"
+        ]
+    },
+    {
+        "subject": "QUIMICA",
+        "year": 2022,
+        "topic": "EQUILIBRIO QU\u00cdMICO",
+        "exam": "Reserva 4, Ejercicio B6",
+        "type": [
+            "Cin\u00e9tica"
+        ]
+    },
+    {
+        "subject": "QUIMICA",
+        "year": 2022,
+        "topic": "EQUILIBRIO QU\u00cdMICO",
+        "exam": "Reserva 4, Ejercicio C1",
+        "type": [
+            "Equilibrio heterog\u00e9neo",
+            "Concentraciones"
+        ]
+    },
+    {
+        "subject": "QUIMICA",
+        "year": 2022,
+        "topic": "EQUILIBRIO QU\u00cdMICO",
+        "exam": "Julio, Ejercicio C1",
+        "type": [
+            "En funci\u00f3n de alfa"
+        ]
+    }
+]
