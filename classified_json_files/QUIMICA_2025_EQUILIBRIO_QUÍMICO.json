@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "QUIMICA",
+        "year": 2025,
+        "topic": "EQUILIBRIO QU\u00cdMICO",
+        "exam": "Junio, Ejercicio 2B",
+        "type": [
+            "Cin\u00e9tica"
+        ]
+    },
+    {
+        "subject": "QUIMICA",
+        "year": 2025,
+        "topic": "EQUILIBRIO QU\u00cdMICO",
+        "exam": "Junio, Ejercicio 3A",
+        "type": [
+            "Equilibrio heterog\u00e9neo"
+        ]
+    },
+    {
+        "subject": "QUIMICA",
+        "year": 2025,
+        "topic": "EQUILIBRIO QU\u00cdMICO",
+        "exam": "Reserva 1, Ejercicio 2A",
+        "type": [
+            "Principio de LeChatelier"
+        ]
+    },
+    {
+        "subject": "QUIMICA",
+        "year": 2025,
+        "topic": "EQUILIBRIO QU\u00cdMICO",
+        "exam": "Reserva 2, Ejercicio 2B",
+        "type": [
+            "Cin\u00e9tica"
+        ]
+    },
+    {
+        "subject": "QUIMICA",
+        "year": 2025,
+        "topic": "EQUILIBRIO QU\u00cdMICO",
+        "exam": "Julio, Ejercicio 3A",
+        "type": [
+            "Kc, Kp"
+        ]
+    }
+]
