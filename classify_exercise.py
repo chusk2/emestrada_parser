@@ -1,6 +1,13 @@
 import streamlit as st
 from PyPDF2 import PdfReader
 from pathlib import Path
+import json
+
+SUBJECTS = ['FÍSICA', 'QUÍMICA', 'MATEMÁTICAS II',
+            'MATEMÁTICAS APLICADAS A LAS CIENCIAS SOCIALES']
+
+exercises = []
+
 
 st.title('Classify exercise')
 
@@ -12,19 +19,27 @@ if pdf_file:
     reader = PdfReader(pdf_file)
     first_page = reader.pages[0]
 
-    first_page_text = first_page.extract_text()
+    text = first_page.extract_text()
     exercises = []
-    exams = ['Junio', 'Julio', 'Reserva 1', 'Reserva 2',
-            'Reserva 3', 'Reserva 4', 'Septiembre']
+    
 
-    text = [line for line in first_page_text.split('\n') if line != '']
-    for line in first_page_text.split('\n'):
-        for exam in exams:
-            if exam in line:
-                exercises.append(line.strip(' ')[2:])
-            if line.split():
-                if line.split()[0] in ['FÍSICA', 'QUÍMICA', 'MATEMÁTICAS']:
-                    state.subject = line
+    text = [i.strip() for i in text.split('\n') if i != ' ']
+    
+    
+
+    for line in text:
+        if line in subjects:
+            if line == 'MATEMÁTICAS APLICADAS A LAS CIENCIAS SOCIALES':
+                subject = 'Matemáticas CCSS'
+            else:
+                subject = line.title()
+
+        elif line.startswith('TEMA'):
+            topic = line.split(': ')[1].capitalize() 
+        
+        elif line.startswith('•'):
+            line = line[2:].replace(',', '.')
+            exercises.append(line)
 
     topic_exercise_types = [f'integrales {type}' for type in ['cambio de variable', 'racional', 'por partes'] 
                             ]
