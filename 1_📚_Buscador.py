@@ -1,7 +1,7 @@
 import pandas as pd
 import streamlit as st
 
-df = pd.read_csv('data.csv')
+df = pd.read_csv('./data/data.csv')
 
 st.set_page_config(
     page_title = "Ejercicios de Selectividad",
