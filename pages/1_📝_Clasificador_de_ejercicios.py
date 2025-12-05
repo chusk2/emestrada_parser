@@ -42,11 +42,12 @@ def store_data():
     state['statement_key'] = ""
 
 # load the exercise types dictionary
-with open('exercise_types.json', 'r') as file:
+with open('./data/exercise_types.json', 'r') as file:
     exercise_types_dict = json.load(file)
 
 ## START UI ##
-st.title('Classify exercise')
+
+st.title('Classify exercises')
 
 pdf_file = st.file_uploader('Add pdf file', key = "pdf_form")
 
@@ -67,7 +68,9 @@ if pdf_file:
 
         elif line in SUBJECTS:
             if line == 'MATEMÁTICAS APLICADAS A LAS CIENCIAS SOCIALES':
-                subject = 'Matemáticas CCSS'
+                subject = 'Mates CCSS'
+            elif line == "MATEMÁTICAS II":
+                subject = "Mates II"
             else:
                 subject = line.title()
 
@@ -107,7 +110,7 @@ if pdf_file:
             st.write(classified_df)
 
             # merge the classification dataset to existing data
-            df = pd.read_csv('data.csv')
+            df = pd.read_csv('./data/data.csv')
             df = pd.concat([df, classified_df]).drop_duplicates()
             
         else:

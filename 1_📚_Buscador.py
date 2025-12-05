@@ -3,7 +3,15 @@ import streamlit as st
 
 df = pd.read_csv('data.csv')
 
-st.header('Ejercicios de Selectividad')
+st.set_page_config(
+    page_title = "Ejercicios de Selectividad",
+    page_icon = "📚"
+)
+
+st.title("Buscador de ejercicios")
+
+st.sidebar.success('Select a page above')
+st.header('Lista de ejercicios')
 
 subjects = sorted(df.subject.unique())
 

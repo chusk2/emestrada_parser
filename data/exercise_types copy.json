@@ -1,0 +1,46 @@
+{
+    "Mates CCSS": {
+        "Contraste de Hipótesis": [],
+        "Funciones CCSS": [],
+        "Inferencia Estadística": [],
+        "Matrices y Determinantes": [],
+        "Probabilidad": [],
+        "Programación Lineal": [],
+        "Sistemas de Ecuaciones Lineales": []
+    },
+    "Física": {
+        "Campo eléctrico": [],
+        "Campo magnético": [],
+        "Campo gravitatorio": [],
+        "Física cuántica y nuclear": [],
+        "Momento Angular": [],
+        "Movimiento Ondulatorio": [],
+        "Óptica geométrica": [],
+        "Óptica física": []
+    },
+    "Química": {
+        "Cantidad Química": [],
+        "Configuración Electrónica": [],
+        "Enlace Químico": [],
+        "Equilibrio Químico": ["Cálculo de alfa", "Principio de LeChatelier",
+                   "Concentraciones", "Cinética",
+                   "Equilibrio heterogéneo",
+                   "En función de alfa",
+                   "Kc, Kp",
+                   "interesante"],
+        "Formulación": [],
+        "Reactividad Orgánica": [],
+        "Redox": [],
+        "Solubilidad": [],
+        "Termoquímica": [],
+        "Ácido - Base": []
+    },
+    "Mates II": {
+        "Funciones": [],
+        "Geometría": [],
+        "Integrales": [],
+        "Matrices y Determinantes": [],
+        "Probabilidad": [],
+        "Sistemas de Ecuaciones Lineales": []
+    }
+}
