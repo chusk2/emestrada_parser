@@ -8,4 +8,4 @@ boot_credentials.py
 db_credentials.json
 __pycache__/
 .venv/
-.claude_key
+ANTHROPIC_API_KEY
