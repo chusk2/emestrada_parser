@@ -1,6 +1,6 @@
 ## enlace químico
 
-Como experto en exámenes de Química de Selectividad de la comunidad autónoma de Andalucía (España), quiero que clasifiques los ejercicios (statements) cuyo tema sea "Enlace Químico". Para ello te proporciono los siguientes criterios, en la forma:
+Como experto en exámenes de Química de Selectividad de la comunidad autónoma de Andalucía (España), quiero que clasifiques los ejercicios (statements) cuyo tema sea "enlace_quimico". Para ello te proporciono los siguientes criterios, en la forma:
 
 exercise_type: descripción para la clasificación.
 

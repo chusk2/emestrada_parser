@@ -1,10 +1,8 @@
 En este tipo de ejercicios se pueden encontrar dos temas diferentes: cinética y equilibrio químico.
 
-Como experto en exámenes de Química de Selectividad de la comunidad autónoma de Andalucía (España), quiero que clasifiques los ejercicios (statements) cuyo tema sea "Equilibrio Químico". Para ello te proporciono los siguientes criterios, en la forma:
+Como experto en exámenes de Química de Selectividad de la comunidad autónoma de Andalucía (España), quiero que clasifiques los ejercicios (statements) cuyo tema sea "equilibrio_quimico". Para ello te proporciono los siguientes criterios, en la forma:
 
 exercise_type: descripción para la clasificación.
-
-## cinética
 
 - cálculo de unidades de la constante de velocidad: me piden que calcule las unidades de la constante de velocidad, dando como dato los órdenes parciales de reacción o directamente la ecuación de velocidad.
 - orden total de reacción: dando como dato los órdenes parciales de reacción o directamente la ecuación de velocidad, se pregunta por el orden total de la reacción.
@@ -13,7 +11,7 @@ exercise_type: descripción para la clasificación.
 - comparación de velocidades: se pregunta si la velocidad de generación / consumo de una especie es igual o no a la de otra especie química de la reacción.
 - verdadero o falso: el título de la categoría ya lo dice todo.
 
-## equilibrio químico
+**Si un ejercicio es categorizado con alguno de los tipos anteriores, suministra como valor para "topic" en el archivo csv el texto: "cinetica", en vez de "equilibrio_quimico"**
 
 - principio de LeChatelier: cuestión teórica que pregunta cómo le afectan diferentes perturbaciones al equilibrio (variación de temperatura, de presión o presión parcial / concentración de alguna especie química del equilibrio.)
 - cálculo de las constantes Kc y Kp: aparece con frecuencia en los problemas que suministran una reacción en equilibrio y datos numéricos.

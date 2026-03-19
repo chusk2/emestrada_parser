@@ -2,7 +2,7 @@
 
 Ejercicios de ácido / base
 
-Como experto en exámenes de Química de Selectividad de la comunidad autónoma de Andalucía (España), quiero que clasifiques los ejercicios (statements) cuyo tema sea "Ácido Base". Para ello te proporciono los siguientes criterios, en la forma:
+Como experto en exámenes de Química de Selectividad de la comunidad autónoma de Andalucía (España), quiero que clasifiques los ejercicios (statements) cuyo tema sea "acido_base". Para ello te proporciono los siguientes criterios, en la forma:
 
 exercise_type: descripción para la clasificación.
 

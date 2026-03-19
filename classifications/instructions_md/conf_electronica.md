@@ -2,7 +2,7 @@
 
 Ejercicios de configuración electrónica y números cuánticos
 
-Como experto en exámenes de Química de Selectividad de la comunidad autónoma de Andalucía (España), quiero que clasifiques los ejercicios (statements) cuyo tema sea "Configuración electrónica". Para ello te proporciono los siguientes criterios, en la forma:
+Como experto en exámenes de Química de Selectividad de la comunidad autónoma de Andalucía (España), quiero que clasifiques los ejercicios (statements) cuyo tema sea "conf_electronica". Para ello te proporciono los siguientes criterios, en la forma:
 
 exercise_type: descripción para la clasificación.
 
