@@ -13,4 +13,4 @@ year, subject, topic, exam, exercise, exercise_type.
 Usa separador | para no tener problemas con las comas.
 
 Archivos fuente:
-csv: {csv.read_text()}
+csv: {csv}
