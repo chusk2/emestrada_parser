@@ -10,3 +10,5 @@ __pycache__/
 .venv/
 ANTHROPIC_API_KEY
 .env
+.DS_Store/
+.Rhistory
